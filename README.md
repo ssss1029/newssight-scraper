@@ -1,5 +1,9 @@
 These aren the API scraping scripts to make Newssight work
 
+# Text Extraction
+Text extraction done using boilerpipe.
+See https://www.l3s.de/~kohlschuetter/publications/wsdm187-kohlschuetter.pdf for more information. "Boilerplate Detection using Shallow Text Features" by Christian Kohlschütter, Peter Fankhauser, Wolfgang Nejdl
+
 # Settings
 Most of the required settings are in `settings.py`. However, API Keys are missing. There are two ways to fix this.
  - Add a new file called `setup_environment.py` next to `main`. Fill it with the following contents:

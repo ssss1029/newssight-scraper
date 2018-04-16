@@ -22,7 +22,14 @@ settings = {
 
 	# Newssight endpoints
 	"newssight_/" : "http://127.0.0.1:3000",
-	"source_update_endpoint" : "/api/sources/batchUpdate"
+	"source_update_endpoint" : "/api/sources/batchUpdate",
+
+	# Query Timings.
+	"timings" : {
+		"NEWS_SOURCES" : 60, # Seconds
+		"NEWS_ARTICLES_BATCH" : 120,
+		"NEWS_ARTICLES_INDV_BUFFER" : 5
+	}
 }
 
 def getSettings():
