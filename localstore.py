@@ -28,7 +28,7 @@ def writeArticle(settings, article):
             writer.writerow(article_store_columns)
 
     with open(filepath, 'a') as csvfile:
-        writer = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_ALL)
+        writer = csv.writer(csvfile, delimiter=' ', lineterminator='\n', quotechar='|', quoting=csv.QUOTE_ALL)
         row = []
         for col in article_store_columns:
             if article.get(col, None) == None:
