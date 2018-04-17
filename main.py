@@ -11,6 +11,7 @@ from logger import err_log
 from settings import getSettings
 from news_api_scraper import getSources
 from news_api_scraper import getArticles
+from localstore import writeArticle
 
 settings = getSettings()
 
@@ -43,12 +44,6 @@ while 1:
 		articles = response["articles"]
 
 		for article in articles:
-			log(article)
-			break
-		
-		break
-		# For each article, extract text with boilerpipe, send extracted text to analysis, send everything to app
-
-
+			writeArticle(settings, article)
 
 	time.sleep(5)

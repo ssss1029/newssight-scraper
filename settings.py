@@ -29,7 +29,10 @@ settings = {
 		"NEWS_SOURCES" : 60, # Seconds
 		"NEWS_ARTICLES_BATCH" : 120,
 		"NEWS_ARTICLES_INDV_BUFFER" : 5
-	}
+	},
+
+	# CSV Storage (Temporary)
+	"csv_article_store" : "articles.csv"
 }
 
 def getSettings():
