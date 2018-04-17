@@ -12,6 +12,19 @@ or
 $ git clone --recurse-submodules git@github.com:ssss1029/newssight-scraper.git	
 ```
 
+Create a virtualenv
+```
+$ virtualenv env
+```
+
+```
+$ cd python-boilerpipe
+$ pip install -r requirements.txt
+$ python setup.py install
+```
+
+Make sure `JAVA_HOME` is set properly and Python & Java are both either 32 or 64 bit.
+
 # Text Extraction
 Text extraction done using boilerpipe.
 See https://www.l3s.de/~kohlschuetter/publications/wsdm187-kohlschuetter.pdf for more information. "Boilerplate Detection using Shallow Text Features" by Christian Kohlschütter, Peter Fankhauser, Wolfgang Nejdl

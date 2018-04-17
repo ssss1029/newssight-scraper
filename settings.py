@@ -1,9 +1,6 @@
 ###########################################
 #### Settings used by Newssight Scraper
 ####
-#### Make sure the following environment variables are defined:
-#### - NEWS_API_KEY
-#### - IBM_WATSON_API_KEY
 ###########################################
 
 import sys
@@ -19,10 +16,13 @@ settings = {
 
 	# News API Stuff
 	"source_request_endpoint" : lambda key: "https://newsapi.org/v2/sources?apiKey={0}&languagr=en&country=us".format(key),
+	"top_headlines_from_source_endpoint" : lambda key, source: "https://newsapi.org/v2/top-headlines?sources={1}&apiKey={0}".format(key, source),
 
-	# Newssight endpoints
+	# Newssight endpoints1
 	"newssight_/" : "http://127.0.0.1:3000",
 	"source_update_endpoint" : "/api/sources/batchUpdate",
+	"source_list_endpoint" : "/api/sources/",
+	"article_storage_endpoint" : "",
 
 	# Query Timings.
 	"timings" : {
@@ -33,6 +33,10 @@ settings = {
 }
 
 def getSettings():
+	"""
+	Replaces all the 'None' entries in the settings object
+	with values from either setup_environment.py or OS Environment variables.
+	"""
 	try: 
 		# Try looking in the additional setup_environment script
 		from setup_environment import getEnvironment
