@@ -1,5 +1,17 @@
 These aren the API scraping scripts to make Newssight work
 
+# Building and Running
+```
+$ git clone git@github.com:ssss1029/newssight-scraper.git
+$ cd python-boilerpipe
+$ git submodule init
+$ git submodule update
+```
+or
+```
+$ git clone --recurse-submodules git@github.com:ssss1029/newssight-scraper.git	
+```
+
 # Text Extraction
 Text extraction done using boilerpipe.
 See https://www.l3s.de/~kohlschuetter/publications/wsdm187-kohlschuetter.pdf for more information. "Boilerplate Detection using Shallow Text Features" by Christian Kohlschütter, Peter Fankhauser, Wolfgang Nejdl
