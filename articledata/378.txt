@@ -1,1 +1,0 @@
-['reddit-r-all', '378', 'Imgur', 'This 3D printed bionic arm', 'Imgur', 'https://i.imgur.com/vZt0EqY.gifv', 'https://i.imgur.com/vZt0EqYh.jpg', '2018-04-20T00:00:00Z']

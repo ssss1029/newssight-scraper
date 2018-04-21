@@ -1,33 +1,19 @@
-['espn-cric-info', '164', 'NOVALUE', '19th match (N), Indian Premier League at Bengaluru, Apr 21 2018 | Match Preview | ESPNCricinfo', 'Get a preview of the Royal Challengers Bangalore vs Delhi Daredevils Indian Premier League 2018 cricket match.', 'http://www.espncricinfo.com/series/8048/preview/1136579/royal-challengers-bangalore-vs-delhi-daredevils-19th-match-ipl', 'http://a.espncdn.com/i/cricket/cricinfo/1143624_365x205.jpg', '2018-04-20T16:00:06.2251101Z']
-comment
-Big picture
-Four games into the season, Royal Challengers Bangalore and Delhi Daredevils occupy the bottom two spots on the IPL table. It's not an unfamiliar position for either team. Both are coming off heavy defeats, and both have pressing issues to sort out if they are to make anything of this season.
-Form guide (most recent match first)
-Royal Challengers Bangalore: lost to Mumbai Indians by 46 runs, lost to Rajasthan Royals by 19 runs, beat Kings XI Punjab by four wickets
-Delhi Daredevils: lost to Kolkata Knight Riders by 71 runs, beat Mumbai Indians by seven wickets, lost to Rajasthan Royals by 10 runs (D/L method)
-Bowling has been Daredevils' failing so far: they have been the most expensive Powerplay attack this season, going at 10.75 an over in this phase, and the second-worst team in the middle overs (8.17). RCB have been just as bad: they have the worst economy rate of all IPL teams in the middle overs (8.47) and the death (12.5) this season.
-On the batting front, Daredevils have done okay, barring a disappointing chase against Kolkata Knight Riders, and by and large have their best line-up sorted out. Not so in RCB's case: how else would you explain Virat Kohli playing for net run rate as soon as his team was two down in a big chase against Mumbai Indians ?
-RCB will need to find a way to distribute Quinton de Kock, Kohli and AB de Villiers effectively through their batting order, determine how to make the best of a not-too-convincing second line of Indian batsmen, and figure out who among Brendon McCullum, Corey Anderson, Colin de Grandhomme, Tim Southee and Moeen Ali will most effectively plug whichever hole remains after attending to the first two tasks.
-Saturday's match is the first of four home games in a row for RCB, which gives them an opportunity to play back-to-back games in similar conditions and get some consistency going. The weather, however, might not be their friend: it rained on the eve of the match, and more showers are expected on gameday.
-In the news
-Rain forced both teams to cancel their training sessions on the eve of the match.
-An illness had kept Tim Southee from joining the RCB squad in India, but he has now arrived in Bengaluru.
-Mohammad Shami has gone for 63 runs off 24 short balls so far this IPL, without taking a single wicket
-ESPNcricinfo Ltd
-The likely XIs
-Royal Challengers Bangalore: 1 Quinton de Kock (wk), 2 Virat Kohli (capt), 3 AB de Villiers, 4 Mandeep Singh, 5 Sarfaraz Khan, 6 Corey Anderson/Colin de Grandhomme, 7 Washington Sundar, 8 Chris Woakes, 9 Umesh Yadav, 10 Mohammed Siraj/Kulwant Khejroliya, 11 Yuzvendra Chahal
-Delhi Daredevils: 1 Gautam Gambhir (capt), 2 Jason Roy, 3 Shreyas Iyer, 4 Rishabh Pant (wk), 5 Glenn Maxwell, 6 Vijay Shankar, 7 Chris Morris, 8 Rahul Tewatia, 9 Mohammed Shami, 10 Shahbaz Nadeem, 11 Trent Boult
-Strategy punt
-Jason Roy's vulnerability to legspin is well known (12 dismissals in 22 T20 innings since 2015, while scoring 123 off 112 balls) and it is quite likely RCB will look to exploit it by opening their bowling with Yuzvendra Chahal. With this in mind, Daredevils could perhaps promote Rishabh Pant to partner Roy at the top of the order. In T20s since 2015, Pant has scored 128 off 87 balls against legspin, while only being dismissed three times. This could force a scenario where RCB either hold back Chahal or risk him coming up against Pant.
-Gautam Gambhir, while generally reckoned to be a good player of spin, hasn't been nearly as effective as Pant against legspin in T20s since 2015: 180 off 157 balls, nine dismissals.
-Stats that matter
-Since the 2011 season, RCB have a 10-1 win-loss record against Daredevils
-AB de Villiers loves to bat against Chris Morris. In five T20 meetings, he has scored 50 off 21 balls against his compatriot without being dismissed.
-Glenn Maxwell, on the other hand, has poor T20 records against two key RCB bowlers: 26 off 25 balls with three dismissals against Yuzvendra Chahal, and 17 off 19 balls with three dismissals against Umesh Yadav.
-Rishabh Pant (3.25 balls per boundary) and Maxwell (3.33) have been two of the four most frequent boundary-hitters in IPL 2018, among batsmen who have faced a minimum of 30 balls. The other two in the top four are Andre Russell (2.90) and Dwayne Bravo (3.27).
-Umesh has been phenomenal against left-hand batsmen this season, conceding only 30 runs to them in 31 balls while taking three wickets.
-Fantasy picks
-In his last three innings, Quinton de Kock has scored 45, 26 and 19, showing glimpses of his best form without really being able to translate that into a big score. Perhaps Saturday is the day that happens, when he faces off against his former team.
-Quotes
-"In IPL, it never happens that you get a four-day break in between [matches]. We utilised that to gel together and have brain-storming meetings. Confidence is there because of how we beat Mumbai."
-Delhi Daredevils assistant coach Pravin Amre
+['time', '164', 'Joey Nolfi / EW', "Here's Why Netflix Won't Be Joining the Cannes Film Festival This Year", '', 'http://time.com/5237280/netflix-withdraw-cannes-film-festival/?xid=homepage', 'https://timedotcom.files.wordpress.com/2018/04/gettyimages-473044618.jpg?quality=85', '2018-04-12T02:58:51Z']
+movies
+Here's Why Netflix Won't Be Joining the Cannes Film Festival This Year
+The logo of the festival on the eve of the 68th Cannes Film Festival in Cannes, southeastern France on May 12, 2015.
+Loic VenanceAFP/Getty Images
+By Joey Nolfi / EW
+April 12, 2018
+While filmmakers around the world prepare to make the trek to France for one of the most prestigious events in world cinema, Netflix is grounding itself on domestic soil by digging its heels deeper into steadfast anti-theatrical convictions.
+Following the Cannes Film Festivals announcement last year that it would no longer host films that did not commit to being distributed in French movie theaters among its high-profile competition slate, the streaming giants chief content officer, Ted Sarandos, confirmed to Variety that Netflix will not screen any of its upcoming full-length narratives in competition on the Croisette.
+We want our films to be on fair ground with every other filmmaker, Sarandos told the publication of the move, which was announced last year by Cannes artistic director Thierry Frmaux. Theres a risk in us going in this way and having our films and filmmakers treated disrespectfully at the festival. Theyve set the tone. I dont think it would be good for us to be there.
+When reached for comment, a representative told EW that Netflix will make no additional statements on Sarandos interview.
+French theater exhibitors reportedly took issue with Cannes allowing Netflix projects into the main competition despite the films failing to secure wide theatrical release dates in the region. Still, Cannes allowed both Bong Joon-hos Okja and Noah Baumbachs The Meyerowitz Stories to compete for the Palme dOr at the 2017 edition, but indicated it would exclude streaming-focused movies from the lineup in the future. National law in France mandates that films cant appear on home streaming platforms for 36 months after their initial theatrical release.
+Cannes is aware of the anxiety aroused by the absence of the release in theaters of those films in France. The Festival de Cannes asked Netflix in vain to accept that these two films could reach the audience of French movie theaters and not only its subscribers, a statement from the Cannes board read at the time. The festival regrets that no agreement has been reached.
+Members of the film criticism community have also recently expressed concern over Cannes decision to eliminate press screenings before the festivals star-studded red carpet premieres. Some speculate that the festival is looking to minimize the effect of negative critical reaction to a particular film ahead of a given pictures debut, though Frmaux told Variety the move comes after planning hadnt evolved for 40 years, so it was time to reform. not against critics but IN FAVOR of gala evenings.
+In recent years, Netflix has increased its profile on the cinematic scene, acquiring Dee Rees eventual Oscar nominee Mudbound out of Sundance in 2017 in addition to releasing Angelina Jolies latest directorial effort First They Killed My Father, Abbi Jacobsons 6 Balloons, the Academys reigning best documentary champion Icarus, and the sci-fi franchise spectacle The Cloverfield Paradox over the last 12 months. Netflix has qualified films like First They Killed My Father and Okja for Oscar consideration via small, limited theatrical runs in select cities.
+We hope that they do change the rules. We hope that they modernize. But we will continue to support all films and all filmmakers. We encourage Cannes to rejoin the world cinema community and welcome them back, Sarandos, who further admitted he doesnt think there would be any reason for Netflix to screen films out of competition at Cannes, continued. We are choosing to be about the future of cinema. If Cannes is choosing to be stuck in the history of cinema, thats fine.
+The Cannes Film Festival, which announces its main competitive slate Thursday and runs May 8-19, did not immediately respond to EWs request for comment. Read Varietys full interview with Sarandos here .
+This article originally appeared on EW.com .
+SPONSORED FINANCIAL CONTENT

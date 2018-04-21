@@ -1,38 +1,36 @@
-['abc-news', '3', 'ABC News', 'Missouri Gov. Greitens charged with second felony', 'Greitens has been charged with felony computer tampering related to his alleged use of a donor list from his veterans\xe2\x80\x99 charity for his 2016 gubernatorial campaign.', 'http://abcnews.go.com/Politics/missouri-gov-greitens-charged-felony/story?id=54623307', 'https://s.abcnews.com/images/Politics/Missouri-ap-er-180417_hpMain_2_16x9_992.jpg', '2018-04-20T00:00:00Z']
-Yahoo!-ABC News Network |  2018 ABC News Internet Ventures. All rights reserved.
-Missouri Gov. Greitens charged with second felony
-By Emily Goodin
-Apr 20, 2018, 7:54 PM ET
+['abc-news', '3', 'ABC News', 'Much-needed rain arrives in Southwest hit by drought, fires', 'A disturbance that developed in the high Plains is bringing a mix of rain and snow to parts of Colorado, and heavy rain and strong storms to parts of the central and southern Plains on Saturday. The storms are bringing incredibly beneficial rain to parts of t\xe2\x80\xa6', 'http://abcnews.go.com/US/needed-rain-arrives-drought-fire-stricken-southwest/story?id=54630083', 'https://s.abcnews.com/images/US/oklahoma-burned-ap-mo-20180421_hpMain_16x9_992.jpg', '2018-04-21T00:00:00Z']
+Apr 21, 2018, 6:30 AM ET
 0 Shares
 Star
-Jeff Roberson/AP, FILE
-Missouri Gov. Eric Greitens speaks outside the state Capitol in Jefferson City, Mo., May 23, 2017.
+AP
+Burn marks scar the landscape from a wildfire south of Seiling, Okla, Wednesday, April 18, 2018. Firefighters are expected to see relief with some rain this weekend.
 0 Shares
 Email
-Missouri Gov. Eric Greitens has been charged with felony computer tampering related to his alleged use of a donor list from his veterans charity for his 2016 gubernatorial campaign, according to the state's attorney general.
-Its the second felony charge the Missouri Republican is facing. Greitens also faces a felony charge related to accusations from his former mistress who alleges he bound her hands with tape, put a blindfold on her, took a partially nude photo of her and then threated to release the photo if she mentioned his name, according to a Missouri House committee report.
-That charge is for invasion of privacy for allegedly taking a partially or fully nude photo and "subsequently transmitted the image contained in the photograph in a manner that allowed access to that image via a computer."
-He faces a criminal trial on that charge on May 14.
-Greitens attorneys had made a motion to get those charges dismissed but a judge ruled on Thursday that case can proceed.
-The latest charge alleges Greitens obtained an electronic donor list without permission from The Mission Continues charity he founded and then used that list for political fundraising as he was preparing to run for the governorship.
-Missouri Attorney General
-Missouri Attorney General Josh Hawley speaks at a press conference, April 17, 2018, in Jefferson City, Mo.
-Greitens started the organization in 2007 but left it in 2014, before he ran for governor.
-The governor has denied all the allegations but he did pay a fine to the state ethics commission for not reporting the list as an in-kind contribution on campaign disclosure forms.
-Friday night Greitens put out a statement lashing out at St. Louis Circuit Attorney Kim Gardner.
-"By now, everyone knows what this is: this prosecutor will use any charge she can to smear me. Thank goodness for the Constitution and our court system. In the United States of America, youre innocent until proven guilty," the statement said. "In the United States of America, you get your day in court. And when I have my day in court, I will clear my name. People will know the truth."
-Multiple elected officials in the state, including the GOP leaders in both chambers of the state legislature, have called on Greitens to step down. Additionally both Senate candidates  incumbent Democratic Sen. Clarie McCaskill and her GOP opponent, Attorney General Josh Hawley  have called on Greitens to resign from office.
-Missouri attorney general says Gov. Greitens may have committed felony in relationship with former charity
-The controversy around Greitens, once seen as a rising star in the Republican Party , has consumed Missouri politics.
-On Tuesday, Greitens tweeted that he would not be resigning the governorship and said he will be proven innocent in court.
-I will not be resigning the Governor's office. In three weeks, this matter will go to a court of lawwhere it belongs and where the facts will prove my innocence. Until then, I will do what the people of Missouri sent me here to do: to serve them and work hard on their behalf.
- Eric Greitens (@EricGreitens) April 18, 2018
-Hawleys office announced Tuesday that his office may have found evidence of a felony by Greitens in an investigation involving the veterans charity. He turned it over to St. Louis Circuit Attorney Kim Gardner, who has jurisdiction in the matter. It was her decision to charge Greitens.
-Hawley said in a statement on Friday that his office is ready to assist as needed.
-St. Louis Circuit Attorney Kim Gardner reviewed the evidence turned over to her by my office and determined that there is probable cause to file criminal charges against the Governor. The Office stands ready to assist the Circuit Attorneys Office where appropriate and if needed. These are serious chargesand an important reminder that no one is above the law in Missouri. Like all criminal defendants, Governor Greitens is presumed innocent under the law until proven guilty, he said.
-The governor is fighting for his political life.
-But a Missouri state house committee released a bombshell investigative report last week detailing an alleged nonconsensual sexual encounter with his former hairdresser.
-Greitens has admitted to the affair but said it was consensual. He claims he is the victim of a witch hunt.
-That bipartisan investigative committee  comprised of five Republicans and two Democrats  is expected to release a second report next week focused on the charity.
-Statehouse officials have also said they could hold a special session after the regular legislative session ends in May to focus on the impeachment of the governor.
+A disturbance that developed in the high Plains is bringing a mix of rain and snow to parts of Colorado, and heavy rain and strong storms to parts of the central and southern Plains on Saturday. The storms are also bringing beneficial rain to parts of the drought-stricken Southwest.
+Interested in Weather?
+Add Weather as an interest to stay up to date on the latest Weather news, video, and analysis from ABC News.
+Weather
+Add Interest
+Earlier this week there were several large wildfires burning across parts of the southwest U.S. -- including large wildfires near Amarillo, Texas; Woodward, Oklahoma; and Pueblo, Colorado. Parts of this region -- stretching from Arizona to Kansas -- have developed extreme to exceptional drought and have seen less than 50 percent of its average precipitation in the last six months. Some places are at totals lower than 10 percent of the average precipitation in the last six months.
+ABC News
+A storm is bringing rain to the Great Plains on Saturday morning.
+Amarillo received 0.42 inches of rain on Friday, the most since early October. However, Amarillo is still nearly 3 inches below its year-to-day average for rainfall. Dodge City, Kansas, which is still nearly 4 inches below its year-to-date average, received 0.36 inches of rain on Friday.
+Unfortunately, none of this beneficial rain made it into Arizona and New Mexico -- regions that also desperately need precipitation.
+The system will bring rain to much of the central and southern Plains on Saturday morning. Later in the day, the rain will expand south and east. A couple of lines of strong storms will develop in parts of eastern Texas late Saturday into Sunday. The severe risk should remain isolated, but strong winds and large hail remain a possibility.
+ABC News
+Areas of the Southwest will receive much-needed rain on Saturday before it moves into the South overnight Sunday.
+On Sunday, the system will move into the Deep South and bring widespread rain and thunderstorms across the Tennessee Valley, Gulf Coast and into Florida. A couple of strong thunderstorms will be possible, but the threat of severe storms should remain isolated. Damaging winds and large hail remain the isolated threat with these stronger thunderstorms.
+The system is moving slowly toward the Southeast and it will drop a large amount of rain across the region from Missouri to Florida. Locally, 3 to 4 inches of rain is likely through Monday. While widespread flooding is not anticipated, though locally strong thunderstorms could cause pockets of flooding.
+ABC News
+Rainfall totals through Monday are expected to be heaviest in the Tennessee River Valley.
+Seasonable weather for Midwest, Northeast
+Another seasonably cool morning is expected across parts of the Northeast on Saturday. Some frost advisories and freeze warnings have been issued for parts of the Appalachians and mid-Atlantic. The growing season has begun in this region and the cold can be a problem for sensitive plants.
+While it will be a cool morning across this region, the big story will be the temperature recovery Saturday afternoon and for the next few days. Temperatures will warm up to near seasonable levels today across the Northeast. With temperatures near or at 60 degrees and sunny skies, it will be a pretty nice April weekend for much of the region.
+ABC News
+Temperatures are expected to warm up to seasonable levels on Saturday afternoon across the Northeast.
+Last weekend, there was a major storm impacting much of the country, including a major blizzard and massive temperature drops.
+For much of the country it is trending a little closer to spring-like than we've seen in the last several weeks. Parts of the Midwest -- including Minnesota, Iowa and Wisconsin -- saw an historic blizzard just one week ago. This weekend they are trending toward the 60s, which is seasonable or even slightly above usual for the region.
+In New York City and Washington, D.C ., several days of nearly seasonable temperatures are ahead. This is quite different from temperatures in the 80s late last week and the 30- to 50-degree temperature drops that followed.
+ABC News
+Temperatures will hover around 60 degrees for much of the Midwest and Northeast through the weekend and into early next week.
 0 Shares

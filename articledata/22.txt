@@ -1,22 +1,17 @@
-['ars-technica', '22', 'Dan Goodin', '\xe2\x80\x9cDrupalgeddon2\xe2\x80\x9d touches off arms race to mass-exploit powerful Web servers', 'Bug patched in March is still being exploited to take full control of servers.', 'https://arstechnica.com/information-technology/2018/04/drupalgeddon2-touches-off-arms-race-to-mass-exploit-powerful-web-servers/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/servers-760x380.jpg', '2018-04-20T19:41:10+00:00']
-Sign up or login to join the discussions!
-Stay logged in
-Sign up to comment and more Sign up
-THE END IS NIGH 
-Drupalgeddon2 touches off arms race to mass-exploit powerful Web servers
-Bug patched in March is still being exploited to take full control of servers.
-reader comments 46
-Share this story
-Attackers are mass-exploiting a recently fixed vulnerability in the Drupal content management system that allows them to take complete control of powerful website servers, researchers from multiple security companies are warning.
-At least three different attack groups are exploiting "Drupalgeddon2," the name given to an extremely critical vulnerability Drupal maintainers patched in late March , researchers with Netlab 360 said Friday. Formally indexed as CVE- 2018-7600, Drupalgeddon2 makes it easy for anyone on the Internet to take complete control of vulnerable servers simply by accessing a URL and injecting publicly available exploit code. Exploits allow attackers to run code of their choice without having to have an account of any type on a vulnerable website. The remote-code vulnerability harkens back to a 2014 Drupal vulnerability that also made it easy to commandeer vulnerable servers.
-Drupalgeddon2 "is under active attack, and every Drupal site behind our network is being probed constantly from multiple IP addresses," Daniel Cid, CTO and founder of security firm Sucuri, told Ars. "Anyone that has not patched is hacked already at this point. Since the first public exploit was released, we are seeing this arms race between the criminals as they all try to hack as many sites as they can."
-China-based Netlab 360, meanwhile, said at least three competing attack groups are exploiting the vulnerability. The most active group, Netlab 360 researchers said in a blog post published Friday , is using it to install multiple malicious payloads, including cryptocurrency miners and software for performing distributed denial-of-service attacks on other domains. The group, dubbed Muhstik after a keyword that pops up in its code, relies on 11 separate command-and-control domains and IP addresses, presumably for redundancy in the event one gets taken down.
-Added punch
-Netlab 360 said that the IP addresses that deliver the malicious payloads are widely dispersed and mostly run Drupal, an indication of worm-like behavior that causes infected sites to attack vulnerable sites that have not yet been compromised. Worms are among the most powerful types of malware because their self-propagation gives them viral qualities.
-Adding extra punch, Muhstik is exploiting previously patched vulnerabilities in other server applications in the event administrators have yet to install the fixes. Webdav, WebLogic, Webuzo, and WordPress are some of the other applications that the group is targeting.
-Further Reading
-10,000 Linux servers hit by malware serving tsunami of spam and exploits
-Muhstik has ties to Tsunami, a strain of malware that has been active since 2011 and infected more than 10,000 Unix and Linux servers in 2014 . Muhstik has adopted some of the infection techniques seen in recent Internet-of-things botnets. Propagation methods include scanning for vulnerable server apps and probing servers for weak secure-shell, or SSH, passwords.
-The mass exploitation of Drupal servers harkens back to the epidemic of unpatched Windows servers a decade ago, which gave criminal hackers a toehold in millions of PCs. The attackers would then use their widely distributed perches to launch new intrusions. Because website servers typically have much more bandwidth and computing power than PCs, the new rash of server compromises poses a potentially much greater threat to the Internet.
-Drupal maintainers have patched the critical vulnerability in both the 7.x and 8.x version families as well as the 6.x family, which maintainers stopped supporting in 2016. Administrators who have yet to install the patch should assume their systems are compromised and take immediate action to disinfect them.
-Dan Goodin Dan is the Security Editor at Ars Technica, which he joined in 2012 after working for The Register, the Associated Press, Bloomberg News, and other publications.
+['bleacher-report', '22', 'Mike Chiari', "Rob Gronkowski: Patriots Fans Will See 'Freak-A-Leak' When I 'Maybe' Return", 'New England Patriots tight end Rob Gronkowski addressed the media at Gillette Stadium in Foxborough, Massachusetts, on Saturday, and while he largely avoided questions regarding his playing status, he did offer some hints...', 'http://bleacherreport.com/articles/2771760-rob-gronkowski-patriots-fans-will-see-freak-a-leak-when-i-maybe-return', 'https://img.bleacherreport.net/img/images/photos/003/737/174/hi-res-25ef71f913fedc545c961c8a2445607f_crop_exact.jpg?w=1200&h=1200&q=75', '2018-04-21T16:39:15Z']
+Comment Bubble Icon
+Chris O'Meara/Associated Press
+New England Patriots tight end Rob Gronkowski addressed the media at Gillette Stadium in Foxborough, Massachusetts, on Saturday, and while he largely avoided questions regarding his playing status, he did offer some hints.
+According to NESN's Doug Kyed , Gronk said fans will see a "freak-a-leak" when he comes back. Then, in response to a follow-up question about whether he'll play in 2018, Gronkowski said, "Maybe."
+Gronk has yet to commit to playing, and he hasn't attended the start of the Pats' offseason program. He has two years remaining on the six-year, $54 million contract extension he signed in June 2012.
+As seen in the following photo courtesy of The Athletic's Jeff Howe, Gronkowski wore motocross gear at the press conference and promoted Monster energy drinks:
+Jeff Howe @jeffphowe
+Gronk at Gillette https://t.co/A1iVH0wZqT
+A reporter asked Gronk when he would replace his motocross helmet with a Patriots helmet, and, according to Kyed , he responded, "When it comes down to time."
+The four-time All-Pro was also asked if he would attend New England's voluntary workouts, per Kyed , to which he said, "No, I've got riding skills to work on."
+After the Patriots' Super Bowl LII loss to the Philadelphia Eagles , Gronkowski said he would take the offseason to think about his playing future.
+Though he hasn't yet said anything publicly about what he'll do in 2018, NFL Network's Ian Rapoport (via NFL.com's Jeremy Bergman ) reported in February that he was expected to continue playing.
+The 28-year-old Gronkowski is a five-time Pro Bowler and two-time Super Bowl champion.
+After missing eight regular-season games in 2016, Gronk bounced back last season with 69 receptions for 1,084 yards and eight touchdowns.
+In just eight NFL campaigns, Gronk ranks third in team history in receiving yards (7,179) and first in touchdown catches (76).
+Facebook Logo

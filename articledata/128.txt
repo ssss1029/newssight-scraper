@@ -1,31 +1,20 @@
-['cnn', '128', 'Tal Kopan, CNN', 'Snapshots from the US-Mexico border', 'CNN went with Department of Homeland Security Secretary Kirstjen Nielsen as she traveled to the US-Mexico border on Wednesday.', 'http://us.cnn.com/2018/04/19/politics/secretary-nielsen-dhs-border-fence-wall-immigration/index.html', 'https://cdn.cnn.com/cnnnext/dam/assets/180419122308-03-arizona-border-trip-super-tease.jpg', '2018-04-19T22:55:51Z']
-By Tal Kopan , CNN
-Updated 6:55 PM ET, Thu April 19, 2018
-Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
-(CNN)
-CNN went with Department of Homeland Security Secretary Kirstjen Nielsen as she traveled to the US-Mexico border on Wednesday.
-Amid a pitched battle in Congress over funding for President Donald Trump's long-promised border wall and a National Guard deployment to what the secretary calls a "crisis" at the Southern border, the trip took DHS and CNN directly to ground zero in the debate.
-Nielsen visited the construction site of replacement fencing in Calexico, California, and the existing fencing system at the San Luis Port of Entry in Yuma County, Arizona, taking a helicopter ride in between that followed existing border structures along the way.
-Here are some scenes from the trip.
-Calexico, California
-Read More
-Thirty-foot steel bollard fencing goes up in Calexico, California. The replacement project was authorized in 2017 government funding by Congress, and it takes the place of fencing that pales in comparison with the new structure.
-Construction began in late February and will cover 2.25 miles of the border.
-Congress has been more inclined to authorize replacement projects and existing fence designs than anything that can be construed as Trump's "wall." Nevertheless, the administration has touted this project as new wall.
-"The 30-foot-high bollard-style wall is a massive upgrade, and exactly what the men and women of the Border Patrol have requested. It's not mere replacement, for dilapidated, ineffective low wall and vehicle barriers: It's a new wall and part of a wall system," Nielsen said later in the day.
-Nielsen's visit to the construction was brief and interrupted by protesters. Taking advantage of the gap in the fence left by the construction, demonstrators on the Mexican side of the border approached and stood in the opening, holding bright yellow signs and chanting in Spanish. One large sign read, "Trump no al muro," which translates to "Trump no to the wall."
-Shortly after the protesters arrived, the secretary and her staff departed for their next stop.
-US-Mexico border
-Along the helicopter ride, multiple kinds of border fencing were visible along the US-Mexico border in California and in Arizona. In a stretch of desert with sand dunes, DHS has constructed a "floating fence," which sits on top of the sand and can shift with the wind and changes in the dunes to block illegal border crossings.
-In other stretches, traditional steel fencing or low vehicle barriers were used.
-Related: Nielsen says SCOTUS ruling on deportation 'undermines' DHS efforts to safeguard US
-Yuma, Arizona
-Close to Yuma, Arizona, and the San Luis Port of Entry, the fencing system consists of multiple barriers. With the Mexican side of the border heavily developed, the multiple fences create a stretch of land in the middle where surveillance cameras and agents can spot illegal activity more clearly and have more time to intercept people.
-The Mexican side of the border is pictured at the top of the frame, and Arizona on the bottom.
-Related: What the US-Mexico border looks like before Trump's wall
-No man's land
-The no man's land between the fences stretches for miles. On the Mexican side, to the right of the image, is fencing made of repurposed Vietnam-era helicopter landing mat material, topped with wire in some places. On the US side, to the left of the image, taller see-through fencing blocks the way, with an additional lower metal fence topped with barbed wire on the other side.
-The sand in the middle is smoothed by agents dragging tires behind their vehicles, in part so they can spot any disturbances in it from footprints or traffic.
-At this stretch of the border, agents say, the vast majority of crossings they see are by migrants who stop once they reach the center of the fencing system, waiting for agents to find them so they can pursue claims of asylum protections in the US.
-Much of what the agents do can involve emergency medical care. In some places, smugglers have built roads, ramps and other infrastructure on the Mexican side to allow people to easily get over the first fence, after which they can drop upward of 10 to 15 feet onto the US side, breaking bones or hurting themselves on the wire.
-Standing between the fences, Nielsen held a press availability with Republican Arizona Gov. Doug Ducey. Afterward, she greeted and thanked the local officials and deployed National Guardsmen who had stood behind them for the event.
+['the-huffington-post', '128', 'Zach Carter', "What You Should Know About Trump's Nihilist Budget", "He just doesn't care.", 'http://www.huffingtonpost.com/entry/trump-budget-fine-print_us_5a820d8ae4b01467fcf06af8?ncid=inblnkushpmg00000009', 'http://img.huffingtonpost.com/asset/5a820de71e000037007ab7a4.jpeg?ops=1200_630', '2018-02-12T23:22:15Z']
+Tap here to turn on desktop notifications to get the news sent straight to you.
+EDITION
+02/12/2018 06:22 pm ET Updated Feb 15, 2018
+What You Should Know About Trump's Nihilist Budget
+He just doesn't care.
+By Zach Carter, Arthur Delaney, and Igor Bobic
+2.6k
+67
+The budget document President Donald Trump released on Monday doesnt really matter. It will have no effect on government spending or tax levels. It will not build bridges or defund public housing programs. Congress controls federal spending, not the president, and for the past several years lawmakers have jettisoned the formal budget process in favor of a series of backroom deals.
+The presidents budget has thus become an elaborate Washington ritual in which an administration expresses its values and priorities in the technocratic jargon of modern bureaucracy. Its an administrations way of telling the public how it would govern if it didnt have to work with Congress, and of demonstrating how much it cares about these proposals by working out in fine detail how much it all would cost.
+Trumps budget shows he doesnt care very much about anything. The signature proposal, hyped ahead of the release as a $1.5 trillion program to rebuild Americas infrastructure, turns out to include just $200 billion in new spending offset by $240 billion in cuts to existing infrastructure programs, including the Highway Trust Fund, Amtrak and the Army Corps of Engineers civil works initiatives.
+The infrastructure plan is a good example of how Trumps supposedly populist campaign has not translated into populist governance. Trumps budget director, Mick Mulvaney, is a former member of the conservative House Freedom Caucus, which rabidly opposes spending on the social safety net.
+As a nation, we face difficult times  challenged by a crumbling infrastructure, growing deficits, rogue nations, and irresponsible Washington spending, Mulvaney said in a statement on Sunday  even though the budget doesnt close deficits or un-crumble infrastructure.
+Another budget bullet point  seemingly making good on Trumps campaign promise to end the opioid crisis ravaging America  comes to just $1 billion a year, a pathetically low number for a national public health crisis. Trumps boost to opioid spending accounts for less than 1.5 percent of the Department of Health and Human Services budget, which Trump would also slash by about 20 percent from last years level.By contrast, total defense spending would increase by about 25 percent over the course of the next decade.Thats real money, but it doesnt tell us anything important about American military objectives in places like Afghanistan, Yemen or Niger.
+Public education advocates are understandably angered by Trumps call to cut overall federal education funding by $7.1 billion, while spending $1.1 billion on vouchers that families can use to pay for private school. But even this is a half-hearted measure. Trump has said he wants to spend $20 billion a year on the vouchers.
+One area where the Trump administration showed some enthusiasm for policy innovation is in cracking down on food stamp recipients and their supposedly lavish and unhealthy diets. The budget would cut the Supplemental Nutrition Assistance Program the official program name for food stamps  by about 25 percent, replacing a portion of beneficiaries monthly stipend with canned goods and other healthy food chosen by the government . The idea is almost unheard-of on Capitol Hill and has little chance of being taken seriously by the committee that oversees the program.
+Trump would also eliminate all funding for public housing repairs  a move that reflects general meanness about the lives of the poor, but only costs about $2 billion  and eliminate $1 billion in Section 8 vouchers to help poor families pay rent.
+About 40 million Americans live in poverty each year, according to U.S. census data , including about 3.2 million who live on less than $1.90 a day, every day, according to The World Bank.
+Taken together, Trumps budget reflects a strange bureaucratic nihilism. His budget proposal doesnt balance  not next year, or even over the traditional 10-year window, which would have allowed Trump to gimmick up the final years with spending cuts and various administrative fees that he had no intention of actually following through on. Hes accepting $900 billion-plus deficits every year until 2023, and substantial deficits through 2028. Its not like hes holding back from a big idea because hes worried about the price tag. He just doesnt care.

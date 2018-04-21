@@ -52,6 +52,3 @@ def writeArticle(settings, article):
                 row.append("NOVALUE")
         row = [unicode(s).encode("utf-8") for s in row]
         writer.writerow(row)
-
-def storeText(settings, article, text):
-    pass

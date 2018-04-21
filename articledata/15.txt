@@ -1,37 +1,30 @@
-['al-jazeera-english', '15', 'Muhammad Idrees Ahmad', 'Syria in 2018 is not Iraq in 2003', "Why using the 'they lied about Iraq's WMDs' argument doesn't work in Syria.", 'http://www.aljazeera.com/indepth/opinion/syria-2018-iraq-2003-180419144317070.html', 'https://www.aljazeera.com/mritems/Images/2018/4/19/97e2f29394a84c7ab11774de2c2a3c78_18.jpg', '2018-04-20T08:16:00Z']
-Syria in 2018 is not Iraq in 2003
-Why using the 'they lied about Iraq's WMDs' argument doesn't work in Syria.
-by Muhammad Idrees Ahmad
-20 Apr 2018 08:15 GMT
-Children, affected by a gas attack, breathe through oxygen masks in the Damascus suburb of Saqba on August 21, 2013 [Reuters/Bassam Khabieh]
-Last Saturday, when the United States , the UK and France launched strikes on three chemical facilities in Syria , the move was met with disapproval in some quarters. The pre-announced spectacle blew up three buildings and took no lives, but some pronounced it a "dangerous escalation". Some spoke of its "illegality". All complained about its disregard for the OPCW investigation .
-The action, which lasted less than an hour, was an escalation only if everything that preceded it was normal. By this reckoning, Syria has now returned to its status quo of genocide by the Assad regime.
-The action was illegal only if by legality we mean approval by the UN Security Council. But the Security Council is not a neutral adjudicating authority like a court. Its decisions are constrained by the interests of its permanent members. To say an action is "legal", in this case, would be to say: "Vladimir Putin approved".
-What then of the Organisation for the Prohibition of Chemical Weapons (OPCW) investigation?
-This depends on what answer is being sought. Because the OPCW's remit does not include apportioning blame. Untrammelled access for the OPCW would have merely proved what was already known: that a chemical attack took place. It would not have resolved the manufactured controversy over who was responsible (manufactured, because there is only one party in Syria with the means, intention and history of deploying chemical weapons by air).
-But had the OPCW confirmed Syrian leader Bashar al-Assad's responsibility, what consequences should have followed?
-Last year, after the Khan Sheikhoun chemical attack, the UN did respond to the calls for an investigation by creating the UN-OPCW Joint Investigation Mechanism (JIM) with the authority to identify perpetrators. But once the JIM concluded that al-Assad was responsible for the attack, Russia revoked its authority. And the fact that the UN confirmed the regime's responsibility for the attack didn't provoke any calls for accountability from the crowd currently insisting on the sanctity of the legal process.
-All calls for "more investigation" sputter into platitudes about a "negotiated settlement" or "UN authorised action" (which, is another way of saying "never", since Putin is unlikely to grant western powers the authority to act against his interests).
-{articleGUID}
-Fetishising a dubious legal process thus becomes a temporising measure that grants the perpetrators of mass crime impunity against the palpable illegality of using chemical weapons. That the case is not made in good faith is obvious from the analogy that often accompanies it.
-Should we be trusting the same governments and agencies that lied to us about Iraq's weapons of mass destruction (WMDs)?
-Is Syria like Iraq?
-Considering the ubiquity of the Iraq analogy, it would seem that the old cliche that generals are always fighting the last war also applies to their critics. Syria is Iraq only if facile juxtapositions replace substantive comparisons. Beyond the fact that both countries have been led by Baathist regimes that brought immense misery upon their people, there is no concrete detail in which Syria and Iraq are similar. 
-In 2003, Iraq was invaded even though there was no imminent humanitarian catastrophe demanding action; in Syria, the regime has been on a rampage since 2011, yet only on two occasions has it been subjected to limited and rather ineffective military strikes on "humanitarian grounds".
-Where in Iraq, the US and Britain had used false pretexts for action, in Syria real and frequent violations have only twice shaken the west out of inaction. Where in Iraq, the alleged possession of WMDs was deemed sufficient grounds for an invasion, their confirmed use in Syria has only belatedly occasioned a response, largely symbolic, lacking shock or awe.
-The analogy also seems ignorant of the knowns and unknowns in the case against Iraq. In 2003, despite intense US pressure, international bodies like the International Atomic Energy Agency (IAEA), the United Nations Monitoring, Verification and Inspection Commission (UNMOVIC) and OPCW declined to endorse the administration's case against Iraq. In Syria, the regime hasn't denied its possession of chemical weapons and the UN has confirmed their use on at least 34 occasions.
-The 'deep state' argument
-But what of the claim that a "deep state" is trying to mislead us into war, as it did in Iraq?
-In 2002, the CIA resisted administration pressure to provide a defensible rationale for invading Iraq. Then Vice President Dick Cheney had to personally visit the CIA's headquarters in Langley several times to pressure analysts to produce an assessment favourable to the administration's case. But, in spite of the bullying, the "deep state" (including the CIA, Defense Intelligence Agency, the Department of Energy and the State Department) delivered their combined judgment in a caveat-laden National Intelligence Estimatethat would only confirm that if left unchecked, Iraq may develop nuclear weapons in a decade.
-{articleGUID}
-The Bush administration recognised the inadequacy of the assessment and, in the end, had to rely on two ad hoc operations based in the Pentagon to produce its own politicised intelligence, outside the recalcitrant channels of the "deep state". French, German and British intelligence also failed to oblige Bush (leading the UK's then-PM Tony Blair to produce his own politicised "dodgy" dossier).
-In Syria, by contrast, US, British, and French intelligence agencies have been unanimous in delivering confident judgments on the regime's responsibility for the chemical attack. These judgments have been corroborated by Open Source Intelligence (OSINT), journalistic investigations, witness testimonies, human rights organisations, and, of course, the UN Commission of Inquiry on Syria (which confirmed at least 34 instances of the regime's use of chemical weapons even before Douma).
-The case for Iraq never came close to achieving this kind of consensus.
-The Halabja massacre
-There is, however, an Iraq analogy that is relevant to Syria: It is not 2003, but 1988, when, during Saddam Hussein's military campaign in the north, nearly 5,000 civilians were killed in a chemical attack on the Kurdish town of Halabja .
-The attack followed the town's capture by the Iranian army, and Iraq immediately blamed it on Iran as a "false flag" operation. US intelligence, which at the time was allied to the Iraqi regime, amplified the claim. But in an ironic twist, once Hussein fell out of western favour after annexing Kuwait, "anti-imperialists" (including, sadly, the late Edward Said ) felt obliged to use the "false flag" theory to absolve Hussein in their misguided attempt to forestall an intervention.
-Therein lies the lesson: Facile contrarianism is an intellectual dead end that contributes to moral atrophy and reactionary politics. We live in a time of great danger and, due to its scope and consequences, Syria may become the defining conflict of this century.
-We can differ on our views about the best course for achieving peace, but we must not allow our conclusions to determine which facts we acknowledge and which we don't. Let us certainly not distort or bend the truth to satisfy our preconceptions. In these times of universal deceit, it must become a moral duty for all citizens to confront misuses of language and history.
-
-The views expressed in this article are the author's own and do not necessarily reflect Al Jazeera's editorial stance.
-ABOUT THE AUTHOR
+['associated-press', '15', 'SARAH RANKIN', 'Pulitzer honoree is latest to win after leaving journalism', 'RICHMOND, Va. (AP) \xe2\x80\x94 Ryan Kelly won a Pulitzer Prize this week for his photo of a car plowing into protesters at a white nationalist rally in Charlottesville, Virginia - an image he snapped on the final day of his newspaper job before leaving to work at a bre\xe2\x80\xa6', 'https://apnews.com/dc312a7e503f4b7bb61a62013fea852d', 'https://storage.googleapis.com/afs-prod/media/media:0fcff9034a33488899dfac3704ff658b/3000.jpeg', '2018-04-21T18:30:01Z']
+Pulitzer honoree is latest to win after leaving journalism
+By SARAH RANKIN
+https://apnews.com/dc312a7e503f4b7bb61a62013fea852d
+Link copied!
+RICHMOND, Va. (AP)  Ryan Kelly won a Pulitzer Prize this week for his photo of a car plowing into protesters at a white nationalist rally in Charlottesville, Virginia - an image he snapped on the final day of his newspaper job before leaving to work at a brewery.
+The photographer has joined a growing list of journalists who have won the profession's highest honor on their way out the door of a once-thriving newspaper industry now destabilized and seriously weakened by the internet.
+Kelly, 31, said he was burned out and looking for a better quality of life.
+"Bad hours, bad pay, high stress, low job security ... it all just sort of built to me being ready to move on," said Kelly, who now works as digital and social media coordinator at Ardent Craft Ales in Richmond.
+Like Kelly, other Pulitzer winners said deteriorating conditions in the industry drove them out.
+Digital titans Facebook and Google have captured the majority of advertising that once supported local journalism, Craigslist has wreaked havoc on classifieds and free news outlets have proliferated online. Circulation has declined, and newspapers have slashed jobs and reduced benefits.
+Rob Kuznia, a reporter for the Daily Breeze of Torrance, California, made headlines in 2015 for having left the paper by the time he won a Pulitzer for an investigation into widespread corruption in a school district.
+Since then, the reporter who won with him, Rebecca Kimitch, also has departed for a public relations job.
+"I was done. I just didn't have the fight in me anymore," said Kimitch, who had been a journalist for about 15 years.
+Working at a local newspaper meant being asked to do more with less, she said.
+But it also meant having less support, as the number of editors and copy editors - who examine stories closely for style, grammar, clarity and fairness - have diminished. She said she found herself constantly wracked with anxiety about possible errors in her stories.
+"You're just on your own. That level of stress is really overwhelming, and it just takes a toll," she said.
+According to an analysis from the federal Bureau of Labor Statistics, the number of people employed in the newspaper publishing industry fell almost 60 percent between June 1990 and March 2016.
+At the same time, the number of people employed in internet publishing and broadcasting rose from about 30,000 to nearly 198,000.
+Laurie Garrett, a former Newsday reporter who won a Pulitzer for her reporting from what was then Zaire on an Ebola outbreak and has been honored with other top industry awards, echoed Kimitch's concerns about the dwindling ranks in newsrooms.
+"What we've lost through years and years of budget cuts and corporate takeovers and stock market dividend-seeking and so on by the news industry ... we've lost that bench," she said.
+Garrett said that when journalism was at its peak - in the 1980s and '90s, she thinks - the industry was able to hold leaders accountable. Now, some of that has fallen to activist groups like Black Lives Matter or other citizen organizations, and the media has missed important stories, she said.
+"You hear the outcry all the time: Where's the media and why weren't they there?" she said.
+Among the corporate takeovers in the past 10 years was the buyout of MediaNews Group, one of the country's largest newspaper chains that included the flagship Denver Post. A New York hedge fund, Alden Global Capital, acquired the company now operating as Digital First Media, and critics say it has gutted newsrooms while draining off profits.
+The Post ran an editorial earlier this month criticizing its owner, saying, "When newsroom owners view profits as the only goal, quality, reliability and accountability suffer."
+Digital First Media also owns the Daily Breeze, where Kimitch and Kuznia worked.
+Rob Byers, who worked for decades for what's now the Charleston Gazette-Mail including as its executive editor before being essentially laid off by new owners in March, said readership has a crucial role in keeping newspapers afloat.
+"They need to be willing to pay for news," said Byers, who helped oversee reporter Eric Eyre's work on the flood of opioids pouring into West Virginia that won a 2017 Pulitzer Prize.
+Newspapers like the Gazette-Mail play a crucial role in uncovering fraud and abuse in government and industry, he said.
+"I think people underestimate how important (journalism) is to the country and kind of the way of life we have here," he said.

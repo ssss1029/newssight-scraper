@@ -1,29 +1,13 @@
-['ars-technica', '21', 'Sam Machkovech', 'Capcom reminds us why \xe2\x80\x9cgames-as-a-service\xe2\x80\x9d suck, announces end of Puzzle Fighter', 'Will stop working on July 31, giving it eight total months of life.', 'https://arstechnica.com/gaming/2018/04/capcom-reminds-us-why-games-as-a-service-suck-announces-end-of-puzzle-fighter/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/626751353a08b4396d2bceea7b9a90b3-760x380.png', '2018-04-20T20:30:26+00:00']
-Sign up or login to join the discussions!
-Stay logged in
-Sign up to comment and more Sign up
-Sonic boo 
-Capcom reminds us why games-as-a-service suck, announces end of Puzzle Fighter
-Will stop working on July 31, giving it eight total months of life.
-Apr 20, 2018 8:30 pm UTC
-Enlarge / RIP Puzzle Fighter, 2017-2018.
-Capcom
-reader comments 39
-Share this story
-The games-as-a-service graveyard grew one larger this week, as Capcom's Puzzle Fighter reboot received an official "sunset" announcement on Friday. The iOS and Android port of the '90s puzzle series will have its in-game store shut down on Monday, April 23, and its servers will follow suit on July 31meaning the game will have been playable for only eight months after its late-November launch.
-That's because the new, free-to-play Puzzle Fighter includes an always-online requirement so that players can be subjected to the timers and loot-box systems applied to both its single-player and multiplayer modes. Capcom's announcement did not in any way hint to a patch that would let the game work in a wholly offline mode, nor did it hint to any open-sourcing of its content so that dedicated players could, say, prop the game's bones up via DIY servers.
-Friday's announcement also didn't reference the fact that this game's reboot recently received PEGI ratings (Europe's equivalent of the ESRB) for PC and consoles . And the language here doesn't give us much hope for a non-mobile port of the Columns-like, match-gems puzzle update. Instead, the post blames the mobile version's cancellation on Capcom Vancouver "dedicating its focus to our flagship Dead Rising franchise."
-Further Reading
-Nintendos Miitomo shutdown is a wake-up call for its smartphone track record
-Puzzle Fighter is thus destined to join a growing graveyard of games that relied entirely on live-server environmentsand leave their players in the dust when the servers shut down. Puzzle Fighter's plight is admittedly a little easier to appreciate, given that it launched as a free-to-play product in a mobile marketplace where one-time purchases of $5 or $10 are uncommon. Meaning, this situation doesn't feel quite as egregious a shutdown as the retail-priced likes of Evolve and Battleborn .
-Still, in addition to subscribing to the poisonous loot-box economic model with specific-character purchases being time-limitedCapcom's game also went the disgusting route of requiring access to "photos, media, and files" in order to operate (as opposed to siloing that kind of system access for those who didn't want Puzzle Fighter rooting around their files). Honestly, Puzzle Fighter's mobile updates and tweaks seemed mostly designed to drive players to accumulate as many extra characters as possible, as the game added "support characters" to the puzzle battling. With fewer unlocked characters, a player's support strategy options were far more limited, but they mostly worked out to a punishment for those who didn't play by the loot-box and microtransaction rules.
-Further Reading
-Four publishers must change in-game loot boxes to avoid Dutch gambling laws
-The last just-pay-once version of the series, Super Puzzle Fighter II Turbo HD Remix, is currently available on Xbox 360 and PlayStation 3. It's unclear whether Xbox's backwards-compatible drive was stymied specifically because of Capcom's plans to bring the newer Puzzle Fighter to newer consoles; it's also unclear whether that 360 version will ever be patched to operate on Xbox One consoles.
-Latest Ars Video >
-Blizzard answers unsolved mysteries of the Hearthstone universe
-Blizzard's Ben Brode, game director on Hearthstone, sheds some light on the unsolved mysteries of the Hearthstone universe. Any card combos the Hearthstone designers never intended? How does Blizzard decide which characters to take from World of Warcraft? What will happen to the classic set as it continues to lose cards every year? Blizzard answers all these questions, and more!
-Blizzard answers unsolved mysteries of the Hearthstone universe
-Blizzard answers unsolved mysteries of the Hearthstone universe
-Blizzard's Ben Brode, game director on Hearthstone, sheds some light on the unsolved mysteries of the Hearthstone universe. Any card combos the Hearthstone designers never intended? How does Blizzard decide which characters to take from World of Warcraft? What will happen to the classic set as it continues to lose cards every year? Blizzard answers all these questions, and more!
-Sam Machkovech Sam has written about the combined worlds of arts and tech since his first syndicated column launched in 1996. He can regularly be found losing quarters at Add-A-Ball in Seattle, WA.
+['bleacher-report', '21', 'Rob Goldberg', '2018 NFL Draft Rumors: Lamar Jackson Expected to Be Among 5 QBs Picked in Top 20', 'With less than a week remaining before the 2018 NFL draft, Louisville quarterback Lamar Jackson has reportedly secured a spot in the first round. According to Jordan Raanan of ESPN...', 'http://bleacherreport.com/articles/2771775-2018-nfl-draft-rumors-lamar-jackson-expected-to-be-among-5-qbs-picked-in-top-20', 'https://img.bleacherreport.net/img/images/photos/003/737/188/hi-res-bac961b3012270e73de20da9256de869_crop_exact.jpg?w=1200&h=1200&q=75', '2018-04-21T18:04:41Z']
+Comment Bubble Icon
+Joe Robbins/Getty Images
+With less than a week remaining before the 2018 NFL draft, former Louisville quarterback Lamar Jackson has reportedly secured a spot in the first round.
+According to Jordan Raanan of ESPN.com, Jackson is expected to be one of five quarterbacks selected in the top 20, presumably along with Sam Darnold, Josh Rosen, Baker Mayfield and Josh Allen .
+Raanan reported that several sources "really like" Jackson heading into the draft.
+Bleacher Report's Mike Freeman previously reported the New England Patriots were the team "most interested in Jackson," but they might have to move up in order to get their man. They own the Nos. 23 and 31 picks in the first round.
+There seems to be a lot of disagreement about Jackson as a prospect, however.
+The 2016 Heisman Trophy winner is also an outstanding runner who notched 4,132 rushing yards and 50 rushing touchdowns in his three years in college, but there is debate about how his passing ability will translate to the NFL.
+According to Bleacher Report's Matt Miller , Jackson could be drafted anywhere between Nos. 15 and 40 with the Arizona Cardinals and Los Angeles Chargers appearing to be most likely to take him halfway through the first round.
+On the other hand, there is consensus surrounding the other four top quarterbacks in the class, with Darnold, Rosen, Mayfield and Allen potentially coming off the board in the first five picks.
+Of course, it will all be a mystery until the first round of the draft Thursday.
+Facebook Logo

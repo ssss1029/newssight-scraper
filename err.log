@@ -62,3 +62,9 @@
 [2018-04-20 23:11:02.497000] ==== ERROR ==== Error with http://thehill.com/homenews/administration/384152-mccabe-to-sue-trump-admin-for-defamation-wrongful-termination
 [2018-04-20 23:11:03.455000] ==== ERROR ==== Error with http://thehill.com/homenews/senate/384065-democrats-mull-audacious-play-to-block-pompeo
 [2018-04-20 23:11:11.151000] ==== ERROR ==== Error with https://static01.nyt.com/files/2018/us/politics/20180419-james-comey-memos.pdf
+[2018-04-21 13:04:05.670000] ==== ERROR ==== Error with extracting text from https://apnews.com/6f82a3eb7db844b9be2761b12c62a071
+[2018-04-21 13:04:07.227000] ==== ERROR ==== Error with extracting text from https://apnews.com/dc312a7e503f4b7bb61a62013fea852d
+[2018-04-21 13:04:07.743000] ==== ERROR ==== Error with extracting text from https://apnews.com/3c5de838ee464aad858301d533ccc19d
+[2018-04-21 13:04:07.889000] ==== ERROR ==== Error with extracting text from https://apnews.com/535f03460b1340e1bff9e607625c9102
+[2018-04-21 13:04:08.037000] ==== ERROR ==== Error with extracting text from https://apnews.com/29f510eb3598437b953d96e640d5ecea
+[2018-04-21 13:04:20.640000] ==== ERROR ==== Error with extracting text from https://apnews.com/29f510eb3598437b953d96e640d5ecea

@@ -1,44 +1,35 @@
-['ars-technica', '25', 'Jon Brodkin', 'NYC blasts broadband competition shortage as it pursues suit against Verizon', 'Two-thirds of NYC homes have only one or two broadband options, city report says.', 'https://arstechnica.com/information-technology/2018/04/nyc-blasts-broadband-competition-shortage-as-it-pursues-suit-against-verizon/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/getty-verizon-new-york-760x380.jpg', '2018-04-20T15:56:32+00:00']
-Sign up or login to join the discussions!
-Stay logged in
-Sign up to comment and more Sign up
-Competition shortage 
-NYC blasts broadband competition shortage as it pursues suit against Verizon
-Two-thirds of NYC homes have only one or two broadband options, city report says.
-Apr 20, 2018 3:56 pm UTC
-Enlarge / New York, USA - January 14, 2016: A Verizon worker on Worth Street in Lower Manhattan.
-Getty Images | 400tmax
-reader comments 81
-Share this story
-More than two-thirds of New York City's 3.1 million households have just one or two broadband providers offering service to their homes, according to a new "Truth in Broadband " report issued by the city government. The report comes as NYC pursues a lawsuit against Verizon alleging that it hasn't met its broadband deployment obligations.
-There's only one ISP offering home broadband service at 13.54 percent of the city's 3,114,826 households, meaning that nearly 422,000 households have just one "choice." Another 55.44 percent of NYC householdsnearly 1.73 million in allhave two broadband providers. The remaining 31.02 percent (more than 966,000 households) have at least three broadband providers.
-Further Reading
-1 million NYC homes cant get Verizon FiOS, so the city just sued Verizon
-The report defines broadband as Internet service with at least 25Mbps download speeds and 3Mbps upload speeds, the same standard the Federal Communications Commission uses to evaluate broadband deployment progress nationwide. DSL offers some more choice, but the network technology "is not generally capableof delivering a 25Mbps download speed," the report said. The report's broadband deployment statistics are based on federal data as of December 2016.
-NYC is better off than the country as a whole, as 99 percent of the city's Census blocks have at least one ISP offering broadband speeds. "This represents 100 percent of the city's households and 99.25 percent of businesses," the report says.
-Nationwide, FCC data from 2016 shows that 13 percent of developed Census blocks in the US had no broadband-capable providers. About 30 percent of US Census blocks have exactly one provider at 25/3Mbps, 30 percent have two providers, and the rest have at least three.
-Verizon and Charter under fire
-It's no surprise that NYC would be more wired up than the nation overall, but the city's gaps in broadband choice are still troubling.
-Verizon agreed to bring fiber Internet to all NYC households by 2014, but nearly 1 million NYC homes still lack the service. The city government filed a lawsuit last year against Verizon, though the company says it has met its obligations and that landlords have prevented the company from accessing all buildings. The case is pending in the state court system.
-New York City households also have cable service from Charter, Altice, and RCN.
-Further Reading
-NY says Charter lied about new broadband, threatens to revoke its franchise
-Charter is being sued by the state New York government officials say the company falsely promised fast Internet speeds that it knew it could not deliver. Separately, New York state officials last month threatened to terminate Charter's franchise agreements with New York City, saying the cable company failed to meet broadband construction requirements and may not have paid all of its required franchise fees.
-Broadband gaps are not only a problem in "remote, rural areas of the country," NYC Chief Technology Officer Miguel Gamio, Jr wrote in the Truth in Broadband report. "As we see in this report, the number of people in New York City without a broadband subscription at home is equivalent to the population of Houston. Even those who have a connection may be struggling to afford it, or may have only a single option for broadband service."
-Digging into the data
-About 31 percent of NYC households lack a home broadband subscription. Many of those rely on cellular Internet, although the report said that 17 percent of households have "no access" of any kind.
-It's likely that many more New Yorkers would have broadband if they could afford it. "Home broadband subscribership tracks closely with income level, and a large disparity exists between the high and low ends of the income spectrum," the report said.
-Broadband prices are obviously affected by the lack of strong competition in most of the city. Even though nearly all New York City residents have broadband available to them, the competition shortage likely keeps prices high and causes low-income residents to go without home Internet.
-"More than half (56 percent) of New York City's lowest-income households lack a home broadband subscription. This rate is nearly double that for the citywide population, and more than five times the rate for the highest-income households," the city report said.
-There are also racial disparities. "32 percent of black New Yorkers and 33 percent of Hispanic New Yorkers lack a home broadband subscription, a figure that stands at 21 percent and 23 percent for white and Asian residents, respectively," the report said.
-Broadband choice is at its worst in the Bronx and Manhattan, where 28 percent and 18.8 percent of households have only one broadband provider, respectively.
-New York City
-Broadband providers' privacy policies should be evaluated in the context of competition data, the report said. Given the federal repeal of broadband privacy protections, ISPs are "revamping their business models to make privacy a premium option for users who are willing and able to pay more," the report said. "For example, in 2017, Verizon introduced a new program called Verizon Up , offering consumers discounts and perks for agreeing to share Web browsing history with 'vendors andpartners.'"
-Poor residents are "likely to face household financialpressures to enroll in these programs," the report said.
-Many businesses lack choice
-Many businesses in the city also lack broadband choice, the NYC report said. "[N]early three-quarters of small businesses (72 percent) have only one or two options of broadband providers," it said. "Similarly, nearly three-quarters of small businesses (73 percent) have fewer than three options for commercial fiber service, including fourteen percent (14 percent) that have no commercial fiber provider available in their Census block."
-About 44 percent of small NYC businesses have no gigabit Internet option. There's also no gigabit access for households in "large sections of upper Manhattan, the south Bronx and central Brooklyn."
-The report's data will help NYC set its strategy for broadband deployment, Gamio, Jr wrote:
-We've made progress holding Internet service providers accountable for their commitments, launching the largest and fastest municipal free Wi-Fi program in the world, and delivering Internet access directly to public housing residents. This report shows that we still have work to do. But now, for the first time, we have a comprehensive picture of the disparities in broadband across the city and how they tie to age, race, income, education level and where you live.
-Disclosure: The Advance/Newhouse Partnership, which owns 13 percent of Charter, is part of Advance Publications. Advance Publications owns Cond Nast, which owns Ars Technica.
-Jon Brodkin Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, wireless technology, and more.
+['bleacher-report', '25', 'Dave Schilling', 'Traveling in the NBA: The Price of Making Art', "Let me just get this out of the way now: James Harden traveled. He probably traveled more than once in Game 1 of the Rockets' first-round playoff series against the Timberwolves ...", 'http://bleacherreport.com/articles/2771640-traveling-in-the-nba-the-price-of-making-art', 'https://img.bleacherreport.net/img/images/photos/003/737/032/e8a001e4699086d0d46b686cf3bb55c9_crop_exact.jpg?w=1200&h=1200&q=75', '2018-04-21T12:31:14Z']
+Comment Bubble Icon
+B/R
+Let me just get this out of the way now: James Harden traveled. He probably traveled more than once in Game 1 of the Rockets' first-round playoff series against the Timberwolves on Sunday, but I'm specifically talking about his step-back jumper to shake Andrew Wiggins and sink a three-pointer. It feels so good to get that off my chest and speak my truth.
+This is not to say that Harden's step-back is always a travel whenever he deploys it, but this was. How do I know? I can count. More and more, NBA players are bending (or straight up breaking) the most sacred, fundamental rule of the sport. That said, does it even matter?
+The NBA has never been more exciting to watch on a night-to-night basis. The league is also enjoying some of its best ratings in years thanks to the kinds of athletic feats guys like Harden, Russell Westbrook and Stephen Curry bring to the court. Step-backs, Eurosteps and other eye-catching moves are on the edge of legality and therefore carry a high degree of difficulty.
+"The step-back's a legal move, but the step before the step is not a legal move, which is what we saw the other night," NBA TV analyst and former NBA executive vice president Stu Jackson told B/R. "There are instances, even on the Eurostep, where the player is getting more than one-and-a-half, two steps at the rim and actually gather, step and then go into a Eurostep. That's also traveling."
+DANYE @danWorthington
+Harden clearly sets his pivot foot twice on the step back. This is a travel. #RocketsNation https://t.co/0WYi8wATyF
+With the elimination of hand-checking before the 2004-05 season, the game became faster, less physical and more balletic.As the traveling violation becomes more open to interpretation and thornier, like the catch rule in the NFL, one could see a world in which traveling doesn't disappear like the hand check.Rather, the league would tweak the rule to allow for further offensive innovation.
+"It's one of the rules that's different around the world," Jackson said. "A travel in the NBA is not the same as a travel internationally. You have to put the ball down on the floor before you take a step toward the basket."
+It was only nine years ago that the league allowed for the gather step, which gives players two steps after receiving the ball while in motion. Traveling as we know it might end up a thing of the past or, worse yet, akin to defensive three secondsbarely called and far from respected. If I may quote one of the NBA's greatest philosophers, "Anything is possible."
+In the meantime, let's take a "walk" through some of the most egregious traveling violations in recent history and do our best to examine just what went wrong.
+The inbounding of the basketball is as routine as tying your shoe or Nick Young taking an ill-advised contested three-pointer. It's easy to understand how one might forget that dribbling is important. Russ is trying to call a play here as well. The human mind can only juggle so much at once. I don't blame him for this. Much love to Brodie and the family. Dap me up the next time you see me.
+ 
+TNT
+This Kemba Walker thing is egregious, though! Come on, man. What are you doing? You gotta dribble on the inbounds!
+ 
+TNT
+One might think that graceful big men of the modern NBA wouldn't have a hard time keeping their steps to a minimum. You'd be wrong. Here, Kendrick Perkins loses track of his pivot foot and just starts sliding around the court like he's doing the cha-cha slide at his auntie's barbecue. Frontcourt players should know their pivot feet better than they know themselves.
+ 
+TNT
+Brandon Jennings is another guard trying to call a play while also fully stationary a la Perk in the above clip. This doesn't violate the letter of the law, but I give Jennings a pass here, because when your defender is practically making himself at home in your personal area, you should be allowed to take a step back to reclaim your time .
+ 
+This is an interesting one because it illustrates a common scenario for the traveling violation: transitions and fast breaks. Luol Deng is doing just fine here, and then he loses control of his dribble. He almost palms the ball while taking three or four steps before shooting a three in front of a trio of Nets defenders. I'm not going to go back and watch this entire possession, but I bet he bricked it anyway, so who cares? Let it slide!
+ 
+TNT
+Another fast-break situation: LeBron James in the open court. It looks like at the last possible moment, he decided to try to dunk from the free-throw line. What referee would ever call traveling on something so majestic? This is where a referee's discretion must be used. Let the man paint his masterpiece in peace. Would you tell Picasso to chill out with all the weird shapes? Would you convince Leonardo da Vinci that the Mona Lisa should be smiling? Would you tell Master P that the chorus to "Make 'Em Say Uhh" should have more actual words in it? Nope.
+ 
+TNT
+LeBron's former teammate Matthew Dellavedova demonstrates a similar indecisiveness as he drives to the basket. Is he going to shoot? Is he going to pass? Is he going to walk all the way to the concession stand to get a hot dog? Hard to say here.
+ 
+TNT
+The absolute gold standard of travels. The legendary Dirk Nowitzki does a sort of interpretive dance on his way to the hoop. This is what I like to call a "veteran move." When you're watching a basketball game and the play slows down into the average post-up, who's going to notice something like this? Unless you're pulling clips for "Shaqtin' a Fool," your eyes glaze over until the player attempts a shot. I guarantee you that I would notice a lot more travels if I wasn't tweeting through most NBA games. Use our short attention spans against us, Dirk. Absolutely masterful.
+Facebook Logo

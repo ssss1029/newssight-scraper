@@ -1,26 +1,22 @@
-['abc-news', '8', 'ABC News', 'Senate panel talks to Russian lawyer who met with Trump Jr.', 'A Russian lawyer who discussed sanctions with Donald Trump Jr. at a Trump Tower meeting during the 2016 campaign recently met U.S. Senate investigators in Berlin, a person familiar with the interview told The Associated Press. Senate intelligence committee in\xe2\x80\xa6', 'http://abcnews.go.com/Politics/wireStory/senate-panel-talks-russian-lawyer-met-trump-jr-54618317', 'https://s.abcnews.com/images/Politics/WireAP_4fb3ad71980e43d2b1389247112c3d90_16x9_992.jpg', '2018-04-20T00:00:00Z']
+['abc-news', '8', 'ABC News', 'FAA orders emergency inspections of 352 engines following deadly Southwest incident', "The Federal Aviation Administration issued an emergency order on Friday for airlines to inspect engines like the one involved in Tuesday's fatal incident involving Southwest Airlines Flight 1380, according to an FAA spokesperson. Engines with more 30,000 tota\xe2\x80\xa6", 'http://abcnews.go.com/US/faa-orders-emergency-inspections-352-engines-deadly-southwest/story?id=54621494', 'https://s.abcnews.com/images/US/southwest_jet_engine_jd_180418_hpMain_16x9_992.jpg', '2018-04-20T00:00:00Z']
 Yahoo!-ABC News Network |  2018 ABC News Internet Ventures. All rights reserved.
-Senate panel talks to Russian lawyer who met with Trump Jr.
-By desmond butler and mary clare jalonick, associated press
-WASHINGTON  Apr 20, 2018, 3:39 PM ET
+FAA orders emergency inspections of 352 engines following deadly Southwest incident
+By JEFFREY COOK
+Apr 20, 2018, 5:45 PM ET
 0 Shares
-Star
-The Associated Press
-FILE - In this July 11, 2017, file photo, Kremlin-linked lawyer Natalia Veselnitskaya speaks to journalists in Moscow, Russia, Tuesday, July 11, 2017. Veselnitskaya, who discussed sanctions with Donald Trump Jr. at a Trump Tower meeting during the 2016 campaign recently met U.S. Senate investigators in Berlin, a person familiar with the interview told The Associated Press. (AP Photo/Alexander Zemlianichenko, File)
+WATCH FAA issues rare emergency directive after fatal Southwest engine failure
 0 Shares
-Email
-Interested in Russia Investigation?
-Add Russia Investigation as an interest to stay up to date on the latest Russia Investigation news, video, and analysis from ABC News.
-Russia Investigation
+The Federal Aviation Administration issued an emergency order on Friday for airlines to inspect engines like the one involved in Tuesday's fatal incident involving Southwest Airlines Flight 1380, according to an FAA spokesperson.
+Interested in FAA?
+Add FAA as an interest to stay up to date on the latest FAA news, video, and analysis from ABC News.
 Add Interest
-A Russian lawyer who discussed sanctions with Donald Trump Jr. at a Trump Tower meeting during the 2016 campaign recently met U.S. Senate investigators in Berlin, a person familiar with the interview told The Associated Press.
-Senate intelligence committee investigators looking into Russian interference in the campaign interviewed Natalia Veselnitskaya at a Berlin hotel, according to the person, who spoke on condition of anonymity because the details of the interview are confidential.
-The interview lasted about three hours and was focused on information contained in a collection of memos compiled by a former British spy, whose worked was funded by the Democratic National Committee and the campaign of Hillary Clinton . The dossier contains numerous allegations of Russian ties to Donald Trump, his associates and the Trump campaign.
-The person familiar with the conversation, who spoke to Veselnitskaya, said the dossier was discussed more than her involvement in the Trump Tower meeting.
-A spokeswoman for Senate Intelligence Committee Chairman Richard Burr, R-N.C., didn't return a request for comment. A spokeswoman for Virginia Sen. Mark Warner , the top Democrat on the panel, declined to comment.
-Trump Jr., along with the president's son-in-law, Jared Kushner, and then-campaign chairman Paul Manafort met with Veselnitskaya in June 2016 after Trump Jr. was told in emails that she could provide potentially incriminating information about Clinton. The Senate investigators have expressed interest in determining whether the meeting was part of a Russian government effort to help Donald Trump's White House campaign, which was how it was described in emails to Trump Jr. in the days before it occurred.
-Veselnitskaya has denied having any ties to the Russian government. She is a well-connected Moscow lawyer who has worked with a company called Prevezon Holdings Ltd. and its owner, who is the son of a former Russian government official and a fierce advocate for rolling back U.S. sanctions.
-At the time of the meeting in Trump Tower, Veselnitskaya was helping defend Prevezon against charges it had engaged in money laundering from a $230 million Russian tax fraud scheme.
-Trump Jr. and others in attendance have downplayed the meeting, saying nothing came of it. Trump has denied that he or his campaign coordinated with any Russian attempts to interfere in the election.
-The Senate intelligence committee is one of several congressional committees looking into Russian interference in the 2016 election and whether there were any Russian ties to Trump's campaign. The GOP-led House intelligence committee has already concluded its investigation, saying there was no collusion or coordination with Russians.
+Engines with more 30,000 total takeoffs and landings must be inspected within 20 days.
+CFM International, the maker of the engines subject to the order, estimated 352 engines in the U.S. are affected and 681 worldwide.
+The inspections will focus on the fan blades, the FAA said. The National Transportation Safety Board said an engine fan blade on Flight 1380 suffered metal fatigue before breaking.
+The woman who died was sitting over the wing on the Boeing 737 when the engine failed and she was partially sucked out a broken window. Fellow passengers pulled the woman back in and attempted to revive her.
+She later died.
+Southwest already announced it was starting an accelerated inspection of its fleet after the deadly failure, and other airlines have announced their own inspection plans. American Airlines said it started additional inspections of its 737s before Tuesday's accident, while the directive was being debated.
+In a letter to passengers obtained by ABC News, Southwest offered sincere apologies as well as a $5,000 check and the promise of a $1,000 travel voucher. The letter also states that the airlines primary focus now is to assist the passengers who were aboard the flight in every way possible.
+A Southwest Airlines official confirmed to ABC News that the letters were sent by the airline, but would not comment on the monetary compensation.
+The NTSB investigation is expected to take 12 to 15 months.
 0 Shares

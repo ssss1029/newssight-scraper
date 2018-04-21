@@ -1,41 +1,15 @@
-['al-jazeera-english', '13', 'Ben Dalton', 'National School Walkout: Meet the 16-year-old behind the protest', "Lane Murdock says she dreamed up Friday's walkout because she was tired of government inaction over gun violence.", 'http://www.aljazeera.com/news/2018/04/national-school-walkout-meet-16-year-protest-180420081255266.html', 'https://www.aljazeera.com/mritems/Images/2018/4/20/d41ba7a3bd9c4ea3a183cdd2d3666b53_18.jpg', '2018-04-20T12:27:00Z']
-United States
-National School Walkout: Meet the 16-year-old behind the protest
-Lane Murdock says she dreamed up Friday's walkout because she was tired of government inaction over gun violence.
-by Ben Dalton
-20 Apr 2018 12:25 GMT
-Murdock is one of many students who have been organising actions against gun violence for the past few years [Courtesy of Lane Murdock]
-New York City - As news broke that a gunman had killed 17 people at a Florida high school last February, then 15-year-old Lane Murdock decided that she was tired of government inaction in the face of gun violence.
-That same day, she created an online petition calling for students to protest by walking out of their schools on April 20, the 19th anniversary of the Columbine massacre, in which two students killed 12 of their classmates and a teacher before committing suicide.
-"The majority of teenagers have no right to vote, leaving our voice unheard," Murdock wrote on the petition website change.org at the time. "As the future of America, it is time for teenagers to speak their minds and put their frustration into action."
-Murdock did not anticipate how popular her call would be.
-In the two months since the Parkland shooting, the petition blossomed into a national organisation, National School Walkout, and prompted more than 2,500 student groups to organise their own April 20 walkouts throughout the US.
-Thousands of students, teachers and their supporters are set to walk out of the classroom on Friday to protest against gun violence .
-Murdock, now 16, joins other prominent youth leaders in a movement for reform that has galvanised both sides of the US gun control debate.
-Goodnight everyone. Tomorrow we all make history with #NationalSchoolWalkout .
-Get some rest and if you wish to donate to support the movement do so here: https://t.co/W7y9jXy4mf pic.twitter.com/WWInfNQdqd
- Lane Murdock (@lanemurdock2002) April 20, 2018
-Murdock, who lives in Ridgefield, Connecticut, chose a school walkout in emulation of international student protests of the 1960s.
-She said she felt that a walkout could mobilise US students still too young to vote.
-"When you're a student and you don't have voting power  since you're a minor, the power you do have is your attendance in school," Murdock told Al Jazeera. "So if we own that, we can use it for an activity or a movement we care about."
-Murdock's protest follows the national school walkout that took place on March 14, one month after the Parkland attack. Students, teachers and their supporters also held worldwide March for Our Lives rallies on March 24. 
-The walkouts and rallies have also been paralleled with calls for boycotting companies that do business with the NRA, as well as organising town halls to hold politicians responsible. Thousands of young people who will be voting age by November's elections have also registered to vote in recent weeks.
-Students and others chant at a rally calling for more gun control three days after the shooting at a high school in Parkland, Florida [File: Jonathan Drake/Reuters]
-The calls since the Parkland attack have echoed those made by young people of colour for years, who point out they have faced gun violence their entire lives.
-'Columbine still resonates'
-Murdock scheduled the protest for the anniversary of the mass shooting at Columbine High School - an event that occurred three years before she was born - to highlight how something that once horrified Americans now feels commonplace.
-{articleGUID}
-Growing up in a post-Columbine world, her first reaction to the Parkland shooting was numb shock. She organised the walkout to jolt herself out of a habit of desensitisation and resignation towards gun deaths - a habit that she also sees in national political leaders.
-Her petition's viral success "proves that the youth of America are willing to speak out," Murdock said. "The fact that we have had the success we've had shows that this generation is not willing to back down."
-Stephen Cohen, a survivor of the Columbine attack who now works as a reporter in Seattle, also contrasted US reactions to the 1999 attack and today's steady drumbeat of mass shootings.
-For students at Parkland's Stoneman Douglas High School, "the fact that there was a school shooting at their school was a shock to them, I am positive it was," Cohen told Al Jazeera.
-"But in a way, it also wasn't, because they have been seeing headlines like this forever," he said.
-"Columbine, the reason it still resonates with the country is that for a large group of people the idea of having a shooting in a well-to-do suburb in a high school was just sort of alien."
-Cohen spent the summer of 1999 on an impromptu musical tour, performing a song he wrote with his brother and raising money for Columbine victims. The idea to perform came from adults in Cohen's community, who were themselves coping with the aftermath of the attack, he said. While he believes that most of these adults were well intentioned, being thrust into the national spotlight so soon after a major trauma made recovery even more difficult.
-Cohen urged survivors of more recent attacks to do whatever they feel is necessary to heal - whether that means activism or not - and to remember that help is available.
-While the community response to Columbine had strong religious overtones, the present student-led movement seems driven by frustration with political paralysis, Cohen said.
-{articleGUID}
-"While they may have people working with them, students are taking a leadership role in this movement," he added.
-"These are kids who have never known a world where school shootings didn't happen in their country. They were raised with this stuff. Columbine, it was a different world. We were shocked into this realisation that these kinds of things can happen.
-"These kids aren't shocked. They're angry and they're frustrated, and they're using that anger and frustration and grief to try and make some changes in the world for the better."
-SOURCE: Al Jazeera News
+['associated-press', '13', 'JILL COLVIN', "Trump says he doesn't think personal lawyer will 'flip'", 'WEST PALM BEACH, Florida (AP) \xe2\x80\x94 President Donald Trump said Saturday that he doesn\'t expect Michael Cohen, his longtime personal lawyer and fixer, to "flip" as the government investigates Cohen\'s business dealings. Trump, in a series of tweets fired off from \xe2\x80\xa6', 'https://apnews.com/887c4cbe5b944b9aa3b8a909bd798231', 'https://storage.googleapis.com/afs-prod/media/media:cafa31091ce64445802df351017993d8/3000.jpeg', '2018-04-21T18:44:46Z']
+Trump says he doesn't think personal lawyer will 'flip'
+By JILL COLVIN
+https://apnews.com/887c4cbe5b944b9aa3b8a909bd798231
+Link copied!
+WEST PALM BEACH, Florida (AP)  President Donald Trump said Saturday that he doesn't expect Michael Cohen, his longtime personal lawyer and fixer, to "flip" as the government investigates Cohen's business dealings.
+Trump, in a series of tweets fired off from Florida on the morning of former first lady Barbara Bush's funeral, accused The New York Times and one of its reporters of "going out of their way to destroy Michael Cohen and his relationship with me in the hope that he will 'flip'"  a term that can mean cooperating with the government in exchange for leniency.
+"Most people will flip if the Government lets them out of trouble," even if "it means lying or making up stories," Trump said, before adding: "Sorry, I don't see Michael doing that despite the horrible Witch Hunt and the dishonest media!"
+The FBI raided Cohen's home, office and hotel room earlier this month looking for evidence of fraud as they conduct a criminal investigation. That included records related to payments Cohen made in 2016 to adult film star Stormy Daniels and former Playboy model Karen McDougal, both of whom allege having had sexual encounters with Trump, people familiar with the raid have told The Associated Press.
+Prosecutors have said they're investigating Cohen's personal business dealings but haven't said what crime they believe he may have committed. Cohen's lawyers have called the raid an assault on attorney-client privilege and Trump has said it was "an attack on our country.
+In the tweets, sent shortly after he arrived at one of his Florida golf courses, Trump accused the newspaper of using "non-existent 'sources'" in a Friday story about the relationship between Trump and Cohen, who has said he would "take a bullet" for his boss. The story quoted several people on the record.
+Trump also lashed out personally at one of the story's writers, calling reporter Maggie Haberman "third rate" and claiming he has "nothing to do with" her. Trump later deleted and reposted the tweets correcting the spelling of Haberman's name.
+Haberman is widely seen as one of the most diligent reporters covering the president and is known to speak with him often. The Times responded on Twitter, saying  it stood by the story and praising Haberman, who was part of the team that just won a Pulitzer Prize for its reporting on Trump.
+The tweets came as the rest of the country was preparing for the funeral of Mrs. Bush. The president chose not to go to the Houston service, but first lady Melania Trump attended. Trump tweeted that he would watch from Florida.
+__

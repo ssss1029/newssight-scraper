@@ -1,34 +1,19 @@
-['bleacher-report', '53', 'Kyle Newport', 'Pacers Take 2-1 Lead over LeBron James, Cavs as Bojan Bogdanovic Drops 30', 'The Indiana Pacers grabbed a 2-1 series lead over the Cleveland Cavaliers with a 92-90 victory in Game 3 at Bankers Life Fieldhouse on Friday night in what turned out to be the Bojan Bogdanovic show...', 'http://bleacherreport.com/articles/2771668-pacers-take-2-1-lead-over-lebron-james-cavs-as-bojan-bogdanovic-drops-30', 'https://img.bleacherreport.net/img/images/photos/003/737/105/168277e12e4d7c4f7398c1be30de9b47_crop_exact.jpg?w=1200&h=1200&q=75', '2018-04-21T01:46:35Z']
-Comment Bubble Icon
-Darron Cummings/Associated Press
-The Indiana Pacers grabbed a 2-1 series lead over the Cleveland Cavalierswith a 92-90 victory in Game 3 at Bankers Life Fieldhouse on Friday night in what turned out to be theBojanBogdanovic show.
-For the second straight game, Cleveland took control of the game early on. LeBron James dominated the opening quarter on Wednesday (on his way to 46 points, 12 rebounds and five assists in Game 2), but this time around, it was ateam effort (64.7 percent from the floor). A quartet of players had five-plus points, with George Hill (nine points) and James (eight) leading the way.
-Joe Gabriele @CavsJoeG
-.@George_Hill3 sets the tone early with 9pts, (3-3FG, 3-4FT) and #Cavs up early, 31-20; CLE, 61%FG, 1-2 3ptFG | IND, 44%FG, 2-6 3ptFG; FTs: CLE, 8-11, IND, 4-4; for #Cavs: Hill, 9pts, @KingJames, 8pts, 3-6FG, 5reb, 3asst; @kevinlove, 6pts. https://t.co/s1povM1ecU
-There were questions as to whether or not Kevin Love would be available for Game 3 after suffering a partially torn ligament in his left thumb on Wednesday, but he was good to go on Friday.He showed no signs of the injury lingering.Entering the game, his highest point total of the series was 15he had 16 at the half.
-NBA @NBA
-Kevin Love drills it from deep and has 16 in the half!  #WhateverItTakes @ESPNNBA https://t.co/pj8pwELosh
-Indiana gave Cleveland all it could handle in the first two games due in large part to Victor Oladipo (32 points in Game 1, 22 in Game 2). But it was a different story earlyin this game as James and Co. figured out how to contain the Pacers All-Star. Oladipo had five points on six shots in the first half while committing four turnovers.
-The Cavaliers started pulling away from the Pacers late in the first quarter and played the rest of the half with a lead in the 10-point range until a 10-2 run to close out the second saw their lead swell to 17 entering the break.
-Cleveland Cavaliers @cavs
-.@KingJames finessing his way to 13PTS so far on @FoxSportsOH! #WhateverItTakes https://t.co/q1nI1Q8RM9
-Indiana came out of the locker room ready to get back in the game, slowly chipping away at the deficit. The fuel behind the rally? Bogdanovic,Oladipowho nearly doubled his first-half total with ninepoints in the thirdand strong defense, which held the Cavs to just 12 points in the first 12 minutes after the break.
-The comeback continued into the fourth, as the Pacers tied the game early in the quarterand wound up taking the lead minutes later.
-Pacers fans were wondering which team would show up on Friday: the team that sank 11 triples in a blowout Game 1 victory or the one that made shot 6-of-22 from beyond the arc in a three-point loss in Game 2.Well,Bogdanovic had seven treys to overcome the fact that the rest of the team combined for just one.
-Indiana Pacers @Pacers
-Indiana Pacers @Pacers
-BOGEY CAN'T BE STOPPED. #BOOMBABY
-It wasBogdanovic who put the Pacers in front late in the game with back-to-back threes, one of which wound up turning into a four-point play.
-NBA @NBA
-Bojan Bogdanovic is on fire!   Consecutive triples puts the @Pacers on top 84-77! #Pacers  5:40 left in the 4th on @ESPNNBA https://t.co/tjdO1DTptk
-NBA @NBA
-Three ball #6 for Bojan!  He's up to 25 PTS for the #Pacers https://t.co/OhAhmODMBY
-Indiana Pacers @Pacers
-25 points for the Croatian Sensation.  https://t.co/ZtJ16bFfjt
-James (who finished with 28 points) would not let his team go away quietly, though, as he scored seven consecutive points to tie the game. But there was just too much Bogey (season-high 30 points):
-FOX Sports Indiana @FSIndiana
-Bojan Bogdanovi 4ever. #Pacers  Tune in now on FSI and FSGO. https://t.co/uo49KVTjqM
-After surrendering 57 points in the first half, Indiana's defense clamped down and allowed just 33 over the final two quarters. That combined with Bogdanovic's hot shooting proved to be enough to allow the Pacers to defend home court.
-Love finished with 19 points for Cleveland, while Oladipo had 18 points, seven assists and six rebounds to complement Bogdanovic.
-Game 4 tips off Sunday in Indianapolis at 8:30 p.m. ET on TNT.
-Facebook Logo
+['cbs-news', '53', 'AP', 'Dad stabbed to death in random attack as daughter sits in lap at restaurant', 'Homeless man was charged Friday with murder in a random attack on a California father in a crowded beachside steakhouse', 'https://www.cbsnews.com/news/dad-stabbed-to-death-in-random-attack-as-daughter-sits-in-lap-at-restaurant/', 'https://cbsnews1.cbsistatic.com/hub/i/r/2018/04/21/1121303e-658a-437d-96e7-e62129c50008/thumbnail/1200x630/9c255fbbd8e49648f392a32f31ffa8fa/jackson.jpg', '2018-04-21T13:45:58+00:00']
+AP April 21, 2018, 9:47 AM
+Dad stabbed to death in random attack as daughter sits in lap at restaurant
+Email
+LOS ANGELES -- A homeless man was charged Friday with murder in a random attack on a California father who was stabbed in the neck as his 5-year-old daughter sat in his lap in a crowded beachside steakhouse. Jamal Jackson, 49, was charged with first-degree murder in the death of 35-year-old Anthony Mele. He was being held in Ventura County jail on a $1.5 million bail. It's unclear if he has an attorney to speak on his behalf.
+Mele and his wife were eating dinner with their daughter Wednesday at Aloha Steakhouse in Ventura. The girl was sitting in her father's lap when prosecutors say Jackson walked up and stabbed Mele in the neck.
+Prosecutor Richard Simon said patrons and a restaurant employee followed Jackson out of the restaurant, even though he still had the knife. They kept track of him until police arrived and arrested him.
+This undated photo provided by the Ventura County District Attorney's Office shows Jamal Jackson.
+Ventura County District Attorney's Office via AP
+Mele was taken to a hospital and died Thursday after being taken off life support.
+"It's horrible," Simon said. "You don't think you're going to be killed when you go out to dinner at a nice restaurant with your family and you didn't do anything."
+Simon said the two men had not interacted before the attack.
+"He was just sitting there with his daughter in his lap," Simon said. "You're not supposed to die that way."
+Mele's loved ones started a GoFundMe page to help raise money for a funeral and to support his wife and daughter.
+Mele's Facebook page was filled with photos of his daughter and said he was a manager at an AT&T store.
+His killing prompted the Ventura City Council to increase police patrols in the area and add staff members to monitor security cameras, among other measures.
+"We are extremely disheartened and infuriated by this criminal attack," Mayor Neal Andrews said in a statement. "We will not tolerate this in our community. Nothing is more important than the safety of our visitors, residents and businesses."
+If convicted, Jackson faces up to 55 years in prison.
+ 2018 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.

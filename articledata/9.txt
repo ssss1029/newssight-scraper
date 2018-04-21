@@ -1,29 +1,33 @@
-['abc-news', '9', 'ABC News', 'Officers who fatally shot unarmed black man return to work in Sacramento', 'Stephon Clark was killed by police last month.', 'http://abcnews.go.com/US/officers-shot-stephon-clark-return-work/story?id=54608332', 'https://s.abcnews.com/images/US/shooting-victim-01-kxtv-jrl-180321_hpMain_16x9_992.jpg', '2018-04-20T00:00:00Z']
+['abc-news', '9', 'ABC News', "Judge denies man's request to reinstate free water program in Flint", "The case involved a man who said his home's water is contaminated.", 'http://abcnews.go.com/US/judge-denies-mans-request-reinstate-free-water-program/story?id=54622967', 'https://s.abcnews.com/images/US/flint-water-crisis-1-ap-thg-180420_hpMain_16x9_992.jpg', '2018-04-20T00:00:00Z']
 Yahoo!-ABC News Network |  2018 ABC News Internet Ventures. All rights reserved.
-Officers who fatally shot Stephon Clark return to work
-By Loureen Ayyoub
-Apr 20, 2018, 2:18 PM ET
+Judge denies man's request to reinstate free water program in Flint
+By Zachary Kiesch
+Apr 20, 2018, 7:14 PM ET
 0 Shares
-WATCH Family of Stephon Clark releases independent autopsy showing he was shot 8 times
+WATCH How the Water Crisis Developed in Flint, Michigan
 0 Shares
-Email
-The police officers involved in the fatal shooting of a 22-year-old African-American man in Sacramento, California, last month have returned to work.
-Stephon Clark was shot and killed in his grandmother's backyard on March 18. The officers were responding to a 911 call reporting someone breaking car windows and believed Clark was the suspect they sought.
-The shooting sparked mass protests in California and across the nation.
-The names of the officers involved have not been released, and police told ABC News today that there are no plans to release them as of yet.
-Following the fatal confrontation, the officers were placed on administrative leave. They have returned to work, but will not be in a patrol capacity for safety reasons, police said.
-Rich Pedroncelli/AP, FILE
-Sacramento Police Chief Daniel Hahn, flanked by civic and community leaders announces that he has asked Attorney General's office to be part of an independent investigation of the death of Stephon Clark in Sacramento, Calif., March 27, 2018.
-Stephon Clark to be laid to rest in Sacramento amid protests over his killing
-Clark died after Sacramento police fired 20 bullets at him in his grandmother's yard. He was struck eight times, according to a private autopsy. He was a father of a 1-year-old and a 3-year-old.
-Responding officers said they thought Clark was holding a gun, but in fact only a cellphone was found at the scene.
-Protesters have demanded that the officers be charged, submitting 100,000 signatures to the Sacramento District Attorney's Office. Sacramento County District Attorney Anne Marie Schubert said in a press conference on Wednesday that there should be conversations about fair balanced, and meaningful criminal justice reform.
-The investigation into the shooting remains ongoing.
-Rich Pedroncelli/AP, FILE
-Stevante Clark, the brother of Stephon Clark, who was shot and killed by Sacramento police, leaves a meeting of the Sacramento City Council, Tuesday, April 10, 2018, in Sacramento, Calif.
-The news of the police officers return to work came as Stevante Clark, Stephons brother, was arrested and taken to jail.
-According to the Sacramento Police Department, Stevante Clark was arrested on Thursday and booked into Sacramento County Main Jail for criminal threats, felony assault, felony vandalism and abusing the 911 emergency line.
-Stevante Clark has a court hearing scheduled for Friday.
-Stevante Clark's former roommate, Alex Rouska, said in an earlier interview CBS Sacramento that before his brother died, Stevante was perfectly fine, quiet and paid his rent on time.
-This stuff with his brother broke him -- it broke him," Rouska said.
+A judge has denied a man's request to resume the program that distributed free bottled water to the residents of Flint, Michigan.
+Interested in Flint?
+Add Flint as an interest to stay up to date on the latest Flint news, video, and analysis from ABC News.
+Flint
+Add Interest
+The case involved a Flint man who said his homes tap water is contaminated with high levels of lead, according to local outlet MLive . But it is also part of a larger view of the water crisis that has impacted residents in Flint for nearly four years.
+The argument made April 20 was not convincing enough for U.S. District Judge Judith E. Levy, MLive reported. If compelled, Levy could have ordered the state to immediately resume the state-funded bottled water distribution in Flint.
+The requests for a temporary restraining order and preliminary injunction were denied, according to MLive.
+3 officials charged in Flint water crisis
+Brittany Greeson/Getty Images
+Ariana Hawk of Flint, Michigan, leads a chant during a protest on the steps of the Michigan State Capitol on April 11, 2018 in Lansing, Michigan.
+Resident Allen Bryant Jr. filed the lawsuit seeking the continued distribution of free water. According to the complaint, Bryants home registered more than 1,300 parts per billion (ppb) of lead when tested earlier this year, MLive reported. The federal action limit is 15 ppb.
+But Bryant is no longer living at the home, and when asked, turned down an opportunity to have a water filtration system added, Levy noted, MLive reported.
+The hearing held in downtown Ann Arbor lasted a couple hours, according to MLive.
+It came two weeks after the program providing free water stopped.
+At one point there were nine free bottled water distribution points in Flint, referred to as water pods by residents. There were only four left when the centers were closed earlier this month.
+Republican Michigan Gov. Rick Snyder said then the state would stop supplying free bottled water to Flint residents because the water quality there had tested below action levels of the federal Lead and Copper Rule for nearly two years.
+Brittany Greeson/Getty Images, FILE
+Alongside other protesters, Gladyes Williamson, of Flint, Michigan, delivers a list of demands, including a demand to keep water distribution sites open, to the offices of state representatives on April 11, 2018 in Lansing, Michigan.
+But resident Arthur Woodson said promises havent been kept and people still need help. It seems like we worse now than when the crisis first started, he told ABC News.
+Resident Juani Olivares told ABC News folks just arent ready.
+The children dont want to touch the faucets, they are traumatized," Olivares said. "We are all traumatized.
+Olivares, who is the president and CEO of the Genesee County Hispanic Latin Collaborative-La Placita, said theres still a lot of work to do.
+High levels of poverty and illiteracy have compounded the issue, in addition to deeply rooted trust issues, according to residents who spoke to ABC News.
 0 Shares

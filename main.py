@@ -17,6 +17,27 @@ from localstore import writeArticle
 
 settings = getSettings()
 
+# Sources we will use.
+wanted_sources = [
+	'abc-news',
+	'associated-press',
+	'bleacher-report',
+	'bloomberg',
+	'breitbart-news',
+	'cbs-news',
+	'cnbc',
+	'cnn',
+	'fox-news',
+	'national-geographic',
+	'nbc-news',
+	'techcrunch',
+	'the-huffington-post',
+	'the-new-york-times',
+	'the-verge',
+	'the-washington-post',
+	'time'
+]
+
 while 1:
 	
 	# Get sources from News API
@@ -32,15 +53,20 @@ while 1:
 	# Get sources from app
 	res = requests.post(settings["newssight_/"] + settings["source_list_endpoint"])
 	supported_sources = res.json()
+	
+	id_to_data = dict()
+
+	for source in supported_sources:
+		id_to_data[source["id"]] = source
 
 	# Query News API for articles for each source
-	for source in supported_sources:
-		response = getArticles(settings, source["id"])
+	for source_id in wanted_sources:
+		response = getArticles(settings, id_to_data[source_id]["id"])
 		# Check if the response is ok
 		if response["status"] == "ok":
-			log("Got articles from {0}".format(source["id"]))
+			log("Got articles from {0}".format(id_to_data[source_id]["id"]))
 		else:
-			err_log("Error getting articles from {0}".format(["id"]))
+			err_log("Error getting articles from {0}".format(id_to_data[source_id]["id"]))
 			err_log(response)
 
 		articles = response["articles"]

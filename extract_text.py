@@ -54,7 +54,7 @@ if __name__ == "__main__":
                     adf.write('\n')                    
                     adf.write(article_text)
             except Exception:
-                err_log("Error with {0}".format(url))                    
+                err_log("Error with extracting text from {0}".format(url))                    
 
             
 

@@ -1,21 +1,25 @@
-['business-insider', '87', 'Troy Wolverton', "Facebook's rep has taken a hit from the Cambridge Analytica scandal \xe2\x80\x94 but its ad business hasn't", "BI PRIME: The data leak to Cambridge Analytica hurt Facebook's reputation, but its ad business appears to be holding up just fine, according to a new report.", 'http://www.businessinsider.com/facebook-ad-business-strength-weak-spots-cambridge-analytica-2018-4', 'https://amp.businessinsider.com/images/5ada3edf19ee8643008b467d-640-320.jpg', '2018-04-20T00:00:00Z']
-Facebook CEO Mark Zuckerberg
-Chip Somodevilla/Getty
-Despite all the negative news lately, particularly relating to the Cambridge Analytica data leak , Facebook's advertising business appears to be plugging along, Baird analyst Colin Sebastian said in a research note Friday.
-Ad spending on Facebook continues to grow rapidly, Sebastian reported, citing recent research from data firms.
-While some companies with well-known brands may scale back their spending on Facebook, the impact is likely to be minimal, he said.
-Facebook's stock and reputation were pummeled in the wake of the Cambridge Analytica scandal, but its actual business is likely doing just fine, thank you very much.
-That's the take of Baird analyst Colin Sebastian after checking in with advertisers and reviewing some of the latest research on ad spending. Although the company faces some risk that usage of its service may decline thanks to the negative sentiment surrounding it, its advertising business appears to be largely unaffected by the scandal, Sebastian said in a research note issued Friday.
-"Our checks suggest advertiser response to the negative headlines is relatively modest," he said, reiterating his "outperform" rating and $210 price target on Facebook's shares.
-In recent trading on Friday, Facebook stock was off $1.46, or about 1%, to $166.64 a share.
-The social media company has been surrounded by negative news for much of the last 18 months, since news broke that Russian-linked groups allegedly hijacked its service to spread propaganda to try to influence the 2016 election . But scrutiny of the company reached new heights last months after reports that Cambridge Analytica, a data research firm linked to Donald Trump's election campaign, illegitimately gained access to the personal data of potentially tens of millions of Facebook users via a Facebook app.
-In response to the negative sentiments, some users have vowed to disconnect from the service. And in the fourth quarter, usage of the social network in the United States and Canada declined for the first-time ever .
-Advertisers seem to be taking the negative news in stride, but Instagram could be a wildcard
-But for the most part, advertisers so far seem to be ignoring the negative sentiments and declining usage data, Sebastian said. Advertising spending on Facebook's eponymous service grew 48% in the first quarter compared with the same period a year earlier, he noted, citing data from advertising research firm Merkle. That was in line with growth rates in the first through third quarter of last year and well above that posted in the fourth quarter, he said.
-That data aligns with the reporting of Business Insider's Mike Shields, who found that a good chunk of Facebook's 6 million advertisers are not even thinking of cutting back spending on Facebook post Cambridge Analytica scandal.
-One reason for the advertiser indifference is that many Facebook marketers are not big brands with a public image to uphold, but smaller, so-called "direct advertisers." Facebook advertising is a crucial channel for driving sales in their business, so they can't afford "to be precious," as one advertiser said.
-Facebook's Instagram by contrast, is much more heavily skewed to big brand advertisers. And ad spending on Instagram during Q1 grew 62%, Sebastian said, again pointing to Merkle data. That's a significant slowdown from the 122% year-over-year growth the service posted in the fourth quarter (although the Q4 holiday period is seasonally strong).
-More broadly, advertising spending on social networks grew 37% on an annual basis in the first quarter, Sebastian noted, citing data from digital marketing firm Kenshoo. That's down only marginally from the 39% rate social ad spending grew by in the fourth quarter, he said. Meanwhile, Kenshoo's data indicates advertisers didn't change the amount they were spending on Facebook in reaction to the Cambridge Analytica fiasco, he said.
-"Digital ad trends appear stable," he said.
-Baird's own checks with advertisers indicate that some companies with well-known brands and some small and mid-size business may cut back on their spending on Facebook. But the impact is likely to be minimal, Sebastian said, at least in the near future.
-"We continue to recommend that investors with a longer-term time horizon add to positions opportunistically," he said.
+['fox-news', '87', 'Fox News', "Missouri mother watched home burn down with her four sons inside: 'She lost everything'", 'Tina Brazil was heard screaming as her Lake Ozark, Mo., home caught fire killing her four children inside.', 'http://www.foxnews.com/us/2018/04/21/missouri-mother-watched-home-burn-down-with-her-four-sons-inside-lost-everything.html', 'http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/04/21/missouri-mother-watched-home-burn-down-with-her-four-sons-inside-lost-everything/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1524323959942.jpg?ve=1', '2018-04-21T15:45:00+00:00']
+Four children were killed in a house fire on Thursday, April 19, 2018. (Facebook  )
+A Missouri mother was heard screaming as her home burned down with her four children trapped inside.
+Tina Brazil, of Lake Ozark, was on her way home early Thursday unaware that a fire erupted inside the house, the Kansas City Star reported.
+Her neighbor Eddie Helt, 81, said he had his wife call 911 when he discovered smoke. He tried to enter the home but the heat pushed him 15 feet back.
+The neighbor said he saw Brazil drive up to the home with her boyfriend, Mike Andrews, as the fire lashed. He recalled the mother going berserk as she knew her children  Tyler Otto, 14; Cason Otto, 8; Max Otto, 5; and Levi Otto, 4 were inside the residence.
+My children! My kids! My kids! Helt recalled the distraught woman shouting. The neighbor said it took five firefighters to restrain Andrews and to keep Brazil from entering the home.
+ONE DEAD, SEVERAL INJURED AFTER TV STATION TOWER COLLAPSES IN MISSOURI
+There was nothing you could do, Helt said.
+The Lake Ozark Fire Protection District said they arrived at the home at 1 a.m. after being dispatched at 12:51 a.m. but were not able to enter due to the rear of the home collapsing. Firefighters found the bodies of the four children and two pets when they were able to go inside. Autopsies will be performed on the children to determine the causes of death.
+Following the incident, Brazil shared a photo of her sons on Facebook writing about each one of her children.
+My babies, Brazil wrote. I dont have any words to say how we are all feeling. . . .Tyler was my Tyler-man. Soccer and the biggest do-gooder heart Ive ever seen. Cason bug was my smarty pants early talker, artist and avid reader.
+Monster Max popped off with some of the funniest things ever at the most random moments and was a crazy awesome dancer and had the biggest imagination Ive ever seen.
+Levi was my little nugget who would say, Mommy, I love you, Mommy, at least 50 times a day, she wrote.
+Lindsey VanPelt, the childrens aunt, told the Kansas City Star that the children grew up in a fun-loving family.
+"They always had smiles on their faces, she said. They could turn anything into a good time. They just had hearts of gold.
+Brazils sister, Angie Lawrence, said the mother is heartbroken.
+She lost everything. They were her life, Lawrence said. Our lives are never going to be the same without them."
+When the paper asked if Brazil left the children at the residence alone, Lawrence said, Honestly, I just want to leave that out because I dont want her to hear the criticism.  She has been through enough.
+The state of Missouri does not stipulate how old a child must be in order to be left home alone.
+Lawrence said the fire departments preliminary investigation found the fire may have been caused by a nearby barbecue. Fire officials said Thursday the fire may have gone unnoticed for a period of time but the wind made it grow. It appeared no smoke detectors were found in the home but they might have been destroyed in the blaze.
+Kenneth Otto, the boys paternal grandfather, said of his grandsons, You cant replace them.
+The boys father, Travis Otto, did not immediately comment on his childrens deaths.
+He said, Dad, I just need to get outside, Kenneth Otto said of his son. Youre just numb. Theres nothing you can say, theres just  theres just nothing. You can lose everything in the snap of your finger."
+Trending in U.S.

@@ -1,21 +1,54 @@
-['cbs-news', '105', 'CBS/AP', "Romaine lettuce warning: CDC says don't eat romaine from Yuma, Arizona amid E. coli outbreak", 'The warning now includes whole heads and hearts of romaine lettuce as well as chopped romaine, salads and salad mixes due to E. coli contamination', 'https://www.cbsnews.com/news/romaine-lettuce-warning-cdc-yuma-arizona-e-coli/', 'https://cbsnews3.cbsistatic.com/hub/i/r/2018/04/20/b8c55211-a7aa-4c91-8a3f-4d8ee463ec22/thumbnail/1200x630/f5949cb6fc00ddc3583087215dd5f5c3/istock-943351712.jpg', '2018-04-20T21:15:32+00:00']
-Email
-Last           Updated Apr 20, 2018 6:41 PM EDT
-The Centers for Disease Control and Prevention is expanding its warning to consumers to avoid all types of romaine lettuce from the Yuma, Arizona growing region due to a growing E. coli outbreak that has sickened people in 16 states. The warning now includes whole heads and hearts of romaine lettuce, as well as chopped romaine and salads and salad mixes containing romaine.
-Health officials say if you can't confirm where the lettuce came from, don't eat it.
-The update comes after new reports from Alaska health and corrections officials who say eight inmates at the Anvil Mountain Correctional Center got sick after eating lettuce from whole heads of romaine from the Yuma, Arizona growing region. None of the eight Alaska patients have been hospitalized and none have died.
-In addition to the eight Alaska inmates, the outbreak of E.coli O157:H7 has sickened at least 53 other people, 31 of whom had to be hospitalized, the CDC said in an updated posted Friday. No deaths have been reported.
-The CDC says the hospitalization rate for this outbreak is higher than normal and officials are working to figure out why.
-Symptoms of E. coli
-Symptoms of E. coli infection include diarrhea, which can be bloody, severe stomach cramps and vomiting. E. coli infections typically clear up within a week. However, more serious cases can lead to a type of kidney failure called hemolytic uremic syndrome (HUS).
-Five people sickened in the current outbreak have developed hemolytic uremic syndrome.
-Symptoms of HUS include fever, abdominal pain, pale skin tone, fatigue and irritability, unexplained bruises or bleeding from the nose and mouth, and decreased urination. These complications are more common in young children under 5, older adults, and people with weakened immune systems.
-Anyone experiencing these symptoms should seek medical care immediately.
-Rob Philippou from Garden City, New York, is one of those sickened in the outbreak.
-"There have been nights where I've been really nauseous, times when I've had really bad abdominal pain, terrible cramps," he told CBS News.
-Romaine lettuce warning
-CBS News' Don Dahler reports that 90 percent of the romaine grown in the U.S. between November and March comes from the Yuma region, and while the exact source of the outbreak hasn't been identified, the CDC strongly suspects that region is the culprit.
-To keep yourself and your family safe, the CDC recommends avoiding any romaine lettuce products that could be contaminated.
-"Unless the source of the product is known, consumers anywhere in the United States who have any store-bought romaine lettuce at home should not eat it and should throw it away, even if some of it was eaten and no one has gotten sick," the CDC states.
-"Product labels often do not identify growing regions; so, throw out any romaine lettuce if you're uncertain about where it was grown. This includes whole heads and hearts of romaine, chopped romaine, and salads and salad mixes containing romaine lettuce."
-Restaurants and retailers are also being urged not to serve or sell any romaine lettuce from the Yuma growing region and to check with suppliers about the source of their romaine lettuce.
+['nbc-news', '105', 'Jonathan Allen, Leigh Ann Caldwell', 'GOP faces rural rebellion over Trump trade agenda', "President Donald Trump's trade policies are confounding Republicans as rural voters \xe2\x80\x94 his strongest supporters \xe2\x80\x94 stand to get the short end of the stick just months away from the midterms.", 'http://www.nbcnews.com/politics/politics-news/gop-faces-rural-rebellion-over-trump-trade-agenda-n866456', 'https://media3.s-nbcnews.com/j/newscms/2018_16/2404796/180419-illinois-farm-aerial-soybean-harvest-se-503p_48995005bcd644e8d700b8f1fedd0c4e.1200;630;7;70;5.jpg', '2018-04-21T12:30:10.0994431Z']
+GOP faces rural rebellion over Trump trade agenda
+Share this 
+Trump Effect
+GOP faces rural rebellion over Trump trade agenda
+President Donald Trump's trade policies are confounding Republicans as rural voters  his strongest supporters  stand to get the short end of the stick just months away from the midterms.
+by Jonathan Allen and Leigh Ann Caldwell /
+Apr.21.2018 / 12:17 PM ET
+Democrats are hoping Trump's trade policies help them harvest some rural votes.Daniel Acker / Bloomberg via Getty Images
+Breaking News Emails
+Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings.
+SUBSCRIBE
+WASHINGTON  From his dairy farm in southeastern Nebraska, lifelong Republican Ben Steffen believed Donald Trump meant what he said on the campaign trail about ripping up U.S. trade agreements.
+So Steffen, who produces milk, beef, soybeans, corn and wheat, wasn't shocked when Trump pulled America out of the Trans-Pacific Partnership pact, began renegotiating NAFTA or announced his intent to impose aluminum and steel tariffs on China that have drawn the threat of retaliatory sanctions on American products.
+But he is alarmed about the potential costs of Trump's trade agenda to his own operation and the state's economy.
+"This kind of chaotic volatility in our trading relationships damages the market," Steffen, who runs the farm with his wife, his sister and four full-time employees, said in a telephone interview with NBC News. "The market responds and the prices are erratic and thats destabilizing for people out here on the bottom end producing feed and food."
+Now Steffen, who didn't vote for Trump, is a vocal supporter of Jane Raybould, the Democrat running an improbable campaign against first-term Sen. Deb Fischer, R-Neb.  and says he's talked to a lot of fellow farmers and Republicans who have "buyer's remorse" about Trump and Fischer.
+While it would take a political tsunami for Fischer to lose  Trump won the state by 25 percentage points  the president's trade agenda has boxed in congressional Republicans as they fight to hold their majorities in the House and Senate, potentially affecting competitive races in more than a dozen states.
+They're reluctant to distance themselves from a president who is following through on campaign-trail trade promises, whose support they need to drive Republican turnout and who vows his strategy will yield better deals for the country in the long run.
+And yet in rural areas across the country that are imperiled by disruptions in U.S. relations with China, Mexico, Canada and other trading partners, Republicans are facing a potential backlash from voters who are afraid that his tack on trade will hurt their bottom lines.
+"The presidents actions are going to be harmful to Republican candidates in the fall if remedial action is not taken," said former Sen. Dick Lugar, a Republican who represented Indiana for 36 years.
+President Donald Trump speaks during a meeting with governors and members of Congress on agriculture at the White House in Washington on April 12, 2018. Kevin Lamarque / Reuters file
+Last week, in a meeting with farm-state Republicans at the White House, Trump raised the prospect of beefing up federal agricultural subsidies to at least partially offset any pain from proposed Chinese tariffs on U.S. goods. But spending even more money at a time of exploding debt remains a front-of-mind concern for many GOP lawmakers.
+"We did market-loss adjustment programs in the late 1990s and it was a huge cost, which the taxpayers are not going to like, and which farmers are not going to like either because they dont want another income support program," said Sen. John Thune, R-S.D. "They want a market."
+Thune added that there's "no appetite" for subsidies among Senate Republicans.
+But that's not necessarily true among those Republican candidates trying to navigate the political tightrope created by Trump's trade policy. Some candidates would rather have subsidies that alleviate pain for their farmers than stick to party orthodoxy  at least between now and November.
+Republican Rep. Kevin Cramer, in a tight race against Sen. Heidi Heitkamp in North Dakota, looked to split the difference. In the face of a trade war, he said, subsidies would be "appropriate" to help farmers in the short term  but not over the long run.
+"What I don't want is a return to some sort of direct payment culture, because our farmers don't want a direct payment culture," Cramer said. "They like the crop insurance safety net. So in terms of it being a long-term policy, I would certainly be concerned about it."
+Sen. Jon Tester, a Montana Democrat and longtime farmer who is running in another of the nation's most hotly contested races, said that he would support subsidies over nothing at all if Trump doesn't back away from the tariffs.
+"I think as a last-ditch effort, yeah," Tester said. "Short of putting people out of business, I'd support them."
+But Democrats say Trump's trade agenda has gone in exactly the wrong direction for American farmers.
+"What he really needs to do instead of contracting trade markets is expand them, and he's not doing that," Tester said. "Farmers would much rather get their payments from the marketplace, so he needs to expand the markets."
+Many Democrats see political opportunity in the treatment the agricultural community has gotten from Trump, who said recently that farmers will "understand that they're doing this for the country" and that he would "make it up to them."
+Kristen Hawn, a Democratic strategist who is working with several House candidates, said Trump's message won't land well in the heartland.
+"Anyone who tells these hardworking Americans that they should take it on the chin is not just wrong," Hawn said. "They do it at their own political peril."
+Breaking News Emails
+Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings.
+SUBSCRIBE
+The Big Question: What is President Trump's end game with tariffs?
+01:23
+Rep. Frank Pallone, D-N.J., said his party was already well positioned to take advantage of a Trump backlash among suburban Republicans and that White House trade policy could help expand the map of politically competitive districts.
+"Hes not looking too good in the rural areas either right now," Pallone said. "If [we] start winning seats in Iowa and some of the farm areas, then they are really in trouble.
+Trump's actions forced the debate over tariffs and subsidies, but many Republicans and Democrats  and their rural voters  would like to see him simply walk back the proposed tariffs.
+"He brought [subsidies] up but really the whole focus of the discussion shifted to markets and trade and fair trade and not having tariffs," Sen. John Hoeven, R-N.D., said after meeting with Trump last week.
+But the president also told lawmakers repeatedly that he has his finger on the pulse of rural America.
+"He said multiple times hes very focused [on] getting something thats very good for agriculture and good for farmers and ranchers, and that farmers and ranchers supported him in his election," Hoeven said.
+But even among those farmers, support for the president doesn't automatically translate into support for his agriculture policy.
+Raybould, running against Fischer in Nebraska, has endorsed a bill introduced by Sens. Jeff Flake, Ariz., and Heidi Heitkamp, D-N.D., that would nullify Trump's proposed action on steel and aluminum imports.
+"We need more trading partners, not fewer trading partners," she said.
+In a statement released after last week's White House meeting, Fischer said she told Trump "how critical it is that we work together to protect markets" both domestically and internationally.
+These issues are "causing anxiety and uncertainty" among her constituents, she said.
+Breaking News Emails
+Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings.
+SUBSCRIBE

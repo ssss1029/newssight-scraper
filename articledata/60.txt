@@ -1,17 +1,23 @@
-['bloomberg', '60', 'Toru Fujioka, Yoshiaki Nohara', "U.S., Japan Clearly Differ on Trade Policy, Japan's Aso Says", 'Japanese Finance Minister Taro Aso told U.S. Treasury Secretary Steven Mnuchin that protectionism isn\xe2\x80\x99t good, adding to tensions over trade policy between the two global economic powers.', 'http://www.bloomberg.com/news/articles/2018-04-21/u-s-japan-clearly-differ-on-trade-policy-japan-s-aso-says', 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izzO.9yWBDUg/v0/1200x801.jpg', '2018-04-21T01:11:43Z']
-U.S., Japan Clearly Differ on Trade Policy, Japan's Aso Says
-By
-@ynohara1 More stories by Yoshiaki Nohara
-Trump, Abe Agree to Work Together on Trade
-Japanese Finance Minister Taro Aso told U.S. Treasury Secretary Steven Mnuchin that protectionism isnt good, adding to tensions over trade policy between the two global economic powers.
-U.S. and Japan clearly differ on their trade policies, Aso told reporters on Friday in Washington after attending the G-20 meeting of central bankers and finance ministers. The finance minister, who is in charge of Japans currency policy, said he and Mnuchin discussed foreign exchange in the context of the global economy.
-The
-divergence over trade was reiterated as the U.S. tries to pursue bilateral negotiations to fix trade imbalances with other nations, while Japan prefers a multilateral pact and hopes the U.S. will rejoin Trans-Pacific Partnership. U.S. President Donald Trump has sent mixed messages about the TPP.
-The gathering came after the meeting between Prime Minister Shinzo Abe and Trump also
-highlighted their differences over trade earlier this week, leaving the premier with little to
-revive falling support for his administration amid a string of scandals.
-Aso is also coming home to face pressure to step down as a land-sale scandal and sexual harassment
-allegations engulf the finance ministry. In Washington, he said hes not considering resigning, but a political backlash could intensify after Aso attended his first G-20 gathering in a year despite failing to get
-parliaments approval .
-Earlier in the week in Washington, Bank of Japan Governor Haruhiko Kuroda, who also attended the G-20 gathering, warned against trade protectionism, saying that it wont be good for the world economy. Kuroda, whose new term started this month, will be chairing the central banks monetary policy meeting on April 26-27 with his new deputies.
-Before it's here, it's on the Bloomberg Terminal.
+['cnbc', '60', 'Leslie Josephs', 'Deadly engine blast on Southwest flight could shake any traveler but air travel has become remarkably safe', 'A deadly engine failure aboard a Southwest Airlines flight broke a nine-year streak of zero passenger fatalities aboard U.S. airlines.', 'https://www.cnbc.com/2018/04/21/air-travel-has-become-remarkably-safe-despite-deadly-southwest-blast.html', 'https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/04/18/105139771-GettyImages-947840494.1910x1000.jpg', '2018-04-21T17:22:11Z']
+CNBC.com
+Dominick Reuter | AFP | Getty Images
+A Southwest Airlines jet sits on the runway at Philadelphia International Airport after it was forced to land with an engine failure, in Philadelphia, Pennsylvania, on April 17, 2018.
+The mid-air engine failure shortly into a Southwest Airlines flight from New York to Dallas this week may have shaken even seasoned travelers. A fan blade from one of the Boeing 737-700's engine's broke lose, sending shrapnel flying, while the plane was flying above 30,000 feet. One of its windows blew out, and a passenger was partially sucked out of the opening.
+The passenger, Jennifer Riordan, a banking executive and mother of two, died.
+Capt. Tammie Jo Shults, a former Navy fighter pilot , expertly guided the jet to an emergency landing in Philadelphia, bringing the plane down quickly to prevent further injuries after the cabin depressurized.
+The some 20-minute ordeal was horrific, but fatal accidents have become exceedingly rare. Riordan's death marked the first fatality from an accident aboard a U.S. airline since 2009, when a Colgan Air plane crashed near Buffalo, N.Y., killing 44 passengers and a person on the ground.
+"Aviation makes driving look like an act of suicide," said Richard Aboulafia, vice president of analysis at aviation analysis firm the Teal Group. The U.S. Department of Transportation last October said more than 37,000 people were killed on the country's roads in 2016. Traffic deaths overall and pedestrian fatalities had each increased from a year earlier.
+But plane crashes and fatal accident rates have declined, even as the number of flights and passengers have hit record highs, a trend industry analysts chalk up to higher safety standards, better maintenance, safer equipment and more training.
+U.S. airlines have carried close to 7 billion people since the Colgan Air crash through this past January, on more than 80 million flights, according to the Department of Transportation. That was without a passenger death due to an accident or incident. (The figures do not include on-board passenger deaths due to health problems.)
+Fatal crashes had been more common in previous decades , data from the National Transportation Safety Board show.
+"Crashes were happening for every damn reason you could imagine," said Kevin Michaels, managing director of AeroDynamic Advisory, an aviation consulting firm. "There were crashes all the time."
+But crashes have prompted changes in regulations and safety, although years often pass before the rules are introduced. More than four years after the crash Colgan Air Flight 3407, the Federal Aviation Administration announced an increase in the number flying hours required to fly for a commercial passenger or cargo airline as a first officer to 1,500 from 250 hours. A lack of pilot experience was cited in the crash.
+In 1996, a fuel-tank explosion downed TWA Flight 800, a Boeing 747 bound for Paris from New York. All 230 people aboard were killed. Twelve years later, the FAA issued a requirement to install equipment that pumps nitrogen into fuel tanks to reduce oxygen and as a result, potential explosions.
+The fatal engine failure aboard Southwest Flight 1380 on Tuesday, which came just days after a report on news program "60 Minutes" criticizing the safety record of budget carrier Allegiant Air , sparked some relatively quick action.
+The engine's manufacturer, CFM International, a joint venture of General Electric and France's Safran Aircraft Engines, issued a service bulletin, calling for more stringent, ultrasonic checks of some CFM56-7B fan blades. The FAA made these checks mandatory for some engines shortly afterward in an "emergency" order, depending on how many times they've been used.
+Southwest said its current maintenance program "meets or exceeds the requirements" set in the FAA's emergency order, issued Friday.
+The National Transportation Safety Board is in the early stages of its investigation of the incident but is focusing on how a fan blade of the engine, a type that powers more than 6,000 aircraft worldwide, broke off.
+Other challenges for airlines and regulators remain, even though the number of fatal accidents had declined in recent years. One issue is preventing injuries, or even death.
+Airlines have struggled to inform passengers of safety procedures. A photo from Flight 1380 showed passengers wearing oxygen masks over their mouths, but not their noses as flight attendants instruct. Emergency evacuations on other flights showed passengers stopping to reach for luggage or filming videos.
+Leslie Josephs Airline Reporter for CNBC.com
+Related Securities
