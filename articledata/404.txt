@@ -1,0 +1,15 @@
+['techradar', '404', 'Matt Hanson', 'Microsoft reveals why the Spring Creators Update has been delayed', 'New update addresses the problem', 'https://www.techradar.com/news/microsoft-reveals-why-spring-creators-update-has-been-delayed', 'https://cdn.mos.cms.futurecdn.net/bYyxBQ7BP49EbFZ2Hjh7ZR-1200-80.jpg', '2018-04-17T08:42:35.106Z']
+Microsoft reveals why the Spring Creators Update has been delayed
+Microsoft reveals why the Spring Creators Update has been delayed
+New update addresses the problem
+Shares
+We were disappointed when Microsoft delayed the Spring Creators Update , its next big overhaul of the Windows 10 operating system, but also curious to know what was serious enough to halt the much-hyped update, and now Microsoft has revealed why.
+In a blog post announcing the release of Windows 10 Insider Preview Build 17134 , Dona Sarkar, who works at Microsoft, revealed that as Build 17133 progressed through the rings, we discovered some reliability issues we wanted to fix. In certain cases, these reliability issues could have led to a higher percentage of (BSOD) on PCs for example.
+Build 17133 is how Microsoft refers to the Spring Creators Update, as even though it was expected to launch on April 10 , it still hasnt been officially named.
+You don't want to see a blue screen of death
+Blue screen blues
+The fact that the update was causing 'blue screen of death' errors, which cause Windows to become unresponsive and display a blue error screen, on enough PCs to warrant the delay of the update makes us feel like this was the correct move.
+You can still download and install the Windows 10 Spring Creators Update early and, if you have, there's good news. With the release of Windows 10 Insider Preview Build 17134 (RS4), which is available to Windows Insiders on the Fast ring, Microsoft appears to have addressed these issues.
+The fact that Microsoft has released the fixes as a separate build (17134 doesnt come with any other new features or fixes) rather than waiting to include it in a larger, cumulative update shows how seriously it's taking the problem.
+It also gives us hope that well see an official release of the Spring Creators Update, or whatever Microsoft decides to call it, sooner rather than later.
+To install the update, open up the Settings app, then go to Update & Security then click on Check for updates.

@@ -5,12 +5,14 @@
 
 import time
 import requests
+import sys
+
 from logger import log 
 from logger import err_log
-
 from settings import getSettings
 from news_api_scraper import getSources
 from news_api_scraper import getArticles
+from localstore import get_article_id
 from localstore import writeArticle
 
 settings = getSettings()
@@ -43,7 +45,9 @@ while 1:
 
 		articles = response["articles"]
 
+		# Add all the articles from the given source into the database
 		for article in articles:
+			get_article_id(article)
 			writeArticle(settings, article)
 
-	time.sleep(5)
+	sys.exit(0)

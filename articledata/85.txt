@@ -1,0 +1,27 @@
+['business-insider', '85', 'Hilary Brueck', 'Health officials say to avoid all forms of romaine lettuce after an E. coli outbreak sickened people in 16 US states', 'The CDC is investigating an outbreak of E. coli in romaine lettuce. This O157:H7 strain causes bloody diarrhea and, in severe cases, kidney failure.', 'http://www.businessinsider.com/what-is-e-coli-how-outbreak-spreads-2018-4', 'https://amp.businessinsider.com/images/5ad4b5a2146e711e008b4a65-640-320.jpg', '2018-04-20T00:00:00Z']
+Fields of romaine lettuce can be susceptible to E. coli contamination from nearby cattle farms. E. coli can also spread if people don't wash their hands.
+Photo by Sean Gallup/Getty Images
+The CDC recommended on Friday that Americans avoid all forms of romaine lettuce.
+E. coli is a species of bacteria that live in the intestines of people and animals.
+Some E. coli are harmless and live inside our healthy guts, but other strains can make you really sick and cause kidney failure or death.
+The recent outbreak that the CDC is investigating involves a dangerous E. coli strain that has spread to at least 16 states. The health agency believes the source of the illnesses is contaminated romaine lettuce from Arizona.
+If you have any romaine lettuce in the fridge  be it pre-chopped, whole heads, or hearts  the Centers for Disease Control and Prevention recommend throwing it out.
+The CDC believes romaine lettuce from the Yuma, Arizona, region is responsible for infecting at least 53 people in 16 US states with a dangerous, diarrhea-inducing E. coli bug. The outbreak is still growing: officials initially said only pre-chopped romaine was a problem, but have since expanded that warning to all types of the lettuce.
+Jenny Cheng/Business Insider
+The CDC has not linked the outbreak to any one brand of greens or retailer, so it is warning everyone who has bought romaine recently. The CDC is also asking people who are eating out or shopping for greens to be extra cautious about where their salad came from.
+"Do not buy or eat romaine lettuce at a grocery store or restaurant unless you can confirm it is not from the Yuma, Arizona, growing region," the CDC says on its website . "Unless the source of the product is known, consumers anywhere in the United States who have any store-bought romaine lettuce at home should not eat it and should throw it away, even if some of it was eaten and no one has gotten sick."
+The nasty strain of O157:H7 E. coli has landed 31 patients in the hospital so far. Five people have developed kidney failure, and others have the more common signs of E. coli contamination like bloody diarrhea, stomach cramps, and vomiting.
+Here's how an E. coli bug like this spreads and what can you do to reduce your risk of catching the potentially deadly bacteria.
+What is E. coli?
+E. coli is a rod-shaped type of bacteria that lives in our guts. But some dangerous strains can make you really sick.
+Flickr/NIAID
+E. coli gets a bad reputation as an illness-causing, bad-guy bacteria, but you probably have a bit of good-guy E. coli inside your body right now.
+Escherichia coli is a broad term for a species of diverse bacteria. Certain strains of E. coli colonize our guts almost immediately after birth and stick to the mucus of our intestines, keeping our intestinal tract humming along smoothly.
+The strain that has been linked to this recent outbreak, however, O157:H7, tends to be a pretty naughty version of the bug.
+The O157:H7 strain sickened 25 people who ate leafy greens including romaine lettuce last November and December. One Californian died. In May of last year, O157:H7 turned up in soy-nut butter. Thirty-two people got sick from that outbreak, and nine developed kidney failure .
+O157:H7 usually originates in the guts of cattle, but it can also be found in goats, sheep, deer, and elk. It can travel from cattle farms to nearby fields where lettuce is grown and contaminate the greens in the soil. It can also get on the lettuce when food-handlers don't wash their hands properly after coming into contact with E. coli-harboring feces.
+What makes the O157:H7 strain so dangerous for people is that it produces a nasty Shiga toxin, which can make us really sick. This kind of Shiga-toxin-producing E. coli, or STEC, as it's sometimes called, spreads to humans when little bits of feces get inside our mouth. That's why a bit of undercooked meat or raw milk can make you ill.
+But that's not the only way to catch the bug.
+"People have gotten infected by swallowing lake water while swimming, touching the environment in petting zoos and other animal exhibits, and by eating food prepared by people who did not wash their hands well after using the toilet," according to the CDC .
+Some signs that you've got a Shiga toxin-producing strain of E. coli inside include:
+Bloody diarrhea

@@ -1,0 +1,14 @@
+['associated-press', '35', '', 'DOJ looks into how AT&T, Verizon handle defecting customers', 'NEW YORK (AP) \xe2\x80\x94 The Justice Department has opened an antitrust investigation into whether AT&amp;T, Verizon and a standards-setting group worked together to stop consumers from easily switching wireless carriers. The companies confirmed the inquiry in separat\xe2\x80\xa6', 'https://apnews.com/dfb5533e10e94362b993e5cb131beef7', 'https://storage.googleapis.com/afs-prod/media/media:f69b97af1e154997841eecd3ca4bb038/3000.jpeg', '2018-04-20T23:59:46Z']
+DOJ looks into how AT&T, Verizon handle defecting customers
+Today
+https://apnews.com/dfb5533e10e94362b993e5cb131beef7
+Link copied!
+NEW YORK (AP)  The Justice Department has opened an antitrust investigation into whether AT&T, Verizon and a standards-setting group worked together to stop consumers from easily switching wireless carriers.
+The companies confirmed the inquiry in separate statements late Friday in response to a report in The New York Times.
+The U.S. government is looking into whether AT&T, Verizon and telecommunications standards organization GSMA worked together to suppress a technology that lets people remotely switch wireless companies without having to insert a new SIM card into their phones.
+The Times, citing six anonymous people familiar with the inquiry, reported that the investigation was opened after at least one device maker and one other wireless company filed complaints.
+Verizon, which is based in New York, derided the accusations on the issue as "much ado about nothing" in its statement. It framed its efforts as part of attempt to "provide a better experience for the consumer."
+Dallas-based AT&T also depicted its activity as part of a push to improve wireless service for consumers and said it had already responded to the government's request for information. The company said it "will continue to work proactively within GSMA, including with those who might disagree with the proposed standards, to move this issue forward."
+GMSA and the Justice Department declined to comment.
+News of the probe emerge during a trial of the Justice Department's case seeking to block AT&T's its proposed $85 billion merger with Time Warner to over antitrust concerns. That battle centers mostly on the future of cable TV and digital video streaming.
+Verizon and AT&T are the two leading wireless carriers, with a combined market share of about 70 percent.

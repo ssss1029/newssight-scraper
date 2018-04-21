@@ -1,0 +1,4 @@
+['cnn', '120', 'NOVALUE', 'Trump changes tone on immigration - CNN Video', 'On Tuesday, President Trump appeared to be open to a "clean" DACA bill. By Wednesday, he seemed adamant that the wall be included in any immigration bill.', 'http://us.cnn.com/videos/politics/2018/01/10/trump-changes-tone-immigration-orig-alee.cnn', 'https://cdn.cnn.com/cnnnext/dam/assets/180109231118-cnnee-conclusiones-intvw-jesus-marquez-estratega-republicano-daca-muro-trump-reunion-00004914-super-tease.jpg', '2018-04-21T04:30:19.4423229Z']
+MUST WATCH
+Trump changes tone on immigration
+On Tuesday, President Trump appeared to be open to a "clean" DACA bill. By Wednesday, he seemed adamant that the wall be included in any immigration bill.

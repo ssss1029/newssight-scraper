@@ -1,0 +1,11 @@
+['the-next-web', '441', 'Rachel Kaser', "Twitch becomes an unexpected casualty in Russia's dust-up with Telegram", "The world's most popular livestreaming site appears to be caught in the crossfire as Russia fights popular encrypted messaging app Telegram. Russian streamers are reportedly unable ...", 'https://thenextweb.com/gaming/2018/04/20/twitch-becomes-unexpected-casualty-russias-telegram-ban/', 'https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/twitch-e1491600114230.jpg', '2018-04-20T17:32:29Z']
+95
+shares
+The worlds most popular livestreaming site appears to be caught in the crossfire as Russia fights popular encrypted messaging app Telegram . Russian streamers are reportedly unable to stream or watch other channels, having to find tricks to get around the ban.
+One of the first acknowledgements came from Reddit user Angry_Roleplayer . In his post, several other alleged streamers reported being unable to go live on Twitch or even access it. Angry_Roleplayer managed to upload a video showing the blockage to YouTube :
+The apparent cause of the ban is Russias current scuffle with Telegram, which escalated earlier this month when the latter refused to provide Russian authorities with encryption keys.
+Roskomnadzor, the Russian communications regulator, blocked 20 million IP addresses belonging to Google and Amazon in an attempt to keep Russian citizens from accessing Telegram. According to Reuters , the head of Roskomnadzor explained their reasoning thusly:
+We have currently informed both companies that a significant number of IP addresses located in the clouds of these two services have fallen under the block on the basis of the court ruling (to block Telegram).
+And considering Twitch is an Amazon-owned site, its probably no surprise it got struck down for some users. A smattering of other streamers claimed to have accessed the site from Russia, so there may be some hope. Weve contacted Twitch for more information on the ban from their side.
+Incidentally, a few Russian users reported that Telegram is still working in their country. So any backlash caught by Twitch users appears to be pointless, as the actual quarry has slipped the net.
+The Next Webs 2018 conference is almost here, and itll be. Find out all about our tracks here .

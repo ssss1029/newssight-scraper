@@ -1,0 +1,42 @@
+['ars-technica', '24', 'Beth Mole', 'Here are the types of marijuana best for stress and anxiety, according to users', 'For depression, use may exacerbate symptom severity over time.', 'https://arstechnica.com/science/2018/04/here-are-the-types-of-marijuana-best-for-stress-and-anxiety-according-to-users/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-597990022-760x380.jpg', '2018-04-20T17:20:29+00:00']
+Sign up or login to join the discussions!
+Stay logged in
+Sign up to comment and more Sign up
+In the weeds 
+Here are the types of marijuana best for stress and anxiety, according to users
+For depression, use may exacerbate symptom severity over time.
+Apr 20, 2018 5:20 pm UTC
+Enlarge / Inventory including "Merry N'Berry" is on display at a medical marijuana dispensary
+reader comments 102
+Share this story
+By passively monitoring user-generated data from medical cannabis patients, researchers have glimpsed the types and amounts of marijuana that seem effective for relieving symptoms of stress, anxiety, and depression. The findings could direct more detailed research into the best strains for specific conditions. But the data also hints at a danger of using marijuana to manage depression symptoms in the long term.
+Further Reading
+Massive scientific report on marijuana confirms medical benefits
+The study, published this week in the Journal of Affective Disorders by researchers at Washington State University, is based on data from a medical cannabis app called Strainprint, which lets patients track symptom severity after medical cannabis use. Before that, users enter detailed information about the strain of marijuana used, including selecting specific products from a list of those sold by licensed medical cannabis distributors in Canada. Health Canada has uniquely strict production and quality control guidelines for products sold there. But if a patient is using a product not on the list, they can manually input information about the strain, including cannabinoid content.
+The researchers looked at data from nearly 1,400 medical cannabis users, analyzing outcomes from almost 12,000 inhalation sessions. The researchers kept their analysis just to sessions involving inhalation (smoking, vaping, concentrates, dab bubbler, dab portable), to try to controlat least a littlefor efficacy and timing of the onset of effects.
+The sessions were split up depending on if users were trying to reduce symptoms of stress, anxiety, or depression. The researchers then looked for symptom level changes (on a self-reported scale of none [0] to most severe [10]), gender differences in effects, the percentage of 9tetrahydrocannabinol (THC) and cannabidiol (CBD) in the strain used, dose effects, and changes of symptoms over time.
+Reefer relief
+For anxiety, the researchers found a significant reduction in ratings of anxiety symptoms overall, with 93.5 percent of tracked sessions leading to anxiety symptom relief. Generally, women tended to record greater reductions in symptoms than men. Two or more puffs were most effective at reducing symptoms. One was relatively less effective, but two puffs were just as effective as 10, according to users. But neither the THC nor CBD content seemed to matter for symptom relief. Patients reported relief regardless of the levels of both. Over time, users reported short-term relief, but they didnt see any improvement in their overall levels of symptoms. That is, cannabis use did not prevent, lessen, or increase future anxiety.
+For stress, researchers also found significant symptom reduction, with 93.3 percent of sessions resulting in relief. But just as for anxiety, baseline stress levels didnt seem to lessen over time with marijuana use. There were no gender differences for the effects. Researchers noted a slightly positive linear relationship between the number of puffs and symptom relief, with 10 puffs being the most effective.
+Anxiety symptom relief
+Cuttler et al.
+The largest reductions in stress symptoms appeared from using products that had high levels of THC and high levels of CBD. (They defined high as having an amount at least one standard deviation above the mean level in products used, while low was defined as having at least one standard deviation below that mean.) The products used for stress had a mean THC content of 16.53 percent, with a standard deviation of 9.97, and a mean CBD content of 2.97 percent, with a standard deviation of 8.36 (table in gallery above).
+In other words, the products that appeared to be most effective for stress relief had THC content at or above about 26.5 percent and CBD content at or above 11 percent.
+Products that were high THC/ low CBD, low THC/ high CBD, or low TCH/ low CBD all showed about the same effectiveness, which was lower than that from the high THC/high CBD products.
+For depression, researchers also found inhalation sessions were effective at lessening symptomsin the short-term. About 89 percent of sessions resulted in immediate symptom relief. There were no gender differences in these effects, and there were no dose effects. That is, one puff seemed just as effective as 10 or more puffs, suggesting micro-dosing could be effective for depression symptom relief.
+The products most effective for depression were those with relatively low THC levels and high CBD levels. More specifically, the most effective products had THC levels at or below about five percent and CBD levels at or above about 10 percent.
+Together with the findings from the stress data, the researchers noted:
+The non-medical cannabis market is currently dominated by the sales of high THC cannabis products, but these results suggest that CBD is an important component of cannabis and that medical cannabis users should seek out cannabis with CBD levels of 10 percent or higher.
+Depressing link and limitations
+Lastly, the researchers found that while marijuana improved depression symptoms in the short term, patients logged more severe depression symptoms over time. This hints that marijuana may increase or exacerbate depressive symptoms in the long term, which has been noted as the case for some antidepressant medications.
+The researchers speculate that this negative effect may be due to the way that marijuana affects the endocannabinoid system in the body. Some data has suggested that chronic cannabis use blocks chemical messenger receivers called CB1 receptors in areas of the brain linked to mood disorders. And such CB1 blockade has been linked to depression. The researchers note, however, that abstaining from cannabis for just a few days would likely reverse any blockade.
+The study overall needs to be followed up with blinded, randomized, placebo-controlled studies to verify the findings. Self-reported data can be unreliable, as can product listings of THC and CBD content. The study also didnt account or control for the dozens of other cannabinoids in marijuana that may have health effects. Finally, those using a medical cannabis app are probably the patients most-likely to benefit from cannabis and are thus not necessarily representative of patient pools overall.
+That said, the researchers argue that the at-home use and data offer a naturalistic examination of marijuana treatments that may be superior in some ways to lab-based studies. They also note that because app users didnt know that their data was being used for the study (although they had consented to the possibility), the data offers genuine insight into their experiences.
+Journal of Affective Disorders, 2018. DOI: 10.1016/j.jad.2018.04.054 ( About DOIs ).
+Latest Ars Video >
+The Greatest Leap, Episode 3: Triumph
+In honor of the 50th anniversary of the beginning of the Apollo Program, Ars Technica brings you an in depth look at the Apollo missions through the eyes of the participants.
+The Greatest Leap, Episode 3: Triumph
+The Greatest Leap, Episode 3: Triumph
+In honor of the 50th anniversary of the beginning of the Apollo Program, Ars Technica brings you an in depth look at the Apollo missions through the eyes of the participants.
+Beth Mole Beth is Ars Technicas health reporter. Shes interested in biomedical research, infectious disease, health policy and law, and has a Ph.D. in microbiology.

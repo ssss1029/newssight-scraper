@@ -1,0 +1,44 @@
+['ars-technica', '25', 'Jon Brodkin', 'NYC blasts broadband competition shortage as it pursues suit against Verizon', 'Two-thirds of NYC homes have only one or two broadband options, city report says.', 'https://arstechnica.com/information-technology/2018/04/nyc-blasts-broadband-competition-shortage-as-it-pursues-suit-against-verizon/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/getty-verizon-new-york-760x380.jpg', '2018-04-20T15:56:32+00:00']
+Sign up or login to join the discussions!
+Stay logged in
+Sign up to comment and more Sign up
+Competition shortage 
+NYC blasts broadband competition shortage as it pursues suit against Verizon
+Two-thirds of NYC homes have only one or two broadband options, city report says.
+Apr 20, 2018 3:56 pm UTC
+Enlarge / New York, USA - January 14, 2016: A Verizon worker on Worth Street in Lower Manhattan.
+Getty Images | 400tmax
+reader comments 81
+Share this story
+More than two-thirds of New York City's 3.1 million households have just one or two broadband providers offering service to their homes, according to a new "Truth in Broadband " report issued by the city government. The report comes as NYC pursues a lawsuit against Verizon alleging that it hasn't met its broadband deployment obligations.
+There's only one ISP offering home broadband service at 13.54 percent of the city's 3,114,826 households, meaning that nearly 422,000 households have just one "choice." Another 55.44 percent of NYC householdsnearly 1.73 million in allhave two broadband providers. The remaining 31.02 percent (more than 966,000 households) have at least three broadband providers.
+Further Reading
+1 million NYC homes cant get Verizon FiOS, so the city just sued Verizon
+The report defines broadband as Internet service with at least 25Mbps download speeds and 3Mbps upload speeds, the same standard the Federal Communications Commission uses to evaluate broadband deployment progress nationwide. DSL offers some more choice, but the network technology "is not generally capableof delivering a 25Mbps download speed," the report said. The report's broadband deployment statistics are based on federal data as of December 2016.
+NYC is better off than the country as a whole, as 99 percent of the city's Census blocks have at least one ISP offering broadband speeds. "This represents 100 percent of the city's households and 99.25 percent of businesses," the report says.
+Nationwide, FCC data from 2016 shows that 13 percent of developed Census blocks in the US had no broadband-capable providers. About 30 percent of US Census blocks have exactly one provider at 25/3Mbps, 30 percent have two providers, and the rest have at least three.
+Verizon and Charter under fire
+It's no surprise that NYC would be more wired up than the nation overall, but the city's gaps in broadband choice are still troubling.
+Verizon agreed to bring fiber Internet to all NYC households by 2014, but nearly 1 million NYC homes still lack the service. The city government filed a lawsuit last year against Verizon, though the company says it has met its obligations and that landlords have prevented the company from accessing all buildings. The case is pending in the state court system.
+New York City households also have cable service from Charter, Altice, and RCN.
+Further Reading
+NY says Charter lied about new broadband, threatens to revoke its franchise
+Charter is being sued by the state New York government officials say the company falsely promised fast Internet speeds that it knew it could not deliver. Separately, New York state officials last month threatened to terminate Charter's franchise agreements with New York City, saying the cable company failed to meet broadband construction requirements and may not have paid all of its required franchise fees.
+Broadband gaps are not only a problem in "remote, rural areas of the country," NYC Chief Technology Officer Miguel Gamio, Jr wrote in the Truth in Broadband report. "As we see in this report, the number of people in New York City without a broadband subscription at home is equivalent to the population of Houston. Even those who have a connection may be struggling to afford it, or may have only a single option for broadband service."
+Digging into the data
+About 31 percent of NYC households lack a home broadband subscription. Many of those rely on cellular Internet, although the report said that 17 percent of households have "no access" of any kind.
+It's likely that many more New Yorkers would have broadband if they could afford it. "Home broadband subscribership tracks closely with income level, and a large disparity exists between the high and low ends of the income spectrum," the report said.
+Broadband prices are obviously affected by the lack of strong competition in most of the city. Even though nearly all New York City residents have broadband available to them, the competition shortage likely keeps prices high and causes low-income residents to go without home Internet.
+"More than half (56 percent) of New York City's lowest-income households lack a home broadband subscription. This rate is nearly double that for the citywide population, and more than five times the rate for the highest-income households," the city report said.
+There are also racial disparities. "32 percent of black New Yorkers and 33 percent of Hispanic New Yorkers lack a home broadband subscription, a figure that stands at 21 percent and 23 percent for white and Asian residents, respectively," the report said.
+Broadband choice is at its worst in the Bronx and Manhattan, where 28 percent and 18.8 percent of households have only one broadband provider, respectively.
+New York City
+Broadband providers' privacy policies should be evaluated in the context of competition data, the report said. Given the federal repeal of broadband privacy protections, ISPs are "revamping their business models to make privacy a premium option for users who are willing and able to pay more," the report said. "For example, in 2017, Verizon introduced a new program called Verizon Up , offering consumers discounts and perks for agreeing to share Web browsing history with 'vendors andpartners.'"
+Poor residents are "likely to face household financialpressures to enroll in these programs," the report said.
+Many businesses lack choice
+Many businesses in the city also lack broadband choice, the NYC report said. "[N]early three-quarters of small businesses (72 percent) have only one or two options of broadband providers," it said. "Similarly, nearly three-quarters of small businesses (73 percent) have fewer than three options for commercial fiber service, including fourteen percent (14 percent) that have no commercial fiber provider available in their Census block."
+About 44 percent of small NYC businesses have no gigabit Internet option. There's also no gigabit access for households in "large sections of upper Manhattan, the south Bronx and central Brooklyn."
+The report's data will help NYC set its strategy for broadband deployment, Gamio, Jr wrote:
+We've made progress holding Internet service providers accountable for their commitments, launching the largest and fastest municipal free Wi-Fi program in the world, and delivering Internet access directly to public housing residents. This report shows that we still have work to do. But now, for the first time, we have a comprehensive picture of the disparities in broadband across the city and how they tie to age, race, income, education level and where you live.
+Disclosure: The Advance/Newhouse Partnership, which owns 13 percent of Charter, is part of Advance Publications. Advance Publications owns Cond Nast, which owns Ars Technica.
+Jon Brodkin Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, wireless technology, and more.

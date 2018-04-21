@@ -1,0 +1,42 @@
+['medical-news-today', '241', 'Tim Newman', 'Could gut bacteria cause joint pain?', 'A study looks at the relationship between diet, gut bacteria, and osteoarthritis. Surprisingly, it found that the microbiome is linked to joint health.', 'http://www.medicalnewstoday.com/articles/321533.php', 'https://cdn1.medicalnewstoday.com/content/images/hero/321/321533/321533_1100.jpg', '2018-04-20T00:00:00Z']
+Login
+Sign in
+Log in with your Medical News Today account to create or edit your custom homepage, catch-up on your opinions notifications and set your newsletter preferences.
+Register for a free account
+Sign up for a free Medical News Today account to customize your medical and health news experiences.
+Register
+Could gut bacteria cause joint pain?
+Published
+Fact checked by Jasmin Collier
+Finding a link between osteoarthritis and the bacteria in our guts seems unlikely. However, new research concludes that they could, in fact, be bedfellows.
+A new study probes gut bacteria and their role in osteoarthritis.
+Obesity comes with a raft of related health risks, including diabetes and cardiovascular disease. It is also intimately tied to osteoarthritis.
+Often referred to as the "wear and tear" arthritis , osteoarthritis involves the slow degradation of cartilage, or the padding between bones in a joint.
+In the United States, osteoarthritis affects an estimated 31 million people and is a leading cause of disability, globally. As it stands, osteoarthritis cannot be cured.
+People who carry excess weight put extra strain on their joints. This, it was thought, explained the increased risk of osteoarthritis that comes with obesity.
+A new study, published this week in the journal JCI Insight , looked at a more intriguing mechanism that might link these two conditions: gut bacteria.
+We have billions of bacteria living in our intestines. They are vital for good health and, over recent years, just how vital they are has become increasingly clear .
+Researchers from the University of Rochester Medical Center in New York set out to explore what links there might be between diet, obesity, gut bacteria, and osteoarthritis.
+Fattening up mice
+To begin with, the researchers fed mice a high-fat diet over a 12-week period. They quickly became diabetic and obese, doubling their percentage of body fat. Next, the bacterial residents of the animals' colons were assessed.
+As expected, their microbiomes were off-kilter; their bowels were overrun with pro-inflammatory bacteria and had a distinct lack of healthy, probiotic bacteria, such as Bifidobacteria.
+Read now
+At the same time, the scientists observed body-wide inflammation in the obese mice, including the knee joints. To induce osteoarthritis, the researchers tore the animals' menisci, or the cushion of cartilage between the shin and thigh bones. This type of injury commonly causes osteoarthritis.
+In the obese mice, osteoarthritis developed much more quickly than in the control mice. In fact, within 12 weeks, virtually all of the obese mice's cartilage had gone.
+"Cartilage," says Michael Zuscik, Ph.D., an associate professor of orthopaedics in the Center for Musculoskeletal Research, "is both a cushion and lubricant, supporting friction-free joint movements.
+"When you lose that," he says, "it's bone on bone, rock on rock. It's the end of the line, and you have to replace the whole joint. Preventing that from happening is what we, as osteoarthritis researchers, strive to do  to keep that cartilage."
+Can cartilage degradation be slowed?
+For the next phase of the study, the scientists started the protocol again: they fattened up mice with a 12-week, high-fat diet. But this time, they included a prebiotic called oligofructose.
+Prebiotics  not to be confused with probiotics  cannot be broken down by mouse (or human) guts. However, many beneficial bacteria, such as Bifidobacteria, thrive in their presence.
+This subtle but important change in diet promoted the growth of healthy bacteria and produced a marked reduction in pro-inflammatory bacteria.
+Importantly, it also reduced inflammation in the joints, and the knee cartilage of the obese mice was indistinguishable from that of the non-obese control mice.
+The addition of a prebiotic to the diet also reduced diabetic symptoms. But it made no difference to the amount of weight that the mice gained.
+So, even though the joints were subjected to the same amount of strain, they were healthier. This supports the theory that inflammation, rather than mechanical strain, is the key driver of osteoarthritis.
+"That reinforces the idea that osteoarthritis is another secondary complication of obesity  just like diabetes, heart disease , and stroke , which all have inflammation as part of their cause."
+Robert Mooney, Ph.D., a professor of pathology and laboratory medicine
+"Perhaps," adds Prof. Mooney, "they all share a similar root, and the microbiome might be that common root."
+A note of caution
+It is vital to remind ourselves that, though the findings are exciting, there are significant differences between the mouse microbiome and our own. The next step, therefore, will be to move this line of investigation into humans.
+The leaders of this study plan to team up with the Military and Veteran Microbiome: Consortium for Research and Education at the U.S. Department of Veterans Affairs in Denver, CO.
+They hope to compare the microbiomes of veterans with and without obesity-related osteoarthritis. They will supplement some of these participants with prebiotics to gauge how much benefit this intervention might have in humans.
+Related coverage

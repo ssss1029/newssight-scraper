@@ -1,0 +1,22 @@
+['ars-technica', '23', 'Sean Gallagher', 'When you go to a security conference, and its mobile app leaks your data', 'RSA Conference attendee contact data extracted using hard-coded API data.', 'https://arstechnica.com/information-technology/2018/04/insecure-rsa-conference-app-leaked-attendee-data/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/Screen-Shot-2018-04-20-at-1.22.58-PM-760x380.png', '2018-04-20T17:46:04+00:00']
+Sign up or login to join the discussions!
+Stay logged in
+Sign up to comment and more Sign up
+The shoemaker's children 
+When you go to a security conference, and its mobile app leaks your data
+RSA Conference attendee contact data extracted using hard-coded API data.
+Sean Gallagher -
+Apr 20, 2018 5:46 pm UTC
+Enlarge / Screenshots of the RSA Conference application from the Google Play Store. The app's Web interface leaked attendee data when supplied with a token obtained by registering the app.
+Google Play Store
+reader comments 44
+Share this story
+A mobile application built by a third party for the RSA security conference in San Francisco this week was found to have a few security issues of its ownincluding hard-coded security keys and passwords that allowed a researcher to extract the conference's attendee list. The conference organizers acknowledged the vulnerability on Twitter, but they say that only the first and last names of 114 attendees were exposed.
+ RSA Conference (@RSAConference) April 20, 2018
+The vulnerability was discovered (at least publicly) by a security engineer who tweeted discoveries during an examination of the RSA conference mobile app, which was developed by Eventbase Technology. Within four hours of the disclosure, Eventbase had fixed the data leakan API call that allowed anyone to download data with attendee information.
+If you attended #RSAC2018 and see your first name there - sorry!  pic.twitter.com/YrgZo6jHDu
+ svbl (@svblxyz) April 20, 2018
+Accessing the attendee list required registering an account for the application, logging in, and then grabbing a token from an XML file stored by the application. Since registration for the application only required an email address, anyone who could dump the files from their Android device could obtain the token and then insert it into a Web-based application interface call to download attendee names. While the SQLite database downloaded was encrypted, another API call provided that key.
+Another SQLite database that can still be pulled down via the application's APIs is not encrypted, and it contains more personal information, including names, addresses, phone numbers, company names, and social media account links. Ars looked at that database, and it appears to contain only vendor and speaker data, so it's likely intentionally insecure because it's less sensitive.
+This is the second time an RSA mobile application has leaked attendee data. In 2014, an application built by another developer,QuickMobile, was found by Gunter Ollmann (who was at that time at IOactive) to have a SQLite database containing personal information on registered attendees .
+Sean Gallagher Sean is Ars Technica's IT and National Security Editor.  A former Navy officer, systems administrator, and network systems integrator with 20 years of IT journalism experience, he lives and works in Baltimore, Maryland.

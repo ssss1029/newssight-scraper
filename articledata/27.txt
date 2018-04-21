@@ -1,0 +1,23 @@
+['ars-technica', '27', 'Jonathan M. Gitlin', 'Electrify America will deploy 2,000 350kW fast chargers by the end of 2019', '484 new charging sites, split between 17 metro areas and highways in 39 states.', 'https://arstechnica.com/cars/2018/04/electrify-america-will-deploy-2000-350kw-fast-chargers-by-the-end-of-2019/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/Electrify-America-Chargers-by-BTC-Power-760x380.jpg', '2018-04-20T15:13:08+00:00']
+Sign up or login to join the discussions!
+Stay logged in
+Sign up to comment and more Sign up
+Charge! 
+Electrify America will deploy 2,000 350kW fast chargers by the end of 2019
+484 new charging sites, split between 17 metro areas and highways in 39 states.
+Jonathan M. Gitlin -
+Apr 20, 2018 3:13 pm UTC
+Enlarge / ABB, BTC Power, Efacec, and Signet will work with Electrify America on this new network of fast EV chargers.
+Electrify America
+reader comments 127
+Share this story
+As its legion of comment-posting fans love to point out, Tesla's Supercharger network is a major part of that company's success when it comes to selling electric vehicles. For over a century we've lived with cars that can be refueled in minutes, and old habits die hard. Even though the optimal solution is EV owners plugging in each night, the thought of being stranded with a slow-charging EV but hundreds of miles to drive in a day causes enough terror to rule out such cars for many potential drivers. If we want more people to make the switch, the answer then is more chargers and faster chargers. And Electrify America evidently agrees.
+An offshoot of the Volkswagen empire created in the wake of the diesel emissions scandal, Electrify America has a quite ambitious plan. This week it announced it had picked suppliers for a new network of fast chargers across the country. Between now and the end of 2019, it's going to deploy 2,000 fast chargers at a total of 484 charging stations. There are still a mix of competing standards when it comes to EV charging, so Electrify America's approach is to offer them all.
+That means 50kW CHAdeMO connectors and then dual-handle CCS1 chargers, capable of 50kW as well as either 150kW or 350kW (using liquid-cooled cables). Vehicles capable of charging at that higher rate aren't on sale yet, but by sheer coincidence that matches the specs of forthcoming Battery EVs from... Volkswagen Group.
+Audi's e-tron and Porsche's Mission-E will both be on sale in the coming months, and both are capable of accepting 350kW charges. And a whole range of Volkswagen I.D. battery EVs will begin appearing in showrooms in 2020.
+Electrify America's proposed charger network.
+Electrify America
+The charging sites will be in 17 metropolitan areas and on highways in 39 states. The highway stations will offer between four and ten CCS1 chargers, with metropolitan locations having between three and six. The latter will also offer good old J1772 level 2 chargers for drivers of older battery EVs or plug-in hybrid EVs that can't suck down fresh electrons at such prodigious rates.
+"By placing our ultra-fast charging systems in locations drivers enjoy stopping at, we help reduce charging anxiety and increase the public acceptance of electric vehicles. Dramatically increasing the charging speed by offering the first-ever certified cooled-cable 150/350kW DC Fast Chargers is also a significant step, meaning less time is spent refueling," said Mark McNabb, president and CEO of Electrify America.
+Even Walmart is getting involved. This week, it revealed it was partnering with Electrify America to deploy the DC 350kW fast chargers to more than 100 of its stores (spread out across 34 states) by June 2019.
+Jonathan M. Gitlin Jonathan is the automotive editor at Ars Technica, covering all things car-related. Jonathan lives and works in Washington, D.C.

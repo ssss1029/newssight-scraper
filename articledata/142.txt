@@ -1,0 +1,15 @@
+['crypto-coins-news', '142', 'NOVALUE', "Bitmain Will 'Burn' 12% of Bitcoin Cash Txn Fee, Calls on Other Miners to Follow", 'Join our community of 10 000 traders on Hacked.com for just $39 per month. Cryptocurrency mining rig manufacturer and mining pool operator Bitmain has announced that it will destroy a portion of the transaction fees that it accrues from mining Bitcoin Cash bl\xe2\x80\xa6', 'https://www.ccn.com/bitmain-will-burn-12-of-bitcoin-cash-tx-fees-calls-on-other-miners-to-follow-suit/', 'https://www.ccn.com/wp-content/uploads/2016/09/Coins-burning.jpg', '2018-04-20T18:11:43Z']
+Bitmain Will Burn 12% of Bitcoin Cash Txn Fee, Calls on Other Miners to Follow
+Advertisement
+Join our community of 10 000 traders on Hacked.com for just $39 per month.
+Cryptocurrency mining rig manufacturer and mining pool operator Bitmain has announced that it will destroy a portion of the transaction fees that it accrues from mining Bitcoin Cash blocks in a bid to support the economic health of the network.
+AntPool, the Chinese companys mining pool, made the announcement on Friday, explaining that it will burn 12 percent of all the transaction fees from Bitcoin Cash blocks that it mines by sending them to burn addresses, whose funds are unspendable.
+Arguing that Bitcoin Cash is at the tipping point of becoming a widely used public blockchain, Bitmain explained that burning a portion of the networks transaction fees will strengthen its internal economy and help investors profit from the growth of BCH.
+From the statement :
+While having active users spending BCH is very important for the ecosystem, having investors who hold BCH is also a fundamental requirement for maintaining a strong economy. Without these holders, BCHs exchange value loses significant support. We believe that they too should profit from the growth of BCH by their continued stake in the Bitcoin Cash ecosystem. The transaction fees earned by miners are an important growth indicator of the BCH ecosystem, and if a portion of the fees are burnt, it is effectively miners sharing revenue with the entire BCH network.
+By reducing the total supply of Bitcoin Cash in circulation, Bitmain believes that it can reduce sell pressure on the coin, ultimately making it more valuable.
+Those comments are notable, given that many of Bitcoin Cashs advocates  a group that includes Bitmain CEO Jihan Wu  argue that Satoshis vision for cryptocurrency was that it should be a currency first, not a store of value.
+Source: CoinDance
+At present, AntPool accounts for 7.3 percent of Bitcoin Cash blocks mined within the past week, though it has mined more than 10 percent of blocks mined in the past 24 hours.
+Bitmain called for other mining pools to follow its example and burn 12 percent of the transaction fees from blocks that they mine, which would make the practice de facto economic policy for the network.
+Featured image from Shutterstock.

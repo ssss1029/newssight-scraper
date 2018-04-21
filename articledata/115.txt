@@ -1,0 +1,16 @@
+['cnbc', '115', 'Evelyn Cheng', "Amazon Web Services launches 'blockchain templates'", 'Amazon.com wants to make it easier for developers to create projects based on the blockchain technology underlying bitcoin and other cryptocurrencies.', 'https://www.cnbc.com/2018/04/20/amazon-web-services-launches-blockchain-templates.html', 'https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/13/104584754-GettyImages-676338290.1910x1000.jpg', '2018-04-20T21:04:13Z']
+Bitcoin
+Amazon Web Services launches 'blockchain templates'
+Amazon.com wants to make it easier for developers to create projects based on the blockchain technology underlying bitcoin and other cryptocurrencies.
+The company's cloud computing division launched "AWS Blockchain Templates" on Thursday.
+The product gives users pre-set blockchain frameworks that support two versions of the technology: Ethereum and the Linux Foundation's Hyperledger Fabric.
+CNBC.com
+Getty Images
+Amazon.com wants to make it easier for developers to create projects based on the blockchain technology underlying bitcoin and other cryptocurrencies.
+The company's cloud computing division launched "AWS Blockchain Templates" on Thursday . The product gives users pre-set blockchain frameworks that support two versions of the technology: Ethereum and the Linux Foundation's Hyperledger Fabric.
+Blockchain eliminates the need for a third-party intermediary, such as a bank, by quickly creating a permanent, secure record of transactions.
+Start-ups and major corporations alike are working to apply the technology to supply-chain management, financial services, property records and many other industries. Bitcoin is the first application of blockchain.
+IBM , which also has a cloud computing service, is one of the leaders in enterprise blockchain development. The company reported $5.5 billion in revenue from cloud in the fourth quarter of last year.
+For the same quarter, Amazon reported $5.1 billion in revenue from AWS. Jeff Bezos' company is set to report earnings Thursday, April 26.
+WATCH: Blockchain can reduce cross-border transaction times
+show chapters

@@ -1,0 +1,21 @@
+['cbs-news', '104', 'CBS News', 'Cambridge Analytica Scandal: Alex Kogan fires back at Facebook', "App developer at heart of Facebook privacy scandal says FB didn't enforce rules \xe2\x80\x93 this Sunday on 60 minutes", 'https://www.cbsnews.com/news/cambridge-analytica-alex-kogan-fires-back-at-facebook-60-minutes/', 'https://cbsnews1.cbsistatic.com/hub/i/r/2018/04/20/8e15abe5-c6fa-4799-aa98-66950e288c69/thumbnail/1200x630/8738cf69d17653f38fea566501571aba/koganwalking.jpg', '2018-04-20T21:23:29+00:00']
+Education Sec. Betsy DeVos says arming teachers "should be considered"
+Alex Kogan fires back at Facebook
+App developer at heart of Facebook privacy scandal says FB didn't enforce rules  this Sunday on 60 Minutes
+2018 Apr 20
+Reddit
+Flipboard
+Aleksandr Kogan, the app developer at the heart of the Facebook privacy scandal, tells 60 Minutes he isn't sure whether he ever read the social network's developer policy, which prohibited apps like his from selling or licensing Facebook data to marketing firms  like Cambridge Analytica.
+Kogan tells Lesley Stahl that when he harvested the data of tens of millions of Facebook users, he didn't think obtaining it for a political consulting firm was against the rules. "The belief in Silicon Valley and certainly our beliefwas that the general public must be aware that their data is being sold and shared and used to advertise to them," Kogan said. "And nobody cares."
+In retrospect, Kogan says he believes his assumptions were misguided and therefore what he did in 2014 "was not right and was not wise." But he insists it was business as usual at the time in this excerpt from Sunday's report, "Data Miner," which will air Sunday, April 22 at 7 p.m. ET/PT:
+When Aleksandr Kogan built his app, he posted its terms of service  that's what users agree to when they download an app. His terms of service said this: "If you click 'OKAY'...you permit [us] to...disseminate...transfer...or...sell...your...data."
+LESLEY STAHL: It says plainly in the developer policy, clearly, that you are not allowed to transfer or sell data. It says that. Come on. This was as clear as can be.
+ALEX KOGAN: Understand that now. So
+LESLEY STAHL: You didn't understand that then?
+ALEX KOGAN: So I'm not even sure if I read the developer policy back then.
+He says that nobody read these privacy sign-offs: not him, not the users who signed on, not Facebook.
+ALEX KOGAN: This is the frustrating bit, where Facebook clearly has never cared. I mean, it's never enforced this agreement.
+LESLEY STAHL: You mean enforce their rule?
+ALEX KOGAN: This is the frustrating bit, where Facebook clearly has never cared. I mean, it's never enforced this agreement. And they tell you that they can monitor it. And they can audit. And they'll let you know if you do anything wrong. I had a terms of service that was up there for a year and a half that said I could transfer and sell the data. Never heard a word. The belief in Silicon Valley and certainly our belief at that point was that the general public must be aware that their data is being sold and shared and used to advertise to them. And nobody cares. 
+ 2018 CBS Interactive Inc. All Rights Reserved.
+Recent Segments

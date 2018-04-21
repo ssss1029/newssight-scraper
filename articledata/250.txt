@@ -1,0 +1,22 @@
+['medical-news-today', '250', 'Ana Sandoiu', 'How to beat psoriasis at its own game', 'Harnessing the power of immune cells, researchers create a compound that successfully treats psoriasis in mice. The innovative approach may also treat MS.', 'http://www.medicalnewstoday.com/articles/321561.php', 'https://cdn1.medicalnewstoday.com/content/images/hero/321/321561/321561_1100.jpg', '2018-04-20T00:00:00Z']
+Login
+Sign in
+Log in with your Medical News Today account to create or edit your custom homepage, catch-up on your opinions notifications and set your newsletter preferences.
+Register for a free account
+Sign up for a free Medical News Today account to customize your medical and health news experiences.
+Register
+How to beat psoriasis at its own game
+Published
+Fact checked by Jasmin Collier
+Scientists have now derived a compound from the body's own immune cells and used it to successfully treat psoriasis in mice. The way the compound works with the body's immune system makes it a potential candidate for treating other autoimmune disorders as well, such as rheumatoid arthritis and multiple sclerosis.
+Psoriasis may be soon treated using the body's own immune cells.
+Psoriasis is an autoimmune disease in which the body's immune system does not recognize its own tissue and starts attacking it.
+This accelerates the growth cycle of skin cells, which causes them to accumulate in excess over the skin's surface.
+In the United States, around 6.7 million adults have this condition, for which there is yet no cure.
+But new research offers hope, as scientists at the Washington University School of Medicine in St. Louis, MO, reveal a new way to use the body's own immunity to fight psoriasis.
+The researchers  led by Maxim Artyomov, an assistant professor of pathology and immunology at the university  found that a compound blocks an inflammatory pathway that is involved in many other autoimmune disorders.
+The findings were published in the journal Nature.
+Itaconate and the 'dark side' of IL-17
+In previous research , a team led by the same Artyomov showed that inflammatory immune cells called macrophages produce significant amounts of itaconate when they detect bacteria.
+They have also shown that, interestingly, itaconate has an anti-inflammatory effect when these macrophages are activated.
+To illuminate the mechanisms behind this observation, they treated macrophages from both mice and humans with dimethyl itaconate, which is a version of itaconate that makes it easier to permeate through the cells' membrane.

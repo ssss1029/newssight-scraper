@@ -1,0 +1,18 @@
+['crypto-coins-news', '137', 'NOVALUE', 'JPMorgan Tests the Waters for Debt Issuance on a Blockchain', 'For a bank that has distanced itself from cryptocurrencies, JPMorgan is sure fond of the blockchain.', 'https://www.ccn.com/jpmorgan-tests-the-waters-for-blockchain-fueled-debt-issuance/', 'https://www.ccn.com/wp-content/uploads/2018/02/JPmorgan.jpg', '2018-04-21T01:15:49Z']
+JPMorgan Tests the Waters for Debt Issuance on a Blockchain
+Advertisement
+Join our community of 10 000 traders on Hacked.com for just $39 per month.
+For a bank that has distanced itself from cryptocurrencies, JPMorgan is sure fond of the blockchain.
+The biggest US bank based on assets joined forces with the National Bank of Canada, among others, to develop an application based on its Quorum technology for debt issuance on the blockchain (corporate bonds, Treasury bonds, etc.) The test involved the issuance of $150 million of a one-year floating rate Yankee CD alongside a simulation of the issuance on the blockchain, according to the announcement . JPMorgan acted as the sole dealer.
+The new app is designed to perform all of the features associated with debt issuance across origination, distribution, execution, settlement as well as interest rate and maturity payments. In doing so, it would slash the costs and the need for service providers that are typically paid hefty fees for clearing and settling.
+The Yankee COD attracted leading institutional investors including Goldman Sachs Asset Management (GSAM), pharmaceutical giant Pfizer and a Legg Mason subsidiary Western Asset.
+Quorum, JPMorgans proprietary blockchain technology, is an open-source enterprise version of Ethereum designed for financial institutions. It was created in 2016 alongside Ethereum core developer Jeffrey Wilcke. Its a minimalistic fork of the Go Ethereum client, as CCN previously reported.
+JPMorgans Blockchain Program LeadChristine Moy said in a press release of the latest debt issuance:
+This is an exciting example of how J.P. Morgan leveraged our combined capabilities in capital markets and blockchain technology, delivering results to a diverse set of clients. We look forward to exploring blockchain-enabled capital markets applications  and how working together on open source technology like Quorum can enable and accelerate this progress.
+Moy recently replaced Amber Baldet, the latter of whom was one of the keyarchitects of JPMorgans Quorum. Baldet left to launch her own startup in the wake of reports that JPMorgan wants to spin-off Quorum amid heightened demand from other businesses.
+Not the First
+JPMorgans debt issuance on the blockchain comes afterUK-based Nivaura in conjunction with Microsofts Azure cloud technology successful issued a pair of structured notes to retail investors, one in the traditional way and one on the Ethereum blockchain .
+As an example of just how much costs can be slashed with debt issuance on the blockchain, Nivaura pointed to a retail investment firm that completed a bond issuance last year. In that deal, the expenses were reduced from GBP 30,000 to GBP 50 for the products duration.
+Banks are catching on. National Bank of CanadasDavid Furlong said:Blockchain-related technologies have the potential to bring about major change in the financial services industry.
+GSAMs David Fishman said: Were excited to have the opportunity to learn from this test and to help develop more efficient ways of trading  from providing more transparency, to streamlining processes and minimizing transaction costs.
+Featured image from Shutterstock.

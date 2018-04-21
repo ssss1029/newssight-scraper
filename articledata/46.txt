@@ -1,0 +1,16 @@
+['axios', '46', 'David McCabe', 'AT&T, Verizon reportedly subject of collusion probe', "The news comes as the DOJ sues to block AT&T's purchase of Time Warner.", 'https://www.axios.com/att-verizon-antitrust-1524256440-3182a2dc-eed8-422e-a5b1-d78501bcb631.html?utm_source=sidebar', 'https://images.axios.com/imCeAqjYwKHDdnbkv4W_gv72OL0=/0x406:6000x3781/1920x1080/2018/04/20/1524259294904.jpg', '2018-04-20T21:36:50Z']
+David McCabe 8 hours ago
+Save
+Save story
+AT&T, Verizon reportedly subject of collusion probe
+AT&T is fighting with the Justice Department over its Time Warner merger. Photo: Smith Collection/Gado/Getty Images
+The Department of Justice has been probing for months whether AT&T and Verizon colluded with a major industry group to make it harder for customers to switch providers by setting restrictive standards for a key new technology, the New York Times Cecilia Kang reports .
+Why it matters: The revelation of the concerns come as the Justice Department is also arguing that AT&T could collude with a competitor , Comcast, in the case to block its $85 billion purchase with Time Warner. AT&T says that wont happen.
+Read more toggle
+Show less
+Keep reading158 Words
+The details: The investigation reportedly concerns tech that lets customers switch wireless providers without switching SIM cards. The carriers, the Times story says , are accused of influencing the standard-setting process for that technology in order to give them a way to keep a phone from leaving their networks.
+"The accusationsregarding this issue are much ado about nothing," said Rich Young, a Verizon spokesman. "We've been proactively and constructively working with the Department of Justice for several months regarding this inquiry and we continue to do so."
+"Along with other GSMA members, we have provided information to the government in response to their requests and will continue to work proactively within GSMA, including with those who might disagree with the proposed standards, to move this issue forward," said an AT&T spokesman.
+The industry group in question, GSMA, declined to comment. The Justice Department said it "does not confirm, deny, or otherwise comment, on the existence or nonexistence of investigations."
+Plus box

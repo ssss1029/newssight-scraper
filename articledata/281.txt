@@ -1,0 +1,47 @@
+['nbc-news', '281', 'James Rainey', 'Southwest emergency: Did the FAA wait too long to order engine checks?', 'Consumer and airline activists say the FAA should have done more to push inspections of the kind of jet engine that failed in the fatal Southwest Airlines incident.', 'http://www.nbcnews.com/news/us-news/southwest-emergency-did-faa-wait-too-long-order-engine-checks-n867876', 'https://media3.s-nbcnews.com/j/newscms/2018_16/2405596/180420-southwest-airlines-mn-1000_d81606475caf917d6993cc88913ef5b5.1200;630;7;70;5.jpg', '2018-04-20T19:30:24.1500824Z']
+Southwest emergency: Did the FAA wait too long to order engine checks?
+Share this 
+U.S. news
+Southwest emergency: Did the FAA wait too long to order engine checks?
+The FAA had been considering for months whether to order inspections of a jet engine  the same kind that crippled a Southwest Airlines plane this week.
+by James Rainey /
+/ Updated
+Apr.20.2018 / 11:18 PM ET
+Investigators examine the damaged engine of the Southwest Airlines Boeing 737 that was forced to make an emergency landing in Philadelphia.NTSB, via EPA
+Breaking News Emails
+Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings.
+SUBSCRIBE
+Airline employees and consumer activists are chastising federal regulators for moving too slowly to order inspections of the jet engine model that failed this week on a Southwest Airlines flight , killing one passenger .
+A dangerous malfunction of the same kind of engine on a Southwest plane nearly two years ago also forced an emergency landing, and advocates said the Federal Aviation Administration missed an opportunity to respond forcefully and quickly.
+The critics, including two airline consumer watchdogs and a union leader who represents mechanics, say that slow action by the FAA exemplifies the agencys cozy relationship with the industry. Several major airlines previously called for slower implementation of a proposed FAA rule that would require inspections of the type of engines that failed this week.
+The FAA needs to have oversight over the airlines, said the union leader, Gary Peterson, an international vice president of the Transport Workers Union. When it comes to safety and security it has to be strong oversight. We dont want a situation where multiple people have to perish for someone to take a hard look at this.
+Breaking News Emails
+Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings.
+SUBSCRIBE
+FAA orders emergency inspections after Southwest engine explosion
+01:59
+After several days of mounting criticism, the FAA on Friday evening issued an "emergency" directive, requiring new inspections of the jet engine, the CFM56-7B, the same one that failed Tuesday on a Southwest flight from New Yorks LaGuardia Airport to Dallas.
+The FAA order follows advice issued earlier Friday by the partnership that makes the engine. The company, CFM International, said any engines that have completed more than 30,000 trips should be inspected within 20 days. Engines with 20,000 trips must be inspected by the end of August. Once initial inspections have been completed, the new policy requires a more routine scrutiny of the engines  after every 3,000 trips, roughly two years of use.
+Specifically, inspectors will be using high-tech devices to scrutinize fan blades in the motors. It was one of those blades that broke off 20 minutes into Tuesday's flight, crippling the engine. Shrapnel from the motor ripped through the Boeing 737 cabin, leading to the death of Jennifer Riordan, a 43-year-old bank executive and mother of two.
+FAA officials said afterward that the agency would issue an airworthiness directive within two weeks requiring a high-tech inspection of the fan blades on such engines when they reach a certain number of takeoffs and landings.
+The damaged engine of a Southwest Airlines plane diverted to Pensacola, Florida, in 2016, left, and the damaged engine of a Southwest plane diverted to Philadelphia on Tuesday. Jeremy Martin; Kristopher Johnson
+Prior to Friday's action, the FAA had been working to complete a directive growing out of a similar accident that occurred 20 months ago, involving the same type of engine, which is made by CFM, a joint venture of General Electric and Safran Aircraft Engines. On Aug. 27, 2016, a Southwest flight from New Orleans to Orlando, Florida, was forced to make an emergency landing when a fan blade on the engine broke. No one was hurt.
+The engine manufacturers followed up by issuing service bulletins in March and June 2017, recommending ultrasound inspections to detect weaknesses in the fan blades, which force air through the engine to create thrust. The FAA responded in August by launching a rule-making process to determine if the inspections should be mandatory.
+Southwest Airlines was one of several carriers that called for a revamping of the proposal, telling the FAA that it wanted more than the year the engine-makers suggested to complete the inspections. The airlines filed formal comments with the agency, with Southwest saying it would need 18 months to inspect the 732 engines that would be subject to an order.
+In contrast, the Airline Pilots Association said in a letter to the agency that it fully supported the mandatory inspections.
+Passenger video captures terrifying scene on Southwest flight that made emergency landing
+00:38
+But the FAA had not issued a directive requiring the inspections when,on Tuesday, the second engine failure hit Southwest.
+The FAA effectively pre-empted that process with Friday's emergency order. An agency spokeswoman said via email that the emergency "airworthiness directive" moved more expeditiously than the action after the 2016 incident because of "new information" obtained from the National Transportation Safety Board investigation into Tuesday's fatal accident.
+The FAAs critics said they believe the air travel agencys bid to work more closely with carriers sometimes slows its reaction to serious problems.
+The airlines are dictating to the FAA what they think should happen versus the FAA saying No, you are going to do this right now, said Peterson, whose union represents some airline mechanics,but not those at Southwest. In the old days, we would have had an airworthiness directive and we would be doing the work on the engines right now.
+Officials at the aviation agency rejected the idea that they had moved too slowly to make the inspections mandatory, saying they acted purposefully after the 2016 Southwest incident.
+The FAAs top priority is, and always will be, ensuring operators follow our rules and regulations, the agency said in a statement.
+William J. McGee, a consumer advocate and author of the 2012 book, Attention All Passengers, said the FAA and airlines do not need to have an antagonistic relationship, but they shouldnt be too close, either. The FAA should be more aggressive in ensuring that, when there is a problem, there is a fix, said McGee, a former flight operations manager for three airlines. I dont think that them saying, Trust us, we got this, is good enough.
+The FAAs relationship with the airlines has evolved over the decades, with an emphasis recently on working collaboratively, when possible. Charles Leocha, co-founder of Travelers United, a consumer watchdog, cited the FAAs shift in 2015 to a new compliance philosophy that called for a just culture in its work with the airlines. The agency explained at the time that a just culture is one that has both an expectation of, and an appreciation for, self-disclosure of errors. It also called for due consideration of honest mistakes, especially in a complex system like the National Airspace System. Leocha said that this collaborative approach to problem-solving allows for some issue corrections to be delayed.
+The FAA denied that collaboration with the airlines had made it less vigilant. When the FAA encounters intentional reckless behavior, flagrant violations, or refusal to cooperate in corrective action by carriers, it undertakes legal enforcement actions, the agency said in a statement to NBC News. If an air carrier is unwilling or unable to comply with laws and regulations, the agency can  and does  revoke the companys ability to operate.
+As the discussion of whether inspections of the CFM56-7B engines should be mandatory continues, Southwest has not responded to questions about how many engines it inspected after the 2016 breakdown. Following Tuesdays incident, the airline said that all of the engines in its fleet would be checked within 30 days. The GE-Safran partnership said it would send 40 technicians to aid in the effort.
+At least two other carriers  Korea Air Lines and Japan Airlines  said they planned to carry out voluntary inspections of the engines. And American Airlines said it started that work last year, when the FAA had begun to consider whether to make the work mandatory.
+Breaking News Emails
+Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings.
+SUBSCRIBE

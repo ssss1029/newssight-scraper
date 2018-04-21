@@ -1,0 +1,11 @@
+['cnbc', '114', 'Christine Wang', 'Justice Department demands info from all four major US wireless carriers in probe of alleged collusion', 'The antitrust division is looking into whether or not carriers colluded in stifling technology that allows customers to switch providers without having to change out their SIM card.', 'https://www.cnbc.com/2018/04/20/justice-department-wants-info-from-att-verizon-t-mobile-and-sprint.html', 'https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/11/02/104817046-RTR268G5.1910x1000.jpg', '2018-04-20T21:39:29Z']
+7 Hours Ago |  00:48
+The Justice Department has reached out to all four major U.S. wireless carriers as part of an antitrust investigation, a person close to the situation told CNBC.
+The source said that the department sent letters to AT&T , Verizon , T-Mobile and Sprint in February requesting information.
+The person also said the Justice Department previously examined this matter in 2016, but ended up dropping the investigation. A source said that Apple filed a complaint, which was one factor behind the 2016 probe.
+The antitrust division is looking into whether or not carriers colluded in stifling technology that allows customers to switch providers without having to change out their SIM card.
+Earlier, The New York Times reported that AT&T and Verizon were being investigated. The newspaper also reported that the Justice Department has demanded information from GSMA, a mobile communications industry group.
+Sources told the Times that the investigation was opened five months ago following complaints from one device maker and one wireless carrier.
+GSMA, AT&T, Sprint and the Justice Department's antitrust division declined to comment to CNBC. T-Mobile did not immediately respond to CNBC's request for comment.
+WATCH: DOJ probes AT&T and Verizon on collusion claim
+show chapters

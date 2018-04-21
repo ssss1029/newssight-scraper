@@ -1,3 +1,5 @@
 setup_environment.py
 
 env/*
+
+GOOGLE_APPLICATION_CREDENTIALS.json

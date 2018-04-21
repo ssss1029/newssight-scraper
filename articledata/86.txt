@@ -1,0 +1,16 @@
+['business-insider', '86', 'Benjamin Zhang', 'The FAA has ordered inspections of the type of jet engines that failed on deadly Southwest flight', 'A CFM56-7B engine failed on Southwest Airlines Flight 1380.', 'http://www.businessinsider.com/faa-orders-inspections-jet-engines-failed-southwest-1380-2018-4', 'https://amp.businessinsider.com/images/5ada647d19ee864a008b46b3-640-320.jpg', '2018-04-20T00:00:00Z']
+U.S. NTSB investigators are on scene examining damage to the engine of the Southwest Airlines plane in this image released from Philadelphia, Pennsylvania, U.S., April 17, 2018.
+NTSB/Reuters
+The Federal Aviation Administration has ordered airlines to inspect certain older CFM56-7B turbofan engines.
+A CFM56-7B failed on Southwest Airlines Flight 1380 on Tuesday, forcing the flight to make an emergency landing.
+The FAA is requiring inspections to be completed within the next 20 days.
+The Federal Aviation Administration issued an emergency airworthiness directive (EAD) on Friday that requires airlines inspect the fan blades on certain older CFM56-7B engines.
+The EAD comes after a fan blade on a Southwest Airlines Boeing 737-700 snapped off mid-flight , spraying shrapnel that punctured the aircraft's fuselage causing depressurization. The incident claimed the life of passenger Jennifer Riordan, the first fatality on board a US commercial airliner since 2009.
+National Transportation Safety Board investigators found signs of cracking and metal fatigue at the point where the blade broke.
+As a result, FAA is ordering airlines use ultrasonic detection devices to inspect all 24 fan blades on older CFM56-7B engines for cracks. The order applies only to engines with more than 30,000 cycles which equates to roughly 20 years of service. The directive stipulates that these inspections must be completed within the next 20 days.
+The engine in question, the CFM56-7B turbofan, is the product of a 40-year-old joint venture between GE Aviation and France's Safran Aircraft Engines called CFM International.
+The CFM56 arguably the most popular jet engines in the world with more than 30,000 units produced since 1980 and is used on both civilian and military aircraft. The CFM56-7B debuted in 1997 and currently powers more than 6,700 planes in the world.
+According to the FAA, CFM International expects the directive to affect 352 engines in the US and 681 engines worldwide.
+The FAA directive comes as a result of a service bulletin issued earlier Friday by the engine's manufacturer as well as information gathered from the investigation of Southwest Flight 1380.
+The CFM International service bulletin also called for airlines to repeat these inspections every 3,000 cycles or two years.
+Read more about the Southwest incident:

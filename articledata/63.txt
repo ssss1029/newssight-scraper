@@ -1,0 +1,9 @@
+['bloomberg', '63', 'Mark Gurman', 'Apple Says It Will Replace Some MacBook Pro Laptop Batteries', 'Apple Inc. said a "limited number" of 13-inch MacBook Pro laptops sold between October 2016 and October 2017 have a potentially faulty component that causes the battery to expand.', 'http://www.bloomberg.com/news/articles/2018-04-20/apple-says-it-will-replace-some-macbook-pro-laptop-batteries', 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZL.c6NUCZPo/v0/1200x801.jpg', '2018-04-20T22:50:44Z']
+Apple Says It Will Replace Some MacBook Pro Laptop Batteries
+By
+@markgurman More stories by Mark Gurman
+Apple To Replace Some MacBook Pro Laptops With Swollen Batteries
+Apple Inc. said a "limited number" of 13-inch MacBook Pro laptops sold between October 2016 and October 2017 have a potentially faulty component that causes the battery to expand.
+The company said this is not a safety issue and it will replace batteries in affected units at no charge. The company posted a
+page on its website where customers can check if their laptop is affected and begin the battery exchange process. The issue doesnt affect models with the Touch Bar.
+Quotes from this Article

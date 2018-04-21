@@ -1,0 +1,30 @@
+['business-insider', '82', 'Matt Weinberger', 'The CEO of the $3.9 billion company at the heart of the cloud wars talks about going public after 29 years', "BI PRIME: Pivotal Software CEO Rob Mee says he doesn't need an IPO first-day pop and that growth is the name of the game.", 'http://www.businessinsider.com/pivotal-software-ipo-ceo-rob-mee-interview-2018-4', 'https://amp.businessinsider.com/images/5ada4e0519ee864a008b46a3-640-320.jpg', '2018-04-20T00:00:00Z']
+Pivotal Software CEO Rob Mee on the floor of the New York Stock Exchange on the day of its IPO.
+Pivotal Software
+Pivotal Software began trading publicly on Friday, closing up about 5% from its listing price of $15. It's now valued at $3.9 billion.
+Pivotal's biggest business is in selling tools that help developers deploy their apps across Microsoft's, Amazon's, and Google's massive cloud computing platforms.
+Pivotal isn't profitable, and CEO Rob Mee says that it's focusing on growth right now.
+The company is independent, but Dell is the majority shareholder. Mee says that the company is allowed to make its own decisions, and is run like a startup.
+Cloud computing company Pivotal Software made its Wall Street debut on Friday, and is now worth about $3.9 billion  a significant uptick from its $2.8 billion valuation in 2016, when it raised a $253 million private funding round led by Ford.
+The Pivotal IPO was short on drama: While it popped from its original price of $15 to just over $16 out of the gate, it ended up closing at $15.73, giving it a small rise of about 5%. It's not bad, but it' fairly muted compared with the rocketship IPOs enjoyed by companies like Dropbox .
+Pivotal Software CEO Rob Mee tells Business Insider that the first-day stock price doesn't bother him one way or the other: A first-day pop is nice, he says, but he'd prefer Pivotal be known for "stability and strength, long-term," and that kind of investor exuberance can lead to disappointment later.
+"I don't know that a big pop is really what I want," says Mee.
+Indeed, Pivotal raised $555 million in the IPO. Had Pivotal priced its IPO lower to get a first-day pop, the upside would have gone to the banks and Pivotal would not have raised as much cash.
+The Dell connection  "Michael's message has been pretty consistent"
+Michael Dell
+Getty Images
+The stocks' relatively muted first trading day may also have a lot to do with Pivotal's relationship with Dell.
+It became clear from Pivotal's IPO filings that Dell owns around 70% of the company. With the company's non-traditional stock structure, that gives Dell 96% of voting rights. So while Pivotal is an independent company, its filing warned investors that "Dell Technologies can effectively control and direct our board of directors." The same filing disclosed that 37% of Pivotal's deals came via partnerships with Dell and its VMware subsidiary.
+Mee says that he's never felt pressured by Pivotal's relationship with Dell. In fact, he says that CEO Michael Dell has been nothing but supportive  Pivotal partners with Microsoft, Google, and Amazon to bring their software and services to their respective cloud platforms; Dell understands the need for the company to be "agnostic."
+"Michael's message has been pretty consistent: 'You run the company. I'm here to help,'" says Mee. "We are free to partner with whoever we want."
+Pivotal's business breaks down into two buckets: Pivotal Labs, the descendant of the original company, which helps companies train their engineering teams around how to be more productive. The other side of the business is in selling Pivotal Cloud Foundry, Pivotal Big Data Suite, and other software.
+Those tools let developers easily make software that runs as well on their own servers as it does in Amazon's, Microsoft's, or Google's cloud computing platform. And while the consulting services are still "strategic" to Pivotal, says Mee, the software is the "part that's growing fast," recently hitting a $300 billion run rate.
+The company isn't profitable  it lost $163 million last fiscal year, compared with a $232 million net loss the year before. However, while Mee says that the company is on the right trajectory to achieve profitability, he's more focused on growing that software business. Cloud computing is growing fast, and Pivotal is an "agnostic" partner to all of them. That means that as the mega-cap tech companies continue to battle, Pivotal stands to gain ground.
+"We're really starting to take shape in a meaningful way," says Mee.
+A twisting path to IPO day
+The unusual arrangement with Dell comes as the result of Pivotal's non-traditional path to today's IPO.
+In its first iteration, Pivotal Labs was a consulting company that helped customers like Twitter and eBay learn how to organize their engineering teams for peak efficiency.
+In 2012, EMC bought Pivotal in an all-cash deal, only to spin it back out in 2013 as a new company called Pivotal Software, with Paul Maritz  an industry legend who had most recently served as the CEO of VMware, an EMC subsidiary  as its chief executive.
+In 2015, Maritz stepped down as CEO, though he kept his role as executive chairman. Mee found himself back in charge of the company he had created, sold, and stuck with through the spinout. Around the same time, Dell bought EMC in a monster $67 billion deal, inheriting its controlling stake of Pivotal.
+Still, Mee says that even amid the changes, he's kept his eye on the prize. When Pivotal spun out in 2013, he says, he was quick to underline to employees that it was being run as an independent company, with the goal of achieving the kinds of high-scale growth that technology companies are known for.
+"We really right away communicated to employees, we're a startup," Mee says. "Kind of a big one."

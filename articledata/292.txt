@@ -1,0 +1,16 @@
+['new-scientist', '292', '\xe2\x80\x8bAndy Coghlan\xe2\x80\x8b', 'Global cancer scheme lets people share data across the world', 'The Universal Cancer Databank will let anyone with cancer share their medical and genetic data with researchers globally, with the aim of speeding up new treatments', 'https://www.newscientist.com/article/2166961-global-cancer-scheme-lets-people-share-data-across-the-world/', 'https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/19185447/ac9lb683.jpg', '2018-04-20T00:00:00Z']
+Global cancer scheme lets people share data across the world
+By Andy Coghlan
+Tessa Jowell is the first to donate to global cancer database
+Lucy Young / Evening Standard / eyevine
+People with cancer will soon be able to donate their medical information to a global databaseaimed at discovering new treatments.
+Tessa Jowell, former UK Labour minister, who has a rare brain cancer , today became the first person to sign up to the database, called the Universal Cancer Databank .
+Advertisement
+It is my hope that through my cancer journey and sharing of my data, we will be able to develop better treatments for cancer and speed up the discovery of new ones, said Jowell at the launch of the initiative in London. Together, with hope, we can achieve greater survival for cancer patients across the world.
+When the database becomes fully functional later this year, any individual with cancer will have access to a document  the Universal Patient Consent Form  that will allow them to make their medical and genetic data freely accessible to all cancer researchers.
+Ultimately, it is hoped that as many people as possible will donate their data, although the focus will initially be on people with rarecancers.
+The first project to utilise the database is a brain cancer clinical trial called GBM Agile, which will begin at the end of the year. The trial can be adapted as new information enters the database.
+Were very supportive of the concept of data-sharing, and of this new effort to allow people to share their data, says Nikhil Wagle of the Broad Institute,in Massachusetts, Cambridge, which is among the research institutes considering using the database. The unique thing is the global nature of it, he says. Theres no existing project that covers multiple countries in the way this one does.
+The main impetus to launch the $500-million project came from Australian mining magnet and philanthropist, Andrew Forrest. He became so frustrated at the slow progress in treating a type of brain cancer called a glioblastoma that he set up a new charity called the Eliminate Cancer Initiative. The Universal Cancer Databank sprang from that.
+Im an entrepreneur not an oncologist, but I understand that extraordinary challenges require extraordinary measures, said Forrest. In this case that means patients and researchers from around the world sharing clinical and genomic data to break the gridlock on the most deadly cancers.
+

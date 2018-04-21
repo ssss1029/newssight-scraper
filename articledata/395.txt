@@ -1,0 +1,16 @@
+['techcrunch', '395', 'Katie Roof', 'Pivotal Software closed up 5% following IPO, raised $555 million', 'Stock market investors showed lukewarm enthusiasm for Pivotal Software\xe2\x80\x99s debut on Friday. After pricing the IPO at $15, the company closed the day at $15.73. Although it didn\xe2\x80\x99t \xe2\x80\x9cpop\xe2\x80\x9d for new investors, pricing at the midpoint of its proposed range allowed Piv\xe2\x80\xa6', 'https://techcrunch.com/2018/04/20/pivotal-software-closes-up-5-following-ipo-raised-555-million/', 'https://techcrunch.com/wp-content/uploads/2018/04/pivotal-nyse-ipo.jpg?w=603', '2018-04-20T21:29:09Z']
+Katie Roof @ / 15 hours
+Stock market investors showed lukewarmenthusiasm for Pivotal Softwares debut on Friday. After pricing the IPO at $15, the company closed the day at $15.73.
+Although it didnt pop for new investors, pricing at the midpoint of its proposed range allowed Pivotal to raise $555 million. Its public company market cap exceeded $3 billion.
+The enterprise cloud computing company has been majority-owned by Dell, which came about after its merger with EMC in 2016. It was spun off from Dell, EMC and VMware in April 2013.
+After that, it raised $1.7 billion in funding from Microsoft, Ford and General Electric.
+Heres how it describes its business in the S-1 filing:
+Pivotal looks to provide a leading cloud-native platform that makes software development and IT operations a strategic advantage for our customers. Our cloud-native platform, Pivotal Cloud Foundry (PCF), accelerates and streamlines software development by reducing the complexity of building, deploying and operating new cloud-native applications and modernizing legacy applications.
+According to the filing, Pivotal brought in $509.4 million in revenue for its fiscal year ending in February. This is up from $416.3 million in revenue for 2017 and $280.9 million in revenue the year before.
+The company is still losing a lot of money, however. Losses for fiscal 2018 stood at $163.5 million, improved from the than the negative $232.5 million seen in 2017 and $282.5 million in 2016.
+We have incurred substantial losses and may not be able to generate sufficient revenue to achieve and sustain profitability, the company warned in the requisite risk factors section of its IPO filing.
+Pivotal also acknowledged that it faces competition from legacy application infrastructure and middleware form vendors like IBM and Oracle. The company says it additionally competes with open-source based offerings supported by vendors like RedHat. Pivotal also faces challenges from SAP Cloud Platform, Amazon Web Services and Microsoft Azure.
+The company says it believes it will stand out from the pack because of its strong security and easy-to-use platform. Pivotal also claims to have strong brand awareness and a good reputation. It has 118 U.S. patents and 73 pending and is betting that it will remain innovative.
+Morgan Stanley and Goldman Sachs served as lead underwriters. Davis Polk and Fenwick & West worked as counsel.
+The company listed on the New York Stock Exchange under the ticker PVTL.
+It has been an active spring for tech IPOs, after a slow winter. Dropbox, Spotify and Zuora are amongst the companies that have gone public in recent weeks. DocuSign, Smartsheet, Carbon Black and Pluralsight are all expected to debut within the next month.

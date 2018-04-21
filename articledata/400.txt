@@ -1,0 +1,42 @@
+['techradar', '400', 'Gareth Beavis', 'Can this app pace your perfect race at the London Marathon 2018?', 'Come on tech... do your thing!', 'https://www.techradar.com/news/can-this-app-pace-your-perfect-race-at-the-london-marathon-2018', 'https://cdn.mos.cms.futurecdn.net/vGCqVjWZaq4MXcCNJYuSEC-1200-80.jpg', '2018-04-20T19:27:57.109Z']
+Can this app pace your perfect race at the London Marathon 2018?
+Can this app pace your perfect race at the London Marathon 2018?
+Come on tech... do your thing!
+Shares
+If you want to really upset a London Marathon runner this weekend, ask them one simple question: How are you going to pace the race?
+If they answer confidently, just draw your breath in, almost imperceptibly, and say ...are you sure?
+Because that will destroy the modicum of confidence that theyve built up, unless theyve done so many marathons that theyre not even sure of how to do one poorly.
+Every single marathon runner knows that a correct pacing strategy is crucial to getting a good time, and finding out what that is well, its nigh-on impossible.
+I read back my piece on worrying about pace last year , and realised that, actually, the final result was pretty good compared to what I was hoping to achieve. Missing out on a PB by a minute is a tough one, but with the hindsight of a year its pretty cool that the online calculators were pretty accurate in predicting my times.
+Going into the London Marathon this year, I now know two things: Im not great at converting speed in a 10K into a good marathon time. I also know Ive been a bit injured and my training plans have been kiboshed by that - so I dont really feel ready.
+So when I heard about Pace-Man , an app that could predict your time based on Strava efforts, I wasnt really that bothered. That ability is pretty similar to the FiveThirtyEight online that gave me a slightly slow marathon time.
+But when I dug in a little more, I found something that intrigued me: this app would not only tell you how fast it believed you could run, it would also whisper the marathon pace you need to be running to hit your goals into your ear for the whole race.
+Taking in a variety of pacing predictors, and absorbing data from previous finishers of the London Marathon, the Pace-Man team (a research group based in the University College Dublin) has worked out how fast you should run each 5K section to make sure you avoid the dreaded wall.
+(You know, the point when your body is basically out of the good fuel it needs to run and the only energy left keeping you going is the sweet cooling feel of your tears falling onto your exhausted body).
+The rough pacing plan I need to follow if I'm going to hit my minimum time... but I might go a different way
+What weve done is put, basically, a series of prediction equations into one system to give you a prediction window, says Cailbhe Doherty of Pace-Man, when I caught up with him at the London Marathon Expo.
+Once youve identified the finish time you want to achieve, its the pacing part of the system that we think is a little bit novel.
+The system, derived from the data of hundreds of thousands of runners who have completed the London Marathon who didnt hit the wall, essentially gives the app a series of cases to base a pace plan on, and building a coaching platform that tells you every 500m if youre going too fast or slow to maintain perfect pacing.
+If you consistently go too fast or slow, the system will update your projected time and change the speed it tells you to hit, keeping you away from crumbling willpower and on a pacing strategy that should - theoretically - keep you clear of the wall, based on past data.
+What were hoping to do [in the Marathon] is validate the system, adds Doherty. Its a free app and we want to test it to prove marathon finishing times and stop people hitting the wall.
+The next step, should the data prove to be correct, is to develop a training plan that can reverse engineer the training secrets from marathon runners who are capable of hitting your intended target times.
+Taking the data from these runners and building it into the system, Doherty believes that the weekly mileage volume plays a huge part, but the app itself will also be able to help switch in different elements to tailor it to what you like doing the most.
+Its a strong idea - one that pulls in multiple data strands to get you to the finish line time you want - but a specific training plan wont work in the same manner for everyone, so this one could be tricky.
+Can I trust the app?
+Thats the thing for anyone thinking about using the system (myself included) at the marathon. Its putting an awful lot of trust in an app thats at the research stage, knowing that it could be inaccurate or not quite right for the way you like to run a race.
+The hope is that the adaptive nature of the system will counteract any dislike of a certain pace - if you slow down, itll find something better over and over until you land on something you want.
+Weve said: look, practice [using the app]. Weve warned people about possible GPS drop at Canary Wharf, said Doherty. It may be that its too late to use this app for the marathon, but a lot of people have said theyre going to try Pace-Man out on their last slow run.
+Maybe were getting a biased sample, but the people who weve shown the app to have been pretty enthusiastic, particularly first timers who are a little bit worried about how to run the marathon. So well see what happens.
+Im so tempted to try this in the race itself, but given the marathon is only two days out, it feels too close to mess with my strategy. But - at the same time - this is precisely what I want, an app that can tell me how to run evenly without me needing to think.
+When it comes to a running watch, or I get some more time to try it out and trust in it - or if it doesnt bleep every 500m, which seems like it would drive me mad - I could well get on board.
+Theres no secret to running a marathon - all youre trying to do is go out there at the most balanced pace possible and keep going until its done, without wanting to die.
+For me, given the heat thats coming and my injury-stricken training, I know what Im going to do: take the first half super easy, to the point of annoyance, and hopefully have enough left to attack the second half.
+I wont get anywhere close to a PB, but I will hopefully enjoy the experience a bit more than last year and thats what matters.
+A last-minute change
+While this isnt about pacing, there is one thing that Im going to do differently: Im going to take my phone and slip some smart Arion insoles into my trainers.
+You might remember me being excited about these last year - but this year theyre (finally) ready to go, after some hiccups in getting them available to the public.
+Theyll tell me how I run over the course of the marathon, where I strike with my foot, how I pronate (roll) my foot with each step and really excitingly, how this changes as I tire.
+The Arion smart insoles
+Whats exciting here is that this information will be used to create a tailored coaching plan, where Ill get exercises to improve the issues it finds. These will include cadence training, positioning my feet with each step and general ways to improve my gait.
+The team is confident that this will help me crack my goal of breaking three hours and if I can do that with tech, well - its like this column might be worth something after all!
+Gareth Beavis is TechRadar's Running Man of Tech, bringing you a daily diary as he counts down to the big race at the London Marathon. He gained a place in the media ballot, but has paid full price for his entry. You can see the full story here:

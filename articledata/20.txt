@@ -1,0 +1,43 @@
+['ars-technica', '20', 'Cyrus Farivar', 'WikiLeaks, Russia, Trump Jr. named in new DNC hacking lawsuit', '"It\xe2\x80\x99s more than a shot over the bow, it\xe2\x80\x99s a shot into the hull of the ship."', 'https://arstechnica.com/tech-policy/2018/04/russia-hacked-dnc-as-early-as-2015-democrats-claim-in-new-lawsuit/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/34034198842_7c5d87cb14_k-760x380.jpg', '2018-04-20T23:07:01+00:00']
+Sign up or login to join the discussions!
+Stay logged in
+Sign up to comment and more Sign up
+time to suit up 
+WikiLeaks, Russia, Trump Jr. named in new DNC hacking lawsuit
+"Its more than a shot over the bow, its a shot into the hull of the ship."
+Apr 20, 2018 11:07 pm UTC
+Enlarge / Tom Perez, the head of the DNC, helped orchestrate this new lawsuit.
+Hackers invade Dems servers, steal entire Trump opposition file
+The Democratic National Committee has sued Russia, WikiLeaks, the Trump campaign, and a number of other individuals and organizations that the political party believes were affiliated with the now-infamous 2016 hack, whose perpetrators managed to spirit away internal research about then-candidate Donald Trump, as well as private e-mail and messages.
+The operation to pilfer vast caches of data, much of which was then published by WikiLeaks, was believed to have been orchestrated by the highest levels of the Russian government.
+"Its pretty seriousits more than a shot over the bow, its a shot into the hull of the ship," David Bowker, a Washington DC, attorney, told Ars.
+The lawsuit alleges that Russia, its GRU intelligence service, the Trump campaign, and various alliesincluding Donald Trump, Jr.were all part of a "conspiracy" to "promote Donald Trumps candidacy through illegal means." The president himself is not a named co-defendant.
+"As stolen DNC information was strategically released into the public sphere, then-candidate Trump openly praised the illegal disseminations and encouraged Russia to continue its violations of US law through its ongoing hacking campaign against the Democratic party," the civil complaint, which was filed Friday in federal court in Manhattan, stated .
+DNC lawyers say that the attack against the party began in June 2015, just weeks after Trump declared himself a candidate for president.
+If successful, the DNC might stand to be awarded some money (perhaps millions of dollars) as part of a judgement or settlement. However, its primary aims may actually be to seek new communications between the co-defendants that may shed some light on this alleged conspiracy. Such materials could be released as part of the civil discovery process.
+Attorneys representing the DNC, including Michael Eisenkraft, did not immediately respond to Ars request for comment.
+Trump himself wrote:
+Just heard the Campaign was sued by the Obstructionist Democrats. This can be good news in that we will now counter for the DNC Server that they refused to give to the FBI, the Wendy Wasserman Schultz Servers and Documents held by the Pakistani mystery man and Clinton Emails.
+ Donald J. Trump (@realDonaldTrump) April 20, 2018
+Brad Parscale, thecampaign managerfor Trumps 2020 re-election bid, told the New York Times that the lawsuit was a "shamfiled by a desperate, dysfunctional and nearly insolvent Democratic Party."
+As he continued on Twitter:
+How would you describe the DNC and their last-ditch effort to revive the witch hunt with a lawsuit?
+Sham, bogus, corrupt, desperate, frivolous
+ Brad Parscale (@parscale) April 20, 2018
+Step by step
+How DNC, Clinton campaign attacks fit into Russias cyber-war strategy
+The DNCs case claims that numerous American laws were violated, including the Computer Fraud and Abuse Act (CFAA), the Digital Millennium Copyright Act (DMCA), and more.
+Foreign governments typically have "sovereign immunity" against American lawsuits, if they even bother to formally respond to the case. The DNC argues, however, that this immunity does not apply because the hack was, in effect, a "trespass" on DNC property.
+It may be difficult to formally serve the foreign individuals named in the lawsuitwho include former Trump business partners Aras Agalarov and his son Emin, and a Maltese academic named Joseph Mifsud.
+Scott Balber, an attorney for the Agalarovs, told the Washington Post that the DNCs allegations about his clients were "frivolous" and "a publicity stunt."
+WikiLeaks also seemed to believe that it would be able to fend off the lawsuit.
+Comment on DNC "lawsuit": DNC already has a moribund publicity lawsuit which the press has became bored of--hence the need to refile it as a "new" suit before mid-terms. As an accurate publisher of newsworthy information @WikiLeaks is constitutionally protected from such suits.
+ WikiLeaks (@wikileaks) April 20, 2018
+However, the US-based co-defendants have a harder time deflecting such legal pressure.
+That group includes two former Trump advisorsRick Gates and George Papadopouloswho already pleaded guilty as part of Special Counsel Robert Muellers ongoing investigation into Russian meddling in the election.
+"Its possible that [the plaintiffs] could get a reasonable amount of discovery against some of the defendants," Bowker continued.
+"If theyre able to survive a motion to dismiss at the outset of the case I suspect they would be very interested in whatever discovery they could get. That could make the administration look bad, and they could also be interested in what else the Russians are working on, and you could see that discovery being useful to them."
+Another attorney, Max Kennerly , told Ars that the United States government itself could move to intervene and halt the lawsuit in the name of its own diplomatic interest.
+In other words, its not a done deal that the DNC will even be able to get any meaningful information.
+"Everything has to come up Milhouse for them to get money and the answers," he said. "Theres a plausible path to getting discovery about these matters."
+Cyrus Farivar Cyrus is a Senior Tech Policy Reporter at Ars Technica, and is also aradio producer and author.His latest book, Habeas Data , about the legal cases over the last 50 years that have had an outsized impact on surveillance and privacy law in America, is due out in May 2018 from Melville House. He is based in Oakland, California.

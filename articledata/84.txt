@@ -1,0 +1,28 @@
+['business-insider', '84', 'Rob Price', "Facebook's drones unit is conducting a mysterious test in the desert near New Mexico's 'spaceport'", 'BI PRIME: FCL Tech, a subsidiary of Facebook, was granted permission to test experimental wireless technology, FCC filings reveal.', 'http://www.businessinsider.com/facebook-fcl-tech-tests-new-mexico-fcc-filing-2018-4', 'https://amp.businessinsider.com/images/5ad9842619ee8641008b456f-640-320.jpg', '2018-04-20T00:00:00Z']
+Facebook's drones unit is conducting tests of experimental wireless equipment in New Mexico.
+The tests were revealed in FCC filings seen by Business Insider.
+FCL Tech, which develops internet-enabled drones for the developing world, said it is working on a "connectivity project."
+Facebook's drones unit is quietly conducting tests of experimental wireless communications equipment in the New Mexico desert, according to company filings.
+Documents filed with the FCC show that FCL Tech Inc.  a Facebook subsidiary that develops drones aimed at providing internet access in the developing world  was approved to conduct tests for three months from March to June 2018.
+The tests are for an "LTE-based connectivity project requires a hardware prototype testing facility." And interestingly, the location of the tests is the town of Truth or Consequences, New Mexico  also home to Spaceport America.
+Details of the effort are being kept secret, though the filing notes that the tests will involve the 3650 - 3700 Mhz radio frequency  that's the spectrum for the so-called Citizens Radio Broadband Service, an unlicensed radio band that many companies believe could be useful for 4G LTE wireless networks. FCL will also conduct tests in the 2500 Mhz range, the filings say.
+It's unclear from the filings whether the tests are taking place at Spaceport America, or simply in the nearby desert. A representative for Spaceport America declined to comment.
+A hub for space tourism that's also attracted Google
+The Spaceport facility, funded by the state of New Mexico, hopes to be the center of the nascent space tourism industry and includes tenants like Virgin Galactic. Google has also previously conducted tests at Spaceport America, for radio technology involving aircraft hovering 25,000 feet in the air .
+Facebook is building solar-powered "Aquila" drones to deliver internet access to various parts of the world. The drones are very large, with the wingspan of a Boeing 737, and are designed to fly at an altitude of 60,000 feet for up to three months at a time. Facebook is testing those drones in Arizona.
+BI
+In one the filings, FCL Tech refers obliquely to its tests as a "connectivity project," writing: "This LTE-based connectivity project requires a hardware prototype testing facility to assess key risks associated with communication system architecture, channel modeling and link budget verification at a coverage area spanning 50 km radius." (LTE stands for Long-Term Evolution, and is a standard for 4G wireless communications.)
+The filings also disclose that distance from the ground to the tip of the antenna is 30 meters, and there are two testing stations.
+One expert Business Insider spoke to speculated that the project could be related to testing wireless signal strength, an essential component of drone technology, and that New Mexico could offer ideal conditions to do so.
+"From the phrase 'channel modeling and link budget verification' my best guess, and that's all that it is, is that this is en experiment of signal propagation," consulting wireless engineer Steven Crowley wrote in an email.
+A system to control and monitor drone flights?
+"Monitoring the signal strength between the two points and seeing how it varies with weather and terrain. Then change the two points and test again. The channel model and link budget would be used to predict the signal strength and, depending on the results, they might go back and adjust the channel model and link budget to make it more accurate. "
+An internal photo of Google's flight control deck at Spaceport America
+New Mexico Spaceport Authority
+He added: "They could test in Menlo Park, but it is a different, more congested environment. The area around Truth or Consequences is relatively flat and much less urban. They might have a reason for wanting to know the propagation conditions there as precisely as possible  by actually testing there and not trying to extrapolate from elsewhere.
+"Just speculating, I can imagine fixed communications equipment spaced at intervals to control and monitor drone flights. You'd want those links to be highly reliable. Painstaking testing can help ensure that.
+"Then again, I'd think you could just boost the power some on the ground and on the drone. Power can make up for lack of knowledge of, and help overcome variations in, the channel. I expect there is not much there they can interfere with. So it's still somewhat of a mystery."
+While Facebook's primary drone effort revolves around Aquila, the company also appears to be testing wireless tech on smaller drones. In 2016, Facebook's FCL Tech asked the FCC for permission to test wireless equipment on a small drone with a maximum flight level of 400 feet, above its Menlo Park, Calif. headquarters. Facebook has since expanded those tests with what appears to be a fleet of 30 such drones.
+Facebook declined to comment.
+Know more? Contact the author: rprice@businessinsider.com
+Read more:

@@ -1,0 +1,14 @@
+['next-big-future', '323', 'brian wang', '100 Petawatt lasers could tear apart vacuum by 2023 | NextBigFuture.com', '100 Petawatt lasers could tear apart vacuum by 2023', 'https://www.nextbigfuture.com/2018/04/100-petawatt-lasers-could-tear-apart-vacuum-by-2023.html', 'https://www.nextbigfuture.com/wp-content/uploads/2018/03/eb068d85e3d9991f9a7d2679cdb5717b.jpg', '2018-04-20T14:01:59Z']
+100 Petawatt lasers could tear apart vacuum by 2023
+100 Petawatt lasers could tear apart vacuum by 2023
+brian wang | April 20, 2018 |
+
+Pin It
+In 2016, the Shanghai Superintense Ultrafast Laser Facility (SULF), is a single cylinder of titanium-doped sapphire about the width of a Frisbee. achieved an unprecedented 5.3 million billion watts, or petawatts (PW). The lights in Shanghai do not dim each time the laser fires, however. Although the pulses are extraordinarily powerful, they are also infinitesimally brief, lasting less than a trillionth of a second. The researchers are now upgrading their laser and hope to beat their own record by the end of this year with a 10-PW shot, which would pack more than 1000 times the power of all the worlds electrical grids combined.
+This year, they intend to start building a 100-PW laser known as the Station of Extreme Light (SEL). By 2023, it should be firing pulses into a chamber 20 meters underground, subjecting targets to extremes of temperature and pressure not normally found on Earth.
+100 Petawatts of power will show new way to accelerate particles for use in medicine and high-energy physics. It would also be showing that light could tear electrons and their antimatter counterparts, positrons, from empty spacea phenomenon known as breaking the vacuum.
+The Chinese group is definitely leading the way to 100 PW, says Philip Bucksbaum, an atomic physicist at Stanford University in Palo Alto, California. But there is plenty of competition. In the next few years, 10-PW devices should switch on in Romania and the Czech Republic as part of Europes Extreme Light Infrastructure, although the project recently put off its goal of building a 100-PW-scale device. Physicists in Russia have drawn up a design for a 180-PW laser known as the Exawatt Center for Extreme Light Studies (XCELS), while Japanese researchers have put forward proposals for a 30-PW device.
+Researchers at the University of Rochester in New York, who are developing plans for a 75-PW laser, the Optical Parametric Amplifier Line (OPAL). It would take advantage of beamlines at OMEGA-EP, one of the countrys most powerful lasers. The OPAL is not yet funded.
+Read next:
+Dont miss the latest future news
+Subscribe and get a FREE Ebook

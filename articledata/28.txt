@@ -1,0 +1,17 @@
+['ars-technica', '28', 'Valentina Palladino', 'Apple may still depend on Samsung for OLED iPhone screens as LG hits snags', 'Manufacturing problems may make LG miss the mass-production deadline.', 'https://arstechnica.com/gadgets/2018/04/apple-may-still-depend-on-samsung-for-oled-iphone-screens-as-lg-hits-snags/', 'https://cdn.arstechnica.net/wp-content/uploads/2018/04/iPhone-X-table-front-1440x960-800x533-760x380.jpg', '2018-04-20T14:59:33+00:00']
+Sign up or login to join the discussions!
+Stay logged in
+Sign up to comment and more Sign up
+OLED woes 
+Apple may still depend on Samsung for OLED iPhone screens as LG hits snags
+Manufacturing problems may make LG miss the mass-production deadline.
+reader comments 46
+Share this story
+Apple may be losing the fight to add another OLED display manufacturer ahead of the next iPhone production cycle. According to a report by The Wall Street Journal, LG Display is struggling to make the OLED panels Apple wants for upcoming iPhone models. Apple has been working with LG, hoping it could become its second supplier of OLED smartphone panels. Apple currently sources the OLED panels for the iPhone X from rival Samsung.
+Further Reading
+Report: Apple plans three new iPhones for 2018and theyre all like the iPhone X
+The report claims thatSouth Koreas LG Display ran into "manufacturing problems" that held up display production, causing LG to fall behind Apple's pre-production timeline. Apple reportedly asked LG to go through a third round of prototype production for the OLED panels, an unusual step for most component manufacturers. Ars has reached out to Apple for further comment.
+If LG can't fix the problems it has reportedly been having and satisfy Apple's needs, it's unlikely that the company would be able to provide finished OLED panels for the next iPhones. According to people familiar with the matter, mass-production of fall-scheduled iPhone models typically begins in July.
+Three new iPhones are likely for a fall reveal: 5.8-inch and 6.5-inch models both with OLED displays, plus a lower-cost, 6.1-inch LCD model. OLED displays, among other expensive components, drove up the cost of the iPhone X, and Apple wants to diversify its OLED panel manufacturers in efforts to keep costs down. Apple currently relies on Samsung for smartphone OLED displayswhich are as expensive as $97 per paneland it may have to continue to do so. That could mean similar or higher production costs for the two upcoming OLED models, giving Apple less flexibility to lower iPhone prices.
+Samsung has a strong hold on the smartphone OLED display market, as it uses them in its own smartphones and sells them to other companies to be used in rival smartphones. LG's OLED efforts have excelled in larger display markets as the company produces many OLED TVs, but the company hasn't come up with a smartphone panel of similar quality yet. LG provided the OLED panels for its LG V30 as well as the Google Pixel 2 XL , and both suffer from graininess in low-light and uneven light levels featuring numerous hotspots.
+Valentina Palladino Valentina is the Associate Reviewer for Ars Technica, covering all gadgets with a focus on mobile devices and wearables. She has a soft spot for Chromebooks.

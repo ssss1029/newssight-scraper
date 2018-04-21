@@ -1,0 +1,28 @@
+['reuters', '384', 'Reuters Editorial', 'U.S. said to investigate AT&T, Verizon over wireless collusion claim: source', 'The U.S. Justice Department has opened a probe of potential coordination by AT&T Inc (T.N), Verizon Communications (VZ.N), a telecommunications standards organization and potentially other providers to hinder consumers from easily switching wireless carriers,\xe2\x80\xa6', 'http://feeds.reuters.com/~r/reuters/topNews/~3/xngYo12TFPs/u-s-said-to-investigate-att-verizon-over-wireless-collusion-claim-source-idUSKBN1HR2Z8', 'https://s2.reutersmedia.net/resources/r/?m=02&d=20180420&t=2&i=1253651273&w=1200&r=LYNXMPEE3J1V3', '2018-04-20T21:27:20Z']
+April 20, 2018 /  8:12 PM / Updated 4 hours ago
+U.S. said to investigate AT&T, Verizon over wireless collusion claim: source
+David Shepardson
+5 Min Read
+WASHINGTON (Reuters) - The U.S. has opened a probe into alleged coordination by AT&T Inc, Verizon Communications and a telecommunications standards organization to hinder consumers from easily switching wireless carriers, a person briefed on the matter said on Friday.
+FILE PHOTO: An AT&T logo is pictured in Pasadena, California, U.S., January 24, 2018. REUTERS/Mario Anzuoni/File Photo
+Verizon and AT&T acknowledged the government probe and said they were working with regulators.
+At issue is a technology that could make carriers business more volatile. Called eSIM, it allows consumers to switch wireless providers without having to insert a new physical SIM card, an identifying microchip. That makes it easier to compare wireless networks and easily select a new service when desired.
+Verizon called the probe much ado about nothing, adding that it has been working with the Justice Department for several months regarding the inquiry, according to spokesman Rich Young.
+The New York Times reported on Friday that the Justice Department had opened an investigation about five months ago after at least one device maker and one wireless carrier filed formal complaints with the Justice Department.
+The Justice Department sent demands to AT&T, Verizon and the GSMA, an industry standards-setting group, on efforts to thwart  eSIM.
+Apple Inc and other equipment makers have complained to the Justice Department about wireless carrier practices related to eSIM technology, two sources familiar with the matter said. Apple declined to comment.
+The reality is that we have a difference of opinion with a couple of phone equipment manufacturers regarding the development of e-SIM standards. Nothing more, Verizons Young said.
+An AT&T spokesman said in an email: Along with other GSMA members, we have provided information to the government in response to their requests and will continue to work proactively within GSMA, including with those who might disagree with the proposed standards.
+News of the probe comes at a critical time for AT&T which is being sued by the Justice Department to stop its deal to buy media company Time Warner Inc.
+FILE PHOTO: The Verizon logo is seen on the side of a truck in New York City, U.S., October 13, 2016.  REUTERS/Brendan McDermid
+The U.S. government has argued in a trial that is nearing completion that the proposed deal would spur AT&T to charge its pay TV rivals more for Time Warner content.
+However, Judge Richard Leon, who will decide if AT&T will be allowed to buy Time Warner, is unlikely to consider a report of potential wrongdoing by the wireless giant because it is irrelevant to the merger trial under way in Washington, said Seth Bloom, a veteran of the Justice Departments Antitrust Division.
+The Department of Justice and the GSMA, the telecommunications standard setting group, declined to comment on news of the investigation.
+Shares of AT&T and Verizon dipped after the initial Times report, with AT&T closing down 0.4 percent at $34.67, and Verizon ending off 1.1 percent, at $47.90.
+The person briefed on the matter told Reuters that other wireless operators potentially received inquiries from the government.
+It is common practice for the Justice Department to send CIDs, the civil equivalent of a subpoena, to all major players in the industry because the agency wants evidence from companies that allegedly participate in any conspiracy as well as those outside of it, according to Ethan Glass, a former trial attorney with the Justice Department now at the law firm Quinn Emanuel Urquhart & Sullivan LLP.
+The source said the Obama administration had investigated similar claims in 2016 but did not take any action.
+Consumer advocates learned in February that Verizon was apparently planning to lock phones as an anti-theft measure, and later were told by industry participants that Verizon was working with AT&T in hopes of convincing the GSMA to create a standard for locking the phones, according to Harold Feld, a senior vice president at Public Knowledge.
+Consumer advocates support the idea of an electronic SIM card, which is in the process of being rolled out, since it allows phone owners to bargain hunt and contract with any network or to shift networks easily while traveling, said Feld.
+I am very happy that the DOJ is taking its job as a cop on the beat very seriously, said Feld.
+Reporting by Munsif Vengattil in Bengaluru, Sheila Dang in New York and David Shepardson and Diane Bartz in Washington; Writing by Chris Sanders; Editing by Dan Grebler, Peter Henderson and Sandra Maler
