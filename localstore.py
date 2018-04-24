@@ -42,11 +42,11 @@ def writeArticle(settings, article):
         writer = csv.writer(csvfile, delimiter=' ', lineterminator='\n', quotechar='|', quoting=csv.QUOTE_ALL)
         row = []
         for col in article_store_columns:
-            if article.get(col, None) != None:
+            if article.get(col, None) != None and row.append(' '.join(article.get(col, None).split())) != "":
                 row.append(' '.join(article.get(col, None).split()))
-            elif col == "sourceId":
+            elif col == "sourceId" and row.append(article["source"]["id"]) != "":
                 row.append(article["source"]["id"])
-            elif col == "articleId":
+            elif col == "articleId" and row.append(article['id']) != "":
                 row.append(article['id'])              
             else:
                 row.append("NOVALUE")

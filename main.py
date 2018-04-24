@@ -6,6 +6,7 @@
 import time
 import requests
 import sys
+import csv
 
 from logger import log 
 from logger import err_log
@@ -42,6 +43,14 @@ while 1:
 	
 	# Get sources from News API
 	sources_json = getSources(settings)
+	
+	with open("sources.csv", "wb") as sourcescsv:
+		writer = csv.writer(sourcescsv, delimiter=',', lineterminator='\n', quotechar='"', quoting=csv.QUOTE_ALL)
+		for source in sources_json["sources"]:
+			row = [source["id"], source["name"], source["description"],  source["url"],  source["category"],  source["country"],  source["language"], 0, 0, 0]
+			row = [unicode(s).encode("utf-8") for s in row]
+			writer.writerow(row)
+	sys.exit(0)
 
 	# Send sources to app
 	res = requests.post(settings["newssight_/"] + settings["source_update_endpoint"], json={
