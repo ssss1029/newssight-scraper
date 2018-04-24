@@ -1,4 +1,4 @@
-These aren the API scraping scripts to make Newssight work
+These are the Python API scraping scripts to make Newssight work
 
 # Building and Running
 ```
@@ -64,9 +64,9 @@ def getEnvironment():
   ```
 
 # Scripts
- - `main.py`: 
+ - `main.py`: Creates and apppends to `articles.csv`
 
- - `extract_text.py`
+ - `extract_text.py`: Updates `/articledata/` folder
 
- - `entity_analysis.py`
+ - `entity_analysis.py`: Updates `/entityanalysis/` folder
   
