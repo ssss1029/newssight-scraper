@@ -17,7 +17,7 @@ colorlog==3.0.1
 configparser==3.5.0
 cycler==0.10.0
 decorator==4.1.2
-Django==1.6.11
+Django==1.11.29
 django-markwhat==1.5.1
 docker-py==1.7.2
 dockerpty==0.4.1
